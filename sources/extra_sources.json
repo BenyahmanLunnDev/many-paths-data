@@ -10,8 +10,8 @@
   "area": "Eugene, Springfield and Lane County, OR",
   "refreshDays": 7,
   "note": "Their sharing setting for apps is restricted (the plugin's default), so this is copied from their public meetings page about once a week, dated, and links back to each listing. It's replaced by their own feed if they share a key, and removed if they ask.",
-  "enabled": false,
-  "why": "Off until the owner decides: reading this site was paused on 2026-10-17. Flip to true only with that decision recorded."
+  "enabled": true,
+  "decision": "Turned on 2026-10-17 by the project owner, who is telling EVI and will switch to their feed (key) or remove it if they ask."
  },
  {
   "id": "aa-napa-sheet",

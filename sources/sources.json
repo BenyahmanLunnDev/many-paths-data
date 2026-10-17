@@ -68,6 +68,20 @@
     "restricted": true
   },
   {
+    "id": "aa-eviaa-public",
+    "name": "AA Emerald Valley Intergroup",
+    "fellowship": "AA",
+    "kind": "TSML",
+    "url": "https://benyahmanlunndev.github.io/many-paths-data/v1/feeds/aa-eviaa-public.json",
+    "website": "https://eviaaweb.org/meetings/",
+    "area": "Eugene, Springfield and Lane County, OR",
+    "centerLat": 44.05,
+    "centerLng": -123.09,
+    "radiusMiles": 60,
+    "copyOf": "aa-eviaa",
+    "note": "Copied about once a week from EVI's public meetings page, with the date and a link to each listing, until EVI shares its list with apps."
+  },
+  {
     "id": "aa-idaho18",
     "name": "AA Idaho Area 18",
     "fellowship": "AA",
