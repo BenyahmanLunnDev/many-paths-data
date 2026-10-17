@@ -1,774 +1,792 @@
 {
  "version": 1,
- "generatedAt": "2026-10-17T02:16:57+00:00",
+ "generatedAt": "2026-10-17T02:22:07+00:00",
  "counts": {
-  "ok": 215,
-  "previous": 1,
-  "failed": 29,
-  "meetings": 92475
+  "ok": 244,
+  "previous": 0,
+  "failed": 1,
+  "meetings": 104919
  },
  "sources": {
   "na-online": {
    "status": "ok",
    "count": 3019,
-   "fetchedAt": "2026-10-17T02:14:50+00:00"
+   "fetchedAt": "2026-10-17T02:19:49+00:00"
   },
   "refuge": {
    "status": "ok",
    "count": 232,
-   "fetchedAt": "2026-10-17T02:14:48+00:00"
+   "fetchedAt": "2026-10-17T02:19:48+00:00"
   },
   "dharma": {
    "status": "ok",
    "count": 955,
-   "fetchedAt": "2026-10-17T02:14:49+00:00"
+   "fetchedAt": "2026-10-17T02:19:48+00:00"
   },
   "cma": {
    "status": "ok",
    "count": 881,
-   "fetchedAt": "2026-10-17T02:14:50+00:00"
+   "fetchedAt": "2026-10-17T02:19:49+00:00"
   },
   "aa-area78-org": {
    "status": "ok",
    "count": 1099,
-   "fetchedAt": "2026-10-17T02:14:52+00:00"
+   "fetchedAt": "2026-10-17T02:19:50+00:00"
   },
   "aa-bcyukonaa-org": {
    "status": "ok",
    "count": 1140,
-   "fetchedAt": "2026-10-17T02:14:50+00:00"
+   "fetchedAt": "2026-10-17T02:19:48+00:00"
   },
   "aa-area83aa-org": {
    "status": "ok",
    "count": 1227,
-   "fetchedAt": "2026-10-17T02:14:51+00:00"
+   "fetchedAt": "2026-10-17T02:19:50+00:00"
   },
   "aa-aamanitoba-org": {
    "status": "ok",
    "count": 411,
-   "fetchedAt": "2026-10-17T02:14:51+00:00"
+   "fetchedAt": "2026-10-17T02:19:50+00:00"
   },
   "aa-area74-org": {
    "status": "ok",
    "count": 176,
-   "fetchedAt": "2026-10-17T02:14:50+00:00"
+   "fetchedAt": "2026-10-17T02:19:49+00:00"
   },
   "aa-nenyaa-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 1353,
+   "fetchedAt": "2026-10-17T02:19:49+00:00"
   },
   "aa-area82aa-org": {
    "status": "ok",
    "count": 201,
-   "fetchedAt": "2026-10-17T02:14:51+00:00"
+   "fetchedAt": "2026-10-17T02:19:50+00:00"
   },
   "aa-aasask-org": {
    "status": "ok",
    "count": 329,
-   "fetchedAt": "2026-10-17T02:14:51+00:00"
+   "fetchedAt": "2026-10-17T02:19:50+00:00"
   },
   "aa-aaregion88-org": {
    "status": "ok",
    "count": 165,
-   "fetchedAt": "2026-10-17T02:14:58+00:00"
+   "fetchedAt": "2026-10-17T02:19:57+00:00"
   },
   "aa-area02alaska-org": {
    "status": "ok",
    "count": 159,
-   "fetchedAt": "2026-10-17T02:14:53+00:00"
+   "fetchedAt": "2026-10-17T02:19:52+00:00"
   },
   "aa-ct-aa-org": {
    "status": "ok",
    "count": 1908,
-   "fetchedAt": "2026-10-17T02:14:52+00:00"
+   "fetchedAt": "2026-10-17T02:19:50+00:00"
   },
   "aa-aa-iowa-org": {
    "status": "ok",
    "count": 1321,
-   "fetchedAt": "2026-10-17T02:14:53+00:00"
+   "fetchedAt": "2026-10-17T02:19:52+00:00"
   },
   "aa-area22indiana-org": {
    "status": "ok",
    "count": 917,
-   "fetchedAt": "2026-10-17T02:14:52+00:00"
+   "fetchedAt": "2026-10-17T02:19:51+00:00"
   },
   "aa-area23aa-org": {
    "status": "ok",
    "count": 112,
-   "fetchedAt": "2026-10-17T02:14:53+00:00"
+   "fetchedAt": "2026-10-17T02:19:51+00:00"
   },
   "aa-ks-aa-org": {
    "status": "ok",
    "count": 1429,
-   "fetchedAt": "2026-10-17T02:14:53+00:00"
+   "fetchedAt": "2026-10-17T02:19:51+00:00"
   },
   "aa-area26-net": {
    "status": "ok",
    "count": 1355,
-   "fetchedAt": "2026-10-17T02:14:54+00:00"
+   "fetchedAt": "2026-10-17T02:19:52+00:00"
   },
   "aa-cmia32-org": {
    "status": "ok",
    "count": 950,
-   "fetchedAt": "2026-10-17T02:14:53+00:00"
+   "fetchedAt": "2026-10-17T02:19:52+00:00"
   },
   "aa-eamo-org": {
    "status": "ok",
    "count": 1283,
-   "fetchedAt": "2026-10-17T02:14:54+00:00"
+   "fetchedAt": "2026-10-17T02:19:55+00:00"
   },
   "aa-aa-mississippi-org": {
    "status": "ok",
    "count": 811,
-   "fetchedAt": "2026-10-17T02:14:54+00:00"
+   "fetchedAt": "2026-10-17T02:19:53+00:00"
   },
   "aa-area41-org": {
    "status": "ok",
    "count": 1177,
-   "fetchedAt": "2026-10-17T02:14:55+00:00"
+   "fetchedAt": "2026-10-17T02:19:54+00:00"
   },
   "aa-nm-aa-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 1021,
+   "fetchedAt": "2026-10-17T02:19:53+00:00"
   },
   "aa-area55aa-org": {
    "status": "ok",
    "count": 445,
-   "fetchedAt": "2026-10-17T02:14:56+00:00"
+   "fetchedAt": "2026-10-17T02:19:54+00:00"
   },
   "aa-aaoklahoma-org": {
    "status": "ok",
    "count": 1538,
-   "fetchedAt": "2026-10-17T02:14:55+00:00"
+   "fetchedAt": "2026-10-17T02:19:54+00:00"
   },
   "aa-aa-oregon-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 275,
+   "fetchedAt": "2026-10-17T02:19:54+00:00"
   },
   "aa-area59aa-org": {
    "status": "ok",
    "count": 3296,
-   "fetchedAt": "2026-10-17T02:14:56+00:00"
+   "fetchedAt": "2026-10-17T02:19:55+00:00"
   },
   "aa-wpaarea60-org": {
    "status": "ok",
    "count": 944,
-   "fetchedAt": "2026-10-17T02:14:58+00:00"
+   "fetchedAt": "2026-10-17T02:19:58+00:00"
   },
   "aa-area63aa-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 417,
+   "fetchedAt": "2026-10-17T02:19:56+00:00"
   },
   "aa-nwta66-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 774,
+   "fetchedAt": "2026-10-17T02:19:56+00:00"
   },
   "aa-aavirginia-org": {
    "status": "ok",
    "count": 2932,
-   "fetchedAt": "2026-10-17T02:14:56+00:00"
+   "fetchedAt": "2026-10-17T02:19:56+00:00"
   },
   "aa-aavt-org": {
    "status": "ok",
    "count": 527,
-   "fetchedAt": "2026-10-17T02:14:56+00:00"
+   "fetchedAt": "2026-10-17T02:19:57+00:00"
   },
   "aa-area92aa-org": {
    "status": "ok",
    "count": 1126,
-   "fetchedAt": "2026-10-17T02:14:56+00:00"
+   "fetchedAt": "2026-10-17T02:19:57+00:00"
   },
   "aa-vadist15aa-org": {
    "status": "ok",
    "count": 58,
-   "fetchedAt": "2026-10-17T02:14:57+00:00"
+   "fetchedAt": "2026-10-17T02:19:57+00:00"
   },
   "aa-coosavalleyaa-org": {
    "status": "ok",
    "count": 95,
-   "fetchedAt": "2026-10-17T02:14:56+00:00"
+   "fetchedAt": "2026-10-17T02:19:57+00:00"
   },
   "aa-gulfcoastaa-org": {
    "status": "ok",
    "count": 52,
-   "fetchedAt": "2026-10-17T02:14:57+00:00"
+   "fetchedAt": "2026-10-17T02:19:57+00:00"
   },
   "aa-the12traditions-com": {
    "status": "ok",
    "count": 44,
-   "fetchedAt": "2026-10-17T02:14:59+00:00"
+   "fetchedAt": "2026-10-17T02:19:58+00:00"
   },
   "aa-aahuntsvilleal-com": {
    "status": "ok",
    "count": 188,
-   "fetchedAt": "2026-10-17T02:14:57+00:00"
+   "fetchedAt": "2026-10-17T02:19:57+00:00"
   },
   "aa-mobileaa-org": {
    "status": "ok",
    "count": 108,
-   "fetchedAt": "2026-10-17T02:14:57+00:00"
+   "fetchedAt": "2026-10-17T02:19:57+00:00"
   },
   "aa-shoalsaa-org": {
    "status": "ok",
    "count": 114,
-   "fetchedAt": "2026-10-17T02:14:58+00:00"
+   "fetchedAt": "2026-10-17T02:20:00+00:00"
   },
   "aa-aaauburn-org": {
    "status": "ok",
    "count": 55,
-   "fetchedAt": "2026-10-17T02:14:57+00:00"
+   "fetchedAt": "2026-10-17T02:19:58+00:00"
   },
   "aa-aafsig-org": {
    "status": "ok",
    "count": 79,
-   "fetchedAt": "2026-10-17T02:14:58+00:00"
+   "fetchedAt": "2026-10-17T02:19:58+00:00"
   },
   "aa-aawcar-org": {
    "status": "ok",
    "count": 78,
-   "fetchedAt": "2026-10-17T02:14:57+00:00"
+   "fetchedAt": "2026-10-17T02:19:58+00:00"
   },
   "aa-arkansascentraloffice-org": {
    "status": "ok",
    "count": 931,
-   "fetchedAt": "2026-10-17T02:14:59+00:00"
+   "fetchedAt": "2026-10-17T02:19:59+00:00"
   },
   "aa-nwarkaa-org": {
    "status": "ok",
    "count": 227,
-   "fetchedAt": "2026-10-17T02:14:59+00:00"
+   "fetchedAt": "2026-10-17T02:19:59+00:00"
   },
   "aa-aapinalcounty-org": {
    "status": "ok",
    "count": 71,
-   "fetchedAt": "2026-10-17T02:14:59+00:00"
+   "fetchedAt": "2026-10-17T02:19:59+00:00"
   },
   "aa-centralmountain-org": {
    "status": "ok",
    "count": 87,
-   "fetchedAt": "2026-10-17T02:14:59+00:00"
+   "fetchedAt": "2026-10-17T02:20:00+00:00"
   },
   "aa-flagstaffaa-org": {
    "status": "ok",
    "count": 118,
-   "fetchedAt": "2026-10-17T02:15:00+00:00"
+   "fetchedAt": "2026-10-17T02:19:59+00:00"
   },
   "aa-aamesaaz-org": {
    "status": "ok",
    "count": 647,
-   "fetchedAt": "2026-10-17T02:15:00+00:00"
+   "fetchedAt": "2026-10-17T02:20:00+00:00"
   },
   "aa-aaphoenix-org": {
    "status": "ok",
    "count": 1905,
-   "fetchedAt": "2026-10-17T02:15:01+00:00"
+   "fetchedAt": "2026-10-17T02:20:00+00:00"
   },
   "aa-prescottaa-org": {
    "status": "ok",
    "count": 154,
-   "fetchedAt": "2026-10-17T02:15:01+00:00"
+   "fetchedAt": "2026-10-17T02:20:02+00:00"
   },
   "aa-aatucson-org": {
    "status": "ok",
    "count": 523,
-   "fetchedAt": "2026-10-17T02:15:00+00:00"
+   "fetchedAt": "2026-10-17T02:20:00+00:00"
   },
   "aa-aayuma-com": {
    "status": "ok",
    "count": 99,
-   "fetchedAt": "2026-10-17T02:15:00+00:00"
+   "fetchedAt": "2026-10-17T02:20:01+00:00"
   },
   "aa-aasolanosouth-org": {
    "status": "ok",
    "count": 106,
-   "fetchedAt": "2026-10-17T02:15:00+00:00"
+   "fetchedAt": "2026-10-17T02:20:02+00:00"
   },
   "aa-aaventuracounty-org": {
    "status": "ok",
    "count": 525,
-   "fetchedAt": "2026-10-17T02:15:01+00:00"
+   "fetchedAt": "2026-10-17T02:20:03+00:00"
   },
   "aa-aabutte-glenn-org": {
    "status": "ok",
    "count": 157,
-   "fetchedAt": "2026-10-17T02:15:01+00:00"
+   "fetchedAt": "2026-10-17T02:20:02+00:00"
   },
   "aa-aainlandempire-org": {
    "status": "ok",
    "count": 1039,
-   "fetchedAt": "2026-10-17T02:15:01+00:00"
+   "fetchedAt": "2026-10-17T02:20:01+00:00"
   },
   "aa-aadavis-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 156,
+   "fetchedAt": "2026-10-17T02:20:01+00:00"
   },
   "aa-aa-tulareco-org": {
    "status": "ok",
    "count": 194,
-   "fetchedAt": "2026-10-17T02:15:01+00:00"
+   "fetchedAt": "2026-10-17T02:20:02+00:00"
   },
   "aa-fresnoaa-org": {
    "status": "ok",
    "count": 719,
-   "fetchedAt": "2026-10-17T02:15:02+00:00"
+   "fetchedAt": "2026-10-17T02:20:03+00:00"
   },
   "aa-aanoc-org": {
    "status": "ok",
    "count": 464,
-   "fetchedAt": "2026-10-17T02:15:01+00:00"
+   "fetchedAt": "2026-10-17T02:20:02+00:00"
   },
   "aa-lakecountycaaa-com": {
    "status": "ok",
    "count": 67,
-   "fetchedAt": "2026-10-17T02:15:02+00:00"
+   "fetchedAt": "2026-10-17T02:20:03+00:00"
   },
   "aa-hacoaa-org": {
    "status": "ok",
    "count": 678,
-   "fetchedAt": "2026-10-17T02:15:03+00:00"
+   "fetchedAt": "2026-10-17T02:20:03+00:00"
   },
   "aa-sloaa-org": {
    "status": "ok",
    "count": 362,
-   "fetchedAt": "2026-10-17T02:15:03+00:00"
+   "fetchedAt": "2026-10-17T02:20:02+00:00"
   },
   "aa-aamonterey-org": {
    "status": "ok",
    "count": 151,
-   "fetchedAt": "2026-10-17T02:15:02+00:00"
+   "fetchedAt": "2026-10-17T02:20:03+00:00"
   },
   "aa-eastbayaa-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 890,
+   "fetchedAt": "2026-10-17T02:20:04+00:00"
   },
   "aa-aanorcal-org": {
    "status": "ok",
    "count": 181,
-   "fetchedAt": "2026-10-17T02:15:02+00:00"
+   "fetchedAt": "2026-10-17T02:20:03+00:00"
   },
   "aa-aasacramento-org": {
    "status": "ok",
    "count": 1229,
-   "fetchedAt": "2026-10-17T02:15:03+00:00"
+   "fetchedAt": "2026-10-17T02:20:04+00:00"
   },
   "aa-cnia30-org": {
    "status": "ok",
    "count": 66,
-   "fetchedAt": "2026-10-17T02:15:03+00:00"
+   "fetchedAt": "2026-10-17T02:20:04+00:00"
   },
   "aa-aasandiego-org": {
    "status": "ok",
    "count": 1286,
-   "fetchedAt": "2026-10-17T02:15:04+00:00"
+   "fetchedAt": "2026-10-17T02:20:06+00:00"
   },
   "aa-aasfmarin-org": {
    "status": "ok",
    "count": 887,
-   "fetchedAt": "2026-10-17T02:15:03+00:00"
+   "fetchedAt": "2026-10-17T02:20:04+00:00"
   },
   "aa-aasanjose-org": {
    "status": "ok",
    "count": 724,
-   "fetchedAt": "2026-10-17T02:15:03+00:00"
+   "fetchedAt": "2026-10-17T02:20:04+00:00"
   },
   "aa-oc-aa-org": {
    "status": "ok",
    "count": 1915,
-   "fetchedAt": "2026-10-17T02:15:04+00:00"
+   "fetchedAt": "2026-10-17T02:20:05+00:00"
   },
   "aa-aascv-org": {
    "status": "ok",
    "count": 152,
-   "fetchedAt": "2026-10-17T02:15:03+00:00"
+   "fetchedAt": "2026-10-17T02:20:05+00:00"
   },
   "aa-aaukiah-org": {
    "status": "ok",
    "count": 58,
-   "fetchedAt": "2026-10-17T02:15:05+00:00"
+   "fetchedAt": "2026-10-17T02:20:07+00:00"
   },
   "aa-ncsandiegoaa-org": {
    "status": "ok",
    "count": 795,
-   "fetchedAt": "2026-10-17T02:15:04+00:00"
+   "fetchedAt": "2026-10-17T02:20:05+00:00"
   },
   "aa-bouldercountyaa-com": {
    "status": "ok",
    "count": 256,
-   "fetchedAt": "2026-10-17T02:15:08+00:00"
+   "fetchedAt": "2026-10-17T02:20:07+00:00"
   },
   "aa-daccaa-org": {
    "status": "ok",
    "count": 1124,
-   "fetchedAt": "2026-10-17T02:15:04+00:00"
+   "fetchedAt": "2026-10-17T02:20:06+00:00"
   },
   "aa-nocoaa-org": {
    "status": "ok",
    "count": 285,
-   "fetchedAt": "2026-10-17T02:15:05+00:00"
+   "fetchedAt": "2026-10-17T02:20:06+00:00"
   },
   "aa-aa-dc-org": {
    "status": "ok",
    "count": 1039,
-   "fetchedAt": "2026-10-17T02:15:06+00:00"
+   "fetchedAt": "2026-10-17T02:20:06+00:00"
   },
   "aa-ndiaa-org": {
    "status": "ok",
    "count": 224,
-   "fetchedAt": "2026-10-17T02:15:04+00:00"
+   "fetchedAt": "2026-10-17T02:20:06+00:00"
   },
   "aa-aainpalmbeach-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 337,
+   "fetchedAt": "2026-10-17T02:20:08+00:00"
   },
   "aa-leecountyaa-org": {
    "status": "ok",
    "count": 366,
-   "fetchedAt": "2026-10-17T02:15:05+00:00"
+   "fetchedAt": "2026-10-17T02:20:07+00:00"
   },
   "aa-aagainesville-org": {
    "status": "ok",
    "count": 175,
-   "fetchedAt": "2026-10-17T02:15:07+00:00"
+   "fetchedAt": "2026-10-17T02:20:07+00:00"
   },
   "aa-neflaa-org": {
    "status": "ok",
    "count": 726,
-   "fetchedAt": "2026-10-17T02:15:08+00:00"
+   "fetchedAt": "2026-10-17T02:20:09+00:00"
   },
   "aa-aafloridakeys-org": {
    "status": "ok",
    "count": 94,
-   "fetchedAt": "2026-10-17T02:15:05+00:00"
+   "fetchedAt": "2026-10-17T02:20:08+00:00"
   },
   "aa-osceolacountyintergroup-org": {
    "status": "ok",
    "count": 78,
-   "fetchedAt": "2026-10-17T02:15:06+00:00"
+   "fetchedAt": "2026-10-17T02:20:08+00:00"
   },
   "aa-heartlandintergroup-org": {
    "status": "ok",
    "count": 207,
-   "fetchedAt": "2026-10-17T02:15:07+00:00"
+   "fetchedAt": "2026-10-17T02:20:10+00:00"
   },
   "aa-aapinellas-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 701,
+   "fetchedAt": "2026-10-17T02:20:09+00:00"
   },
   "aa-miamiaa-org": {
    "status": "ok",
    "count": 7,
-   "fetchedAt": "2026-10-17T02:15:07+00:00"
+   "fetchedAt": "2026-10-17T02:20:10+00:00"
   },
   "aa-aanaples-org": {
    "status": "ok",
    "count": 328,
-   "fetchedAt": "2026-10-17T02:15:07+00:00"
+   "fetchedAt": "2026-10-17T02:20:09+00:00"
   },
   "aa-aapasco-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 169,
+   "fetchedAt": "2026-10-17T02:20:08+00:00"
   },
   "aa-aanorthport-org": {
    "status": "ok",
    "count": 295,
-   "fetchedAt": "2026-10-17T02:15:07+00:00"
+   "fetchedAt": "2026-10-17T02:20:09+00:00"
   },
   "aa-aaocalamarion-org": {
    "status": "ok",
    "count": 167,
-   "fetchedAt": "2026-10-17T02:15:08+00:00"
+   "fetchedAt": "2026-10-17T02:20:10+00:00"
   },
   "aa-aaflagler-org": {
    "status": "ok",
    "count": 60,
-   "fetchedAt": "2026-10-17T02:15:09+00:00"
+   "fetchedAt": "2026-10-17T02:20:10+00:00"
   },
   "aa-aastlucieintergroup-com": {
    "status": "ok",
    "count": 154,
-   "fetchedAt": "2026-10-17T02:15:07+00:00"
+   "fetchedAt": "2026-10-17T02:20:10+00:00"
   },
   "aa-staugustineaa-org": {
    "status": "ok",
    "count": 80,
-   "fetchedAt": "2026-10-17T02:15:09+00:00"
+   "fetchedAt": "2026-10-17T02:20:11+00:00"
   },
   "aa-aahernando-org": {
    "status": "ok",
    "count": 97,
-   "fetchedAt": "2026-10-17T02:15:09+00:00"
+   "fetchedAt": "2026-10-17T02:20:11+00:00"
   },
   "aa-martincountyaa-org": {
    "status": "ok",
    "count": 148,
-   "fetchedAt": "2026-10-17T02:15:10+00:00"
+   "fetchedAt": "2026-10-17T02:20:13+00:00"
   },
   "aa-atlantaaa-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 1433,
+   "fetchedAt": "2026-10-17T02:20:12+00:00"
   },
   "aa-savannahaa-com": {
    "status": "ok",
    "count": 164,
-   "fetchedAt": "2026-10-17T02:15:14+00:00"
+   "fetchedAt": "2026-10-17T02:20:16+00:00"
   },
   "aa-easthawaiiaa-org": {
    "status": "ok",
    "count": 69,
-   "fetchedAt": "2026-10-17T02:15:09+00:00"
+   "fetchedAt": "2026-10-17T02:20:11+00:00"
   },
   "aa-westhawaiiaa-org": {
    "status": "ok",
    "count": 103,
-   "fetchedAt": "2026-10-17T02:15:09+00:00"
+   "fetchedAt": "2026-10-17T02:20:12+00:00"
   },
   "aa-aamaui-org": {
    "status": "ok",
    "count": 151,
-   "fetchedAt": "2026-10-17T02:15:09+00:00"
+   "fetchedAt": "2026-10-17T02:20:13+00:00"
   },
   "aa-amesaa-org": {
-   "status": "previous",
+   "status": "ok",
    "count": 81,
-   "fetchedAt": "2026-10-17T00:39:49+00:00",
-   "error": "HTTP 520"
+   "fetchedAt": "2026-10-17T02:20:12+00:00"
   },
   "aa-aaseiowa-org": {
    "status": "ok",
    "count": 42,
-   "fetchedAt": "2026-10-17T02:15:12+00:00"
+   "fetchedAt": "2026-10-17T02:20:39+00:00"
   },
   "aa-aa-cedarrapids-org": {
    "status": "ok",
    "count": 108,
-   "fetchedAt": "2026-10-17T02:15:14+00:00"
+   "fetchedAt": "2026-10-17T02:20:16+00:00"
   },
   "aa-aaquadcities-org": {
    "status": "ok",
    "count": 214,
-   "fetchedAt": "2026-10-17T02:15:10+00:00"
+   "fetchedAt": "2026-10-17T02:20:13+00:00"
   },
   "aa-aaiowacity-org": {
    "status": "ok",
    "count": 84,
-   "fetchedAt": "2026-10-17T02:15:12+00:00"
+   "fetchedAt": "2026-10-17T02:20:17+00:00"
   },
   "aa-iadistrict13aa-org": {
    "status": "ok",
    "count": 83,
-   "fetchedAt": "2026-10-17T02:15:10+00:00"
+   "fetchedAt": "2026-10-17T02:20:13+00:00"
   },
   "aa-area21district10aa-org": {
    "status": "ok",
    "count": 83,
-   "fetchedAt": "2026-10-17T02:15:11+00:00"
+   "fetchedAt": "2026-10-17T02:20:14+00:00"
   },
   "aa-southernillinoisaa-org": {
    "status": "ok",
    "count": 43,
-   "fetchedAt": "2026-10-17T02:15:11+00:00"
+   "fetchedAt": "2026-10-17T02:20:14+00:00"
   },
   "aa-aaci11-org": {
    "status": "ok",
    "count": 48,
-   "fetchedAt": "2026-10-17T02:15:11+00:00"
+   "fetchedAt": "2026-10-17T02:20:15+00:00"
   },
   "aa-aa-nia-dist42-com": {
    "status": "ok",
    "count": 82,
-   "fetchedAt": "2026-10-17T02:15:12+00:00"
+   "fetchedAt": "2026-10-17T02:20:15+00:00"
   },
   "aa-dupage41aa-org": {
    "status": "ok",
    "count": 114,
-   "fetchedAt": "2026-10-17T02:15:12+00:00"
+   "fetchedAt": "2026-10-17T02:20:15+00:00"
   },
   "aa-aadistrict51-org": {
    "status": "ok",
    "count": 196,
-   "fetchedAt": "2026-10-17T02:15:13+00:00"
+   "fetchedAt": "2026-10-17T02:20:16+00:00"
   },
   "aa-district10nia-org": {
    "status": "ok",
    "count": 167,
-   "fetchedAt": "2026-10-17T02:15:15+00:00"
+   "fetchedAt": "2026-10-17T02:20:18+00:00"
   },
   "aa-aad20-org": {
    "status": "ok",
    "count": 30,
-   "fetchedAt": "2026-10-17T02:15:13+00:00"
+   "fetchedAt": "2026-10-17T02:20:16+00:00"
   },
   "aa-district7aa-com": {
    "status": "ok",
    "count": 16,
-   "fetchedAt": "2026-10-17T02:15:13+00:00"
+   "fetchedAt": "2026-10-17T02:20:16+00:00"
   },
   "aa-aa-nia-dist43-org": {
    "status": "ok",
    "count": 100,
-   "fetchedAt": "2026-10-17T02:15:13+00:00"
+   "fetchedAt": "2026-10-17T02:20:17+00:00"
   },
   "aa-aad5-org": {
    "status": "ok",
    "count": 28,
-   "fetchedAt": "2026-10-17T02:15:14+00:00"
+   "fetchedAt": "2026-10-17T02:20:18+00:00"
   },
   "aa-aaspringfield-org": {
    "status": "ok",
    "count": 128,
-   "fetchedAt": "2026-10-17T02:15:17+00:00"
+   "fetchedAt": "2026-10-17T02:20:21+00:00"
   },
   "aa-southwesternindianaaa-org": {
    "status": "ok",
    "count": 136,
-   "fetchedAt": "2026-10-17T02:15:14+00:00"
+   "fetchedAt": "2026-10-17T02:20:17+00:00"
   },
   "aa-indyaa-org": {
    "status": "ok",
    "count": 464,
-   "fetchedAt": "2026-10-17T02:15:15+00:00"
+   "fetchedAt": "2026-10-17T02:20:18+00:00"
   },
   "aa-aa-ksdist23-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 72,
+   "fetchedAt": "2026-10-17T02:20:18+00:00"
   },
   "aa-aatopeka-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 98,
+   "fetchedAt": "2026-10-17T02:20:18+00:00"
   },
   "aa-bowlinggreenaa-org": {
    "status": "ok",
    "count": 67,
-   "fetchedAt": "2026-10-17T02:15:15+00:00"
+   "fetchedAt": "2026-10-17T02:20:19+00:00"
   },
   "aa-bluegrassintergroup-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 413,
+   "fetchedAt": "2026-10-17T02:20:19+00:00"
   },
   "aa-loukyaa-org": {
    "status": "ok",
    "count": 537,
-   "fetchedAt": "2026-10-17T02:15:15+00:00"
+   "fetchedAt": "2026-10-17T02:20:19+00:00"
   },
   "aa-wkintergroup-org": {
    "status": "ok",
    "count": 136,
-   "fetchedAt": "2026-10-17T02:15:16+00:00"
+   "fetchedAt": "2026-10-17T02:20:22+00:00"
   },
   "aa-aa-acadiana-org": {
    "status": "ok",
    "count": 176,
-   "fetchedAt": "2026-10-17T02:15:15+00:00"
+   "fetchedAt": "2026-10-17T02:20:20+00:00"
   },
   "aa-aa-swla-org": {
    "status": "ok",
    "count": 57,
-   "fetchedAt": "2026-10-17T02:15:16+00:00"
+   "fetchedAt": "2026-10-17T02:20:20+00:00"
   },
   "aa-ladistrict4-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 110,
+   "fetchedAt": "2026-10-17T02:20:20+00:00"
   },
   "aa-capecodaa-net": {
    "status": "ok",
    "count": 354,
-   "fetchedAt": "2026-10-17T02:15:16+00:00"
+   "fetchedAt": "2026-10-17T02:20:21+00:00"
   },
   "aa-westcentralaa-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 143,
+   "fetchedAt": "2026-10-17T02:20:21+00:00"
   },
   "aa-hagerstownaa-org": {
    "status": "ok",
    "count": 62,
-   "fetchedAt": "2026-10-17T02:15:16+00:00"
+   "fetchedAt": "2026-10-17T02:20:21+00:00"
   },
   "aa-ocaa-org": {
    "status": "ok",
    "count": 31,
-   "fetchedAt": "2026-10-17T02:15:16+00:00"
+   "fetchedAt": "2026-10-17T02:20:21+00:00"
   },
   "aa-downeastintergroup-org": {
    "status": "ok",
    "count": 188,
-   "fetchedAt": "2026-10-17T02:15:19+00:00"
+   "fetchedAt": "2026-10-17T02:20:24+00:00"
   },
   "aa-district28aa-com": {
    "status": "ok",
    "count": 41,
-   "fetchedAt": "2026-10-17T02:15:16+00:00"
+   "fetchedAt": "2026-10-17T02:20:23+00:00"
   },
   "aa-baycountyaa-org": {
    "status": "ok",
    "count": 55,
-   "fetchedAt": "2026-10-17T02:15:22+00:00"
+   "fetchedAt": "2026-10-17T02:20:28+00:00"
   },
   "aa-aadistrict15mi-com": {
    "status": "ok",
    "count": 26,
-   "fetchedAt": "2026-10-17T02:15:22+00:00"
+   "fetchedAt": "2026-10-17T02:20:29+00:00"
   },
   "aa-aaferndale-org": {
    "status": "ok",
    "count": 1519,
-   "fetchedAt": "2026-10-17T02:15:19+00:00"
+   "fetchedAt": "2026-10-17T02:20:24+00:00"
   },
   "aa-geneseecountyaa-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 192,
+   "fetchedAt": "2026-10-17T02:20:24+00:00"
   },
   "aa-grandrapidsaa-org": {
    "status": "ok",
    "count": 690,
-   "fetchedAt": "2026-10-17T02:15:18+00:00"
+   "fetchedAt": "2026-10-17T02:20:25+00:00"
   },
   "aa-wmd3aa-org": {
    "status": "ok",
    "count": 112,
-   "fetchedAt": "2026-10-17T02:15:18+00:00"
+   "fetchedAt": "2026-10-17T02:20:25+00:00"
   },
   "aa-aalansingmi-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 325,
+   "fetchedAt": "2026-10-17T02:20:25+00:00"
   },
   "aa-gratiotisabellacounty-aa-com": {
    "status": "ok",
    "count": 48,
-   "fetchedAt": "2026-10-17T02:15:19+00:00"
+   "fetchedAt": "2026-10-17T02:20:25+00:00"
   },
   "aa-aaminneapolis-org": {
    "status": "ok",
    "count": 980,
-   "fetchedAt": "2026-10-17T02:15:19+00:00"
+   "fetchedAt": "2026-10-17T02:20:25+00:00"
   },
   "aa-aasaintcloud-org": {
    "status": "ok",
    "count": 1067,
-   "fetchedAt": "2026-10-17T02:15:19+00:00"
+   "fetchedAt": "2026-10-17T02:20:26+00:00"
   },
   "aa-aacomm-org": {
    "status": "ok",
    "count": 199,
-   "fetchedAt": "2026-10-17T02:15:20+00:00"
+   "fetchedAt": "2026-10-17T02:20:26+00:00"
   },
   "aa-kc-aa-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 1382,
+   "fetchedAt": "2026-10-17T02:20:27+00:00"
   },
   "aa-tricountyaa-org": {
    "status": "ok",
    "count": 134,
-   "fetchedAt": "2026-10-17T02:15:22+00:00"
+   "fetchedAt": "2026-10-17T02:20:27+00:00"
   },
   "aa-aastl-org": {
    "status": "ok",
    "count": 978,
-   "fetchedAt": "2026-10-17T02:15:21+00:00"
+   "fetchedAt": "2026-10-17T02:20:27+00:00"
   },
   "aa-moorecountyaa-org": {
    "status": "ok",
    "count": 80,
-   "fetchedAt": "2026-10-17T02:15:20+00:00"
+   "fetchedAt": "2026-10-17T02:20:28+00:00"
   },
   "aa-booneaa-org": {
    "status": "failed",
@@ -777,433 +795,442 @@
   "aa-ncdistrict11-org": {
    "status": "ok",
    "count": 69,
-   "fetchedAt": "2026-10-17T02:15:20+00:00"
+   "fetchedAt": "2026-10-17T02:20:28+00:00"
   },
   "aa-aanc33-org": {
    "status": "ok",
    "count": 129,
-   "fetchedAt": "2026-10-17T02:15:21+00:00"
+   "fetchedAt": "2026-10-17T02:20:28+00:00"
   },
   "aa-aajacksonvillenc-org": {
    "status": "ok",
    "count": 82,
-   "fetchedAt": "2026-10-17T02:15:21+00:00"
+   "fetchedAt": "2026-10-17T02:20:28+00:00"
   },
   "aa-aaobx-com": {
    "status": "ok",
    "count": 62,
-   "fetchedAt": "2026-10-17T02:15:22+00:00"
+   "fetchedAt": "2026-10-17T02:20:31+00:00"
   },
   "aa-raleighaa-com": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 387,
+   "fetchedAt": "2026-10-17T02:20:29+00:00"
   },
   "aa-aa91nc-org": {
    "status": "ok",
    "count": 44,
-   "fetchedAt": "2026-10-17T02:15:22+00:00"
+   "fetchedAt": "2026-10-17T02:20:29+00:00"
   },
   "aa-nwpi-net": {
    "status": "ok",
    "count": 155,
-   "fetchedAt": "2026-10-17T02:15:23+00:00"
+   "fetchedAt": "2026-10-17T02:20:29+00:00"
   },
   "aa-omahaaa-org": {
    "status": "ok",
    "count": 648,
-   "fetchedAt": "2026-10-17T02:15:24+00:00"
+   "fetchedAt": "2026-10-17T02:20:33+00:00"
   },
   "aa-capeatlanticaa-org": {
    "status": "ok",
    "count": 397,
-   "fetchedAt": "2026-10-17T02:15:26+00:00"
+   "fetchedAt": "2026-10-17T02:20:32+00:00"
   },
   "aa-santafeaa-org": {
    "status": "ok",
    "count": 110,
-   "fetchedAt": "2026-10-17T02:15:28+00:00"
+   "fetchedAt": "2026-10-17T02:20:36+00:00"
   },
   "aa-lvcentraloffice-org": {
    "status": "ok",
    "count": 1156,
-   "fetchedAt": "2026-10-17T02:15:23+00:00"
+   "fetchedAt": "2026-10-17T02:20:32+00:00"
   },
   "aa-aaalbanyny-org": {
    "status": "ok",
    "count": 1353,
-   "fetchedAt": "2026-10-17T02:15:25+00:00"
+   "fetchedAt": "2026-10-17T02:20:34+00:00"
   },
   "aa-queensaa-org": {
    "status": "ok",
    "count": 333,
-   "fetchedAt": "2026-10-17T02:15:24+00:00"
+   "fetchedAt": "2026-10-17T02:20:34+00:00"
   },
   "aa-livingstonareaintergroup-org": {
    "status": "ok",
    "count": 47,
-   "fetchedAt": "2026-10-17T02:15:24+00:00"
+   "fetchedAt": "2026-10-17T02:20:33+00:00"
   },
   "aa-orangenyaa-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 162,
+   "fetchedAt": "2026-10-17T02:20:35+00:00"
   },
   "aa-aaithaca-org": {
    "status": "ok",
    "count": 63,
-   "fetchedAt": "2026-10-17T02:15:25+00:00"
+   "fetchedAt": "2026-10-17T02:20:34+00:00"
   },
   "aa-nyintergroup-org": {
    "status": "ok",
    "count": 2881,
-   "fetchedAt": "2026-10-17T02:15:27+00:00"
+   "fetchedAt": "2026-10-17T02:20:36+00:00"
   },
   "aa-niagarafallsnyaameetings-com": {
    "status": "ok",
    "count": 30,
-   "fetchedAt": "2026-10-17T02:15:25+00:00"
+   "fetchedAt": "2026-10-17T02:20:35+00:00"
   },
   "aa-district0660-org": {
    "status": "ok",
    "count": 20,
-   "fetchedAt": "2026-10-17T02:15:25+00:00"
+   "fetchedAt": "2026-10-17T02:20:37+00:00"
   },
   "aa-aa-stlawrenceny-org": {
    "status": "ok",
    "count": 28,
-   "fetchedAt": "2026-10-17T02:15:27+00:00"
+   "fetchedAt": "2026-10-17T02:20:37+00:00"
   },
   "aa-suffolkny-aa-org": {
    "status": "ok",
    "count": 888,
-   "fetchedAt": "2026-10-17T02:15:28+00:00"
+   "fetchedAt": "2026-10-17T02:20:37+00:00"
   },
   "aa-aasyracuse-org": {
    "status": "ok",
    "count": 400,
-   "fetchedAt": "2026-10-17T02:15:26+00:00"
+   "fetchedAt": "2026-10-17T02:20:37+00:00"
   },
   "aa-aajci-org": {
    "status": "ok",
    "count": 49,
-   "fetchedAt": "2026-10-17T02:15:27+00:00"
+   "fetchedAt": "2026-10-17T02:20:37+00:00"
   },
   "aa-nassauintergroup-org": {
    "status": "ok",
    "count": 642,
-   "fetchedAt": "2026-10-17T02:15:28+00:00"
+   "fetchedAt": "2026-10-17T02:20:38+00:00"
   },
   "aa-aaigo-net": {
    "status": "ok",
    "count": 62,
-   "fetchedAt": "2026-10-17T02:15:29+00:00"
+   "fetchedAt": "2026-10-17T02:20:39+00:00"
   },
   "aa-aacincinnati-org": {
    "status": "ok",
    "count": 683,
-   "fetchedAt": "2026-10-17T02:15:34+00:00"
+   "fetchedAt": "2026-10-17T02:20:38+00:00"
   },
   "aa-aacentralohio-org": {
    "status": "ok",
    "count": 845,
-   "fetchedAt": "2026-10-17T02:15:29+00:00"
+   "fetchedAt": "2026-10-17T02:20:38+00:00"
   },
   "aa-aadaytononline-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 401,
+   "fetchedAt": "2026-10-17T02:20:39+00:00"
   },
   "aa-lancasterareaintergroup-org": {
    "status": "ok",
    "count": 50,
-   "fetchedAt": "2026-10-17T02:15:29+00:00"
+   "fetchedAt": "2026-10-17T02:20:39+00:00"
   },
   "aa-mansfieldaa-org": {
    "status": "ok",
    "count": 46,
-   "fetchedAt": "2026-10-17T02:15:29+00:00"
+   "fetchedAt": "2026-10-17T02:20:39+00:00"
   },
   "aa-aayaig-org": {
    "status": "ok",
    "count": 219,
-   "fetchedAt": "2026-10-17T02:15:29+00:00"
+   "fetchedAt": "2026-10-17T02:20:39+00:00"
   },
   "aa-okcintergroup-org": {
    "status": "ok",
    "count": 996,
-   "fetchedAt": "2026-10-17T02:15:30+00:00"
+   "fetchedAt": "2026-10-17T02:20:40+00:00"
   },
   "aa-aaneok-org": {
    "status": "ok",
    "count": 542,
-   "fetchedAt": "2026-10-17T02:15:30+00:00"
+   "fetchedAt": "2026-10-17T02:20:41+00:00"
   },
   "aa-aaoregon-district21-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 116,
+   "fetchedAt": "2026-10-17T02:20:40+00:00"
   },
   "aa-grantspassaa-com": {
    "status": "ok",
    "count": 71,
-   "fetchedAt": "2026-10-17T02:15:31+00:00"
+   "fetchedAt": "2026-10-17T02:20:40+00:00"
   },
   "aa-klciaa-org": {
    "status": "ok",
    "count": 51,
-   "fetchedAt": "2026-10-17T02:15:30+00:00"
+   "fetchedAt": "2026-10-17T02:20:40+00:00"
   },
   "aa-jccoaa-org": {
    "status": "ok",
    "count": 115,
-   "fetchedAt": "2026-10-17T02:15:30+00:00"
+   "fetchedAt": "2026-10-17T02:20:40+00:00"
   },
   "aa-westsidecentraloffice-com": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 411,
+   "fetchedAt": "2026-10-17T02:20:40+00:00"
   },
   "aa-coigaa-org": {
    "status": "ok",
    "count": 176,
-   "fetchedAt": "2026-10-17T02:15:31+00:00"
+   "fetchedAt": "2026-10-17T02:20:41+00:00"
   },
   "aa-roseburgaa-org": {
    "status": "ok",
    "count": 50,
-   "fetchedAt": "2026-10-17T02:15:31+00:00"
+   "fetchedAt": "2026-10-17T02:20:41+00:00"
   },
   "aa-d35pa-aa-org": {
    "status": "ok",
    "count": 99,
-   "fetchedAt": "2026-10-17T02:15:30+00:00"
+   "fetchedAt": "2026-10-17T02:20:41+00:00"
   },
   "aa-aaharrisburg-org": {
    "status": "ok",
    "count": 186,
-   "fetchedAt": "2026-10-17T02:15:31+00:00"
+   "fetchedAt": "2026-10-17T02:20:41+00:00"
   },
   "aa-lancasteraa-org": {
-   "status": "failed",
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "status": "ok",
+   "count": 143,
+   "fetchedAt": "2026-10-17T02:20:41+00:00"
   },
   "aa-readingberksintergroup-org": {
    "status": "ok",
    "count": 138,
-   "fetchedAt": "2026-10-17T02:15:31+00:00"
+   "fetchedAt": "2026-10-17T02:20:42+00:00"
   },
   "aa-district43-com": {
    "status": "ok",
    "count": 59,
-   "fetchedAt": "2026-10-17T02:15:33+00:00"
+   "fetchedAt": "2026-10-17T02:20:43+00:00"
   },
   "aa-poconointergroupaa-org": {
    "status": "ok",
    "count": 99,
-   "fetchedAt": "2026-10-17T02:15:32+00:00"
+   "fetchedAt": "2026-10-17T02:20:42+00:00"
   },
   "aa-district48aa-org": {
    "status": "ok",
    "count": 50,
-   "fetchedAt": "2026-10-17T02:15:32+00:00"
+   "fetchedAt": "2026-10-17T02:20:43+00:00"
   },
   "aa-rhodeisland-aa-org": {
    "status": "ok",
    "count": 710,
-   "fetchedAt": "2026-10-17T02:15:32+00:00"
+   "fetchedAt": "2026-10-17T02:20:42+00:00"
   },
   "aa-upstateintergroup-org": {
    "status": "ok",
    "count": 299,
-   "fetchedAt": "2026-10-17T02:15:33+00:00"
+   "fetchedAt": "2026-10-17T02:20:44+00:00"
   },
   "aa-tcio-org": {
    "status": "ok",
    "count": 287,
-   "fetchedAt": "2026-10-17T02:15:33+00:00"
+   "fetchedAt": "2026-10-17T02:20:43+00:00"
   },
   "aa-chattanooga-aa-com": {
    "status": "ok",
    "count": 287,
-   "fetchedAt": "2026-10-17T02:15:33+00:00"
+   "fetchedAt": "2026-10-17T02:20:43+00:00"
   },
   "aa-aawesttn-org": {
    "status": "ok",
    "count": 112,
-   "fetchedAt": "2026-10-17T02:15:33+00:00"
+   "fetchedAt": "2026-10-17T02:20:43+00:00"
   },
   "aa-etiaa-org": {
    "status": "ok",
    "count": 469,
-   "fetchedAt": "2026-10-17T02:15:35+00:00"
+   "fetchedAt": "2026-10-17T02:20:44+00:00"
   },
   "aa-memphis-aa-org": {
    "status": "ok",
    "count": 389,
-   "fetchedAt": "2026-10-17T02:15:34+00:00"
+   "fetchedAt": "2026-10-17T02:20:45+00:00"
   },
   "aa-aanashville-org": {
    "status": "ok",
    "count": 1021,
-   "fetchedAt": "2026-10-17T02:15:34+00:00"
+   "fetchedAt": "2026-10-17T02:20:44+00:00"
   },
   "aa-cbiaa-org": {
    "status": "ok",
    "count": 264,
-   "fetchedAt": "2026-10-17T02:15:34+00:00"
+   "fetchedAt": "2026-10-17T02:20:44+00:00"
   },
   "aa-alcoholicosanonimosdallas-org": {
    "status": "ok",
    "count": 523,
-   "fetchedAt": "2026-10-17T02:15:34+00:00"
+   "fetchedAt": "2026-10-17T02:20:44+00:00"
   },
   "aa-aahouston-org": {
    "status": "ok",
    "count": 1958,
-   "fetchedAt": "2026-10-17T02:15:39+00:00"
+   "fetchedAt": "2026-10-17T02:20:48+00:00"
   },
   "aa-aargvdist10-org": {
    "status": "ok",
    "count": 49,
-   "fetchedAt": "2026-10-17T02:15:36+00:00"
+   "fetchedAt": "2026-10-17T02:20:45+00:00"
   },
   "aa-aasanantonio-org": {
    "status": "ok",
    "count": 1055,
-   "fetchedAt": "2026-10-17T02:15:35+00:00"
+   "fetchedAt": "2026-10-17T02:20:45+00:00"
   },
   "aa-tyleraa-org": {
    "status": "ok",
    "count": 494,
-   "fetchedAt": "2026-10-17T02:15:37+00:00"
+   "fetchedAt": "2026-10-17T02:20:47+00:00"
   },
   "aa-cachevalleyaa-org": {
    "status": "ok",
    "count": 31,
-   "fetchedAt": "2026-10-17T02:15:36+00:00"
+   "fetchedAt": "2026-10-17T02:20:46+00:00"
   },
   "aa-dixieaaoffice-com": {
    "status": "ok",
    "count": 112,
-   "fetchedAt": "2026-10-17T02:15:38+00:00"
+   "fetchedAt": "2026-10-17T02:20:48+00:00"
   },
   "aa-aaheartofva-org": {
    "status": "ok",
    "count": 132,
-   "fetchedAt": "2026-10-17T02:15:37+00:00"
+   "fetchedAt": "2026-10-17T02:20:46+00:00"
   },
   "aa-aarichmond-org": {
    "status": "ok",
    "count": 395,
-   "fetchedAt": "2026-10-17T02:15:36+00:00"
+   "fetchedAt": "2026-10-17T02:20:47+00:00"
   },
   "aa-aaroanoke-org": {
    "status": "ok",
    "count": 90,
-   "fetchedAt": "2026-10-17T02:15:37+00:00"
+   "fetchedAt": "2026-10-17T02:20:47+00:00"
   },
   "aa-tidewaterintergroup-org": {
    "status": "ok",
    "count": 357,
-   "fetchedAt": "2026-10-17T02:15:38+00:00"
+   "fetchedAt": "2026-10-17T02:20:48+00:00"
   },
   "aa-eastsideaa-org": {
    "status": "ok",
    "count": 436,
-   "fetchedAt": "2026-10-17T02:15:37+00:00"
+   "fetchedAt": "2026-10-17T02:20:48+00:00"
   },
   "aa-whatcomaa-org": {
    "status": "ok",
    "count": 156,
-   "fetchedAt": "2026-10-17T02:15:39+00:00"
+   "fetchedAt": "2026-10-17T02:20:49+00:00"
   },
   "aa-district22aa-org": {
    "status": "ok",
    "count": 24,
-   "fetchedAt": "2026-10-17T02:15:39+00:00"
+   "fetchedAt": "2026-10-17T02:20:48+00:00"
   },
   "aa-seattleaa-org": {
    "status": "ok",
    "count": 1616,
-   "fetchedAt": "2026-10-17T02:15:39+00:00"
+   "fetchedAt": "2026-10-17T02:20:50+00:00"
   },
   "aa-aaspokane-org": {
    "status": "ok",
    "count": 241,
-   "fetchedAt": "2026-10-17T02:15:39+00:00"
+   "fetchedAt": "2026-10-17T02:20:49+00:00"
   },
   "aa-aadistrict8-org": {
    "status": "ok",
    "count": 157,
-   "fetchedAt": "2026-10-17T02:15:39+00:00"
+   "fetchedAt": "2026-10-17T02:20:49+00:00"
   },
   "aa-district05-org": {
    "status": "ok",
    "count": 119,
-   "fetchedAt": "2026-10-17T02:15:39+00:00"
+   "fetchedAt": "2026-10-17T02:20:49+00:00"
   },
   "aa-doorkewauneeaa-org": {
    "status": "ok",
    "count": 24,
-   "fetchedAt": "2026-10-17T02:15:39+00:00"
+   "fetchedAt": "2026-10-17T02:20:49+00:00"
   },
   "aa-aamadisonwi-org": {
    "status": "ok",
    "count": 521,
-   "fetchedAt": "2026-10-17T02:15:40+00:00"
+   "fetchedAt": "2026-10-17T02:20:50+00:00"
   },
   "aa-racinecentraloffice-org": {
    "status": "ok",
    "count": 246,
-   "fetchedAt": "2026-10-17T02:15:40+00:00"
+   "fetchedAt": "2026-10-17T02:20:49+00:00"
   },
   "aa-northwoodsaa-org": {
    "status": "ok",
    "count": 57,
-   "fetchedAt": "2026-10-17T02:15:40+00:00"
+   "fetchedAt": "2026-10-17T02:20:50+00:00"
   },
   "aa-aawidistrict04-org": {
    "status": "ok",
    "count": 29,
-   "fetchedAt": "2026-10-17T02:15:40+00:00"
+   "fetchedAt": "2026-10-17T02:20:52+00:00"
   },
   "aa-wiaadistrict3-org": {
    "status": "ok",
    "count": 12,
-   "fetchedAt": "2026-10-17T02:15:40+00:00"
+   "fetchedAt": "2026-10-17T02:20:51+00:00"
   },
   "aa-napa-sheet": {
    "status": "ok",
-   "count": 19,
-   "fetchedAt": "2026-10-17T02:16:51+00:00"
+   "count": 86,
+   "fetchedAt": "2026-10-17T02:21:59+00:00"
   },
   "aa-kalamazoo-sheet": {
    "status": "ok",
-   "count": 6,
-   "fetchedAt": "2026-10-17T02:16:53+00:00"
+   "count": 165,
+   "fetchedAt": "2026-10-17T02:22:00+00:00"
   },
   "aa-midland-sheet": {
-   "status": "failed",
-   "error": "no meetings found"
+   "status": "ok",
+   "count": 26,
+   "fetchedAt": "2026-10-17T02:22:01+00:00"
   },
   "aa-binghamton-sheet": {
    "status": "ok",
-   "count": 14,
-   "fetchedAt": "2026-10-17T02:16:55+00:00"
+   "count": 84,
+   "fetchedAt": "2026-10-17T02:22:02+00:00"
   },
   "aa-rivercities-sheet": {
    "status": "ok",
-   "count": 1,
-   "fetchedAt": "2026-10-17T02:16:55+00:00"
+   "count": 148,
+   "fetchedAt": "2026-10-17T02:22:03+00:00"
   },
   "aa-district24mi-sheet": {
-   "status": "failed",
-   "error": "no meetings found"
+   "status": "ok",
+   "count": 37,
+   "fetchedAt": "2026-10-17T02:22:04+00:00"
   },
   "aa-district80il-sheet": {
-   "status": "failed",
-   "error": "no meetings found"
+   "status": "ok",
+   "count": 57,
+   "fetchedAt": "2026-10-17T02:22:07+00:00"
   },
   "local": {
    "status": "ok",
    "count": 6,
-   "fetchedAt": "2026-10-17T02:16:57+00:00"
+   "fetchedAt": "2026-10-17T02:22:07+00:00"
   }
  }
 }
