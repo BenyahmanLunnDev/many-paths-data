@@ -1,0 +1,124 @@
+[
+  {
+    "id": "na",
+    "name": "Narcotics Anonymous",
+    "fellowship": "NA",
+    "kind": "BMLT_NEARBY",
+    "url": "https://aggregator.bmltenabled.org/main_server/",
+    "website": "https://www.na.org/meetingsearch/",
+    "area": "Every NA area that publishes to the shared NA meeting database"
+  },
+  {
+    "id": "na-online",
+    "name": "Narcotics Anonymous online",
+    "fellowship": "NA",
+    "kind": "BMLT_ONLINE",
+    "url": "https://bmlt.virtual-na.org/main_server/",
+    "website": "https://www.na.org/meetingsearch/virtual-meeting-search/",
+    "area": "Online, worldwide"
+  },
+  {
+    "id": "refuge",
+    "name": "Refuge Recovery",
+    "fellowship": "REFUGE",
+    "kind": "TSML",
+    "url": "https://refugerecoverymeetings.org/wp-admin/admin-ajax.php?action=meetings",
+    "website": "https://refugerecoverymeetings.org/meetings/",
+    "area": "Nationwide and online"
+  },
+  {
+    "id": "dharma",
+    "name": "Recovery Dharma",
+    "fellowship": "DHARMA",
+    "kind": "TSML",
+    "url": "https://recoverydharma.org/wp-admin/admin-ajax.php?action=meetings",
+    "website": "https://recoverydharma.org/meetings/",
+    "area": "Worldwide and online"
+  },
+  {
+    "id": "cma",
+    "name": "Crystal Meth Anonymous",
+    "fellowship": "CMA",
+    "kind": "TSML",
+    "url": "https://www.crystalmeth.org/wp-admin/admin-ajax.php?action=meetings",
+    "website": "https://www.crystalmeth.org/meetings/",
+    "area": "Worldwide and online"
+  },
+  {
+    "id": "local",
+    "name": "Local groups entered by hand",
+    "fellowship": "OTHER",
+    "kind": "BUNDLED",
+    "url": "curated_meetings.json",
+    "website": "https://restoredconnections.org/activities-and-events/",
+    "area": "Eugene, OR: Restored Connections Peer Center",
+    "note": "Groups that keep a calendar but no meeting feed. Copied from Restored Connections' calendar on Oct 14, 2026, including holiday closures through December."
+  },
+  {
+    "id": "aa-eviaa",
+    "name": "AA Emerald Valley Intergroup",
+    "fellowship": "AA",
+    "kind": "TSML",
+    "url": "https://www.eviaa.org/wp-admin/admin-ajax.php?action=meetings",
+    "website": "https://eviaaweb.org/meetings/",
+    "area": "Eugene, Springfield and Lane County, OR",
+    "centerLat": 44.05,
+    "centerLng": -123.09,
+    "radiusMiles": 60,
+    "restricted": true
+  },
+  {
+    "id": "aa-idaho18",
+    "name": "AA Idaho Area 18",
+    "fellowship": "AA",
+    "kind": "TSML",
+    "url": "https://idahoarea18aa.org/wp-admin/admin-ajax.php?action=meetings",
+    "website": "https://idahoarea18aa.org/meetings/",
+    "area": "Idaho",
+    "centerLat": 44.4,
+    "centerLng": -114.6,
+    "radiusMiles": 300,
+    "restricted": true
+  },
+  {
+    "id": "link-meeting-guide",
+    "name": "Meeting Guide (AA's official app)",
+    "fellowship": "AA",
+    "kind": "LINK",
+    "website": "https://www.aa.org/meeting-guide-app",
+    "area": "AA, nationwide",
+    "note": "Use it for AA anywhere this app doesn't have a list yet."
+  },
+  {
+    "id": "link-smart",
+    "name": "SMART Recovery meeting finder",
+    "fellowship": "SMART",
+    "kind": "LINK",
+    "website": "https://meetings.smartrecovery.org/meetings/",
+    "area": "Worldwide and online"
+  },
+  {
+    "id": "link-wellbriety",
+    "name": "Wellbriety circles (White Bison)",
+    "fellowship": "WELLBRIETY",
+    "kind": "LINK",
+    "website": "https://whitebison.org/wellbriety-meeting-flyers-2/",
+    "area": "Nationwide and online"
+  },
+  {
+    "id": "link-lifering",
+    "name": "LifeRing online meetings",
+    "fellowship": "OTHER",
+    "kind": "LINK",
+    "website": "https://meetings.lifering.org/meetings/?scope=only",
+    "area": "Online"
+  },
+  {
+    "id": "link-celebrate",
+    "name": "Celebrate Recovery locator",
+    "fellowship": "OTHER",
+    "kind": "LINK",
+    "website": "https://crlocator.com/",
+    "area": "Nationwide"
+  }
+]

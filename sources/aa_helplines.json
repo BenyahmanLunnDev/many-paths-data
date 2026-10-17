@@ -1,0 +1,9511 @@
+[
+ {
+  "name": "Anchorage Intergroup Office",
+  "fellowship": "AA",
+  "area": "Anchorage, AK",
+  "lat": 61.2176,
+  "lng": -149.8997,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(907) 272-2312"
+   }
+  ],
+  "website": "http://www.anchorageaa.org"
+ },
+ {
+  "name": "Fairbanks Intergroup Office",
+  "fellowship": "AA",
+  "area": "Fairbanks, AK",
+  "lat": 64.8401,
+  "lng": -147.72,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(907) 456-7501"
+   }
+  ],
+  "website": "http://www.fairbanksaa.org"
+ },
+ {
+  "name": "Juneau Answering Service",
+  "fellowship": "AA",
+  "area": "Juneau, AK",
+  "lat": 58.3005,
+  "lng": -134.4201,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(907) 586-1161"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Ketchikan Intergroup",
+  "fellowship": "AA",
+  "area": "Ketchikan, AK",
+  "lat": 55.3422,
+  "lng": -131.6461,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(907) 225-5154"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Sitka Intergroup",
+  "fellowship": "AA",
+  "area": "Sitka, AK",
+  "lat": 56.9974,
+  "lng": -135.0,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(907) 747-8866"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Mat-Su Intergroup Office",
+  "fellowship": "AA",
+  "area": "Wasilla, AK",
+  "lat": 61.5835,
+  "lng": -149.4407,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(907) 376-4777"
+   }
+  ],
+  "website": "https://www.alaskamatsuaa.org/"
+ },
+ {
+  "name": "Baldwin County Answering Service",
+  "fellowship": "AA",
+  "area": "Baldwin County, AL",
+  "lat": 30.6011,
+  "lng": -87.7763,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 477-1104"
+   }
+  ],
+  "website": "http://www.gulfcoastaa.org"
+ },
+ {
+  "name": "Birmingham Intergroup",
+  "fellowship": "AA",
+  "area": "Birmingham, AL",
+  "lat": 33.5186,
+  "lng": -86.8104,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(205) 290-0060"
+   }
+  ],
+  "website": "http://www.birminghamaa.org"
+ },
+ {
+  "name": "Eastern Shore AA Hotline",
+  "fellowship": "AA",
+  "area": "Daphne, AL",
+  "lat": 30.6035,
+  "lng": -87.9036,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(251) 301-6773"
+   },
+   {
+    "label": "Spanish/French helpline",
+    "number": "(251) 301-6882"
+   }
+  ],
+  "website": "http://www.easternshoreaa.org"
+ },
+ {
+  "name": "North Central Dist 2 Intergroup",
+  "fellowship": "AA",
+  "area": "Hartselle, AL",
+  "lat": 34.4434,
+  "lng": -86.9353,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 658-7576"
+   }
+  ],
+  "website": "http://www.the12traditions.com"
+ },
+ {
+  "name": "Huntsville Intergroup",
+  "fellowship": "AA",
+  "area": "Huntsville, AL",
+  "lat": 34.7295,
+  "lng": -86.5853,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(256) 885-0323"
+   }
+  ],
+  "website": "http://www.aahuntsvilleal.com"
+ },
+ {
+  "name": "District 01",
+  "fellowship": "AA",
+  "area": "Muscle Shoals, AL",
+  "lat": 34.7448,
+  "lng": -87.6675,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(256) 415-7719"
+   }
+  ],
+  "website": "http://www.shoalsaa.org"
+ },
+ {
+  "name": "Area 1 District 9 24 Hour Phone Line",
+  "fellowship": "AA",
+  "area": "Opelika, AL",
+  "lat": 32.6454,
+  "lng": -85.3783,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(334) 521-2676"
+   }
+  ],
+  "website": "http://www.aaauburn.org"
+ },
+ {
+  "name": "Ft. Smith Area Intergroup/Central Office",
+  "fellowship": "AA",
+  "area": "Fort Smith, AR",
+  "lat": 35.3844,
+  "lng": -94.421,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(479) 650-9132"
+   }
+  ],
+  "website": "http://www.aafsig.org"
+ },
+ {
+  "name": "Intergroup Council of West-Central",
+  "fellowship": "AA",
+  "area": "Hot Springs, AR",
+  "lat": 34.5078,
+  "lng": -93.0546,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(501) 623-6328"
+   }
+  ],
+  "website": "http://www.aawcar.org"
+ },
+ {
+  "name": "Central Mountain Intergroup",
+  "fellowship": "AA",
+  "area": "Cottonwood, AZ",
+  "lat": 34.7029,
+  "lng": -112.0238,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(928) 646-9428"
+   },
+   {
+    "label": "Office",
+    "number": "(206) 498-0451"
+   }
+  ],
+  "website": "http://www.centralmountain.org"
+ },
+ {
+  "name": "Flagstaff Intergroup Central Office",
+  "fellowship": "AA",
+  "area": "Flagstaff, AZ",
+  "lat": 35.1983,
+  "lng": -111.6513,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(928) 440-3059"
+   }
+  ],
+  "website": "http://www.flagstaffaa.org"
+ },
+ {
+  "name": "Kingman Intergroup",
+  "fellowship": "AA",
+  "area": "Kingman, AZ",
+  "lat": 35.1913,
+  "lng": -114.0523,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(855) 727-7486"
+   },
+   {
+    "label": "Office",
+    "number": "(928) 565-0912"
+   }
+  ],
+  "website": "http://www.kingmanaa.org"
+ },
+ {
+  "name": "Lake Havasu City Intergroup",
+  "fellowship": "AA",
+  "area": "Lake Havasu City, AZ",
+  "lat": 34.477,
+  "lng": -114.3192,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(877) 652-9005"
+   }
+  ],
+  "website": "http://www.havasuaa.com"
+ },
+ {
+  "name": "Rim Country Intergroup",
+  "fellowship": "AA",
+  "area": "Payson, AZ",
+  "lat": 34.2309,
+  "lng": -111.3251,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(928) 474-3620"
+   }
+  ],
+  "website": "http://www.aapayson.com/index.html"
+ },
+ {
+  "name": "Agua Fria Intergroup",
+  "fellowship": "AA",
+  "area": "Peoria, AZ",
+  "lat": 33.5806,
+  "lng": -112.2374,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(623) 937-7770"
+   },
+   {
+    "label": "Office",
+    "number": "(623) 937-7836"
+   }
+  ],
+  "website": "http://www.aawestphoenix.org"
+ },
+ {
+  "name": "Salt River Intergroup,Inc.",
+  "fellowship": "AA",
+  "area": "Phoenix, AZ",
+  "lat": 33.4483,
+  "lng": -112.0725,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(602) 264-1341"
+   }
+  ],
+  "website": "http://www.aaphoenix.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana",
+  "fellowship": "AA",
+  "area": "Phoenix, AZ",
+  "lat": 33.4483,
+  "lng": -112.0725,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(602) 957-7457"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Prescott Area Intergroup Association",
+  "fellowship": "AA",
+  "area": "Prescott, AZ",
+  "lat": 34.5394,
+  "lng": -112.4682,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(928) 445-8691"
+   }
+  ],
+  "website": "http://www.prescottaa.org"
+ },
+ {
+  "name": "Cochise County Dist 02-200 Answering Svc",
+  "fellowship": "AA",
+  "area": "Sierra Vista, AZ",
+  "lat": 31.566,
+  "lng": -110.2744,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(866) 780-9758"
+   },
+   {
+    "label": "Office",
+    "number": "(520) 459-0031"
+   }
+  ],
+  "website": "http://www.aa-cochisecounty.org"
+ },
+ {
+  "name": "Tucson Area Intergroup Inc.",
+  "fellowship": "AA",
+  "area": "Tucson, AZ",
+  "lat": 32.254,
+  "lng": -110.9742,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(520) 624-4183"
+   },
+   {
+    "label": "Office",
+    "number": "(520) 882-7422"
+   }
+  ],
+  "website": "http://www.aatucson.org"
+ },
+ {
+  "name": "Yuma Intergroup",
+  "fellowship": "AA",
+  "area": "Yuma, AZ",
+  "lat": 32.6927,
+  "lng": -114.6277,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(928) 782-2605"
+   }
+  ],
+  "website": "https://aayuma.com/"
+ },
+ {
+  "name": "Victor Valley Intergroup Central Office Inc.",
+  "fellowship": "AA",
+  "area": "Apple Valley, CA",
+  "lat": 34.5008,
+  "lng": -117.1859,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(760) 242-9292"
+   }
+  ],
+  "website": "http://www.victorvalleyaa.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana Del Condado De Kern",
+  "fellowship": "AA",
+  "area": "Bakersfield, CA",
+  "lat": 35.3733,
+  "lng": -119.0201,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(661) 205-0296"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "So. Solano County Central Office",
+  "fellowship": "AA",
+  "area": "Benicia, CA",
+  "lat": 38.0494,
+  "lng": -122.1586,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(707) 297-2369"
+   }
+  ],
+  "website": "http://www.aasolanosouth.org"
+ },
+ {
+  "name": "Ventura County Central Service Office",
+  "fellowship": "AA",
+  "area": "Camarillo, CA",
+  "lat": 34.2331,
+  "lng": -119.0809,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(800) 990-7750"
+   },
+   {
+    "label": "Office",
+    "number": "(805) 389-1444"
+   }
+  ],
+  "website": "http://www.aaventuracounty.org"
+ },
+ {
+  "name": "Central Intergroup Office of the Desert",
+  "fellowship": "AA",
+  "area": "Cathedral City, CA",
+  "lat": 33.8263,
+  "lng": -116.4548,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(760) 324-4880"
+   },
+   {
+    "label": "TTY",
+    "number": "(760) 324-4851"
+   }
+  ],
+  "website": "http://www.aainthedesert.org"
+ },
+ {
+  "name": "North Valley Central Office",
+  "fellowship": "AA",
+  "area": "Chico, CA",
+  "lat": 39.81,
+  "lng": -121.94,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(530) 342-5756"
+   }
+  ],
+  "website": "http://www.aabutte-glenn.org"
+ },
+ {
+  "name": "24 Hour Answering Service",
+  "fellowship": "AA",
+  "area": "Chino, CA",
+  "lat": 34.0137,
+  "lng": -117.6906,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(909) 628-4428"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Oficina Intergrupal",
+  "fellowship": "AA",
+  "area": "Chula Vista, CA",
+  "lat": 32.6385,
+  "lng": -117.0618,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(619) 476-0288"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Inland Empire 12th Step Service Board",
+  "fellowship": "AA",
+  "area": "Claremont, CA",
+  "lat": 34.0967,
+  "lng": -117.7194,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(909) 628-4428"
+   }
+  ],
+  "website": "http://www.callaa.org"
+ },
+ {
+  "name": "Del Norte Intergroup",
+  "fellowship": "AA",
+  "area": "Crescent City, CA",
+  "lat": 41.7558,
+  "lng": -124.2026,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(707) 464-3411"
+   }
+  ],
+  "website": "http://www.aahumboldtdelnorte.net"
+ },
+ {
+  "name": "24 Hour Answering Service",
+  "fellowship": "AA",
+  "area": "Davis, CA",
+  "lat": 38.5449,
+  "lng": -121.7405,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 970-9040"
+   }
+  ],
+  "website": "http://www.aadavis.org"
+ },
+ {
+  "name": "East County Intergroup",
+  "fellowship": "AA",
+  "area": "El Cajon, CA",
+  "lat": 32.7948,
+  "lng": -116.9625,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(877) 993-2422"
+   },
+   {
+    "label": "Office",
+    "number": "(619) 456-9259"
+   }
+  ],
+  "website": "http://www.eastcountyaa.org"
+ },
+ {
+  "name": "Oficina Central Hispana",
+  "fellowship": "AA",
+  "area": "El Monte, CA",
+  "lat": 34.0727,
+  "lng": -118.0323,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(562) 587-2424"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Humboldt County Intergroup",
+  "fellowship": "AA",
+  "area": "Eureka, CA",
+  "lat": 40.8021,
+  "lng": -124.1637,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(844) 442-0711"
+   }
+  ],
+  "website": "http://www.aahumboldtdelnorte.net"
+ },
+ {
+  "name": "Tulare County Central Office",
+  "fellowship": "AA",
+  "area": "Exeter, CA",
+  "lat": 36.2961,
+  "lng": -119.1421,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(559) 592-6999"
+   }
+  ],
+  "website": "http://www.aa-tulareco.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana",
+  "fellowship": "AA",
+  "area": "Fresno, CA",
+  "lat": 36.7378,
+  "lng": -119.7871,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(559) 519-3326"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "North Orange County Central Office",
+  "fellowship": "AA",
+  "area": "Fullerton, CA",
+  "lat": 33.8819,
+  "lng": -117.8956,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(714) 773-4357"
+   }
+  ],
+  "website": "https://www.aanoc.org"
+ },
+ {
+  "name": "San Gabriel/Pomona Valley Central Office",
+  "fellowship": "AA",
+  "area": "Glendora, CA",
+  "lat": 34.1361,
+  "lng": -117.8653,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(626) 914-1861"
+   }
+  ],
+  "website": "http://www.aasgvco.org"
+ },
+ {
+  "name": "Lake County Intergroup",
+  "fellowship": "AA",
+  "area": "Kelseyville, CA",
+  "lat": 38.978,
+  "lng": -122.8394,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(707) 995-3316"
+   }
+  ],
+  "website": "http://lakecountycaaa.com/"
+ },
+ {
+  "name": "Oficina Intergrupal Valle Del Antelope",
+  "fellowship": "AA",
+  "area": "Palmdale, CA",
+  "lat": 34.5795,
+  "lng": -118.1165,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(661) 208-7765"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Harbor Area Central Office",
+  "fellowship": "AA",
+  "area": "Long Beach, CA",
+  "lat": 33.7701,
+  "lng": -118.1937,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(562) 989-7697"
+   },
+   {
+    "label": "Spanish/French helpline",
+    "number": "(310) 516-8626"
+   }
+  ],
+  "website": "http://www.hacoaa.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana Su",
+  "fellowship": "AA",
+  "area": "Long Beach, CA",
+  "lat": 33.7701,
+  "lng": -118.1937,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(310) 516-8626"
+   }
+  ],
+  "website": "http://aasurdelabahia.org/"
+ },
+ {
+  "name": "LOS ANGELES CENTRAL OFFICE",
+  "fellowship": "AA",
+  "area": "LOS ANGELES, CA",
+  "lat": 34.0579,
+  "lng": -118.3097,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(323) 936-4343"
+   },
+   {
+    "label": "Office",
+    "number": "(213) 651-2048"
+   }
+  ],
+  "website": "http://www.LACOAA.org"
+ },
+ {
+  "name": "Oficina Intergrupal del Este de L.A. de A.A.",
+  "fellowship": "AA",
+  "area": "Pico rivera, CA",
+  "lat": 33.987,
+  "lng": -118.0947,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(323) 722-1044"
+   }
+  ],
+  "website": "http://www.oiela.org"
+ },
+ {
+  "name": "Mariposa A.A. Answering Service",
+  "fellowship": "AA",
+  "area": "Mariposa, CA",
+  "lat": 37.4931,
+  "lng": -119.9727,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(209) 966-3110"
+   }
+  ],
+  "website": "http://aamariposafellowship.org"
+ },
+ {
+  "name": "Valle Oficina Central",
+  "fellowship": "AA",
+  "area": "Modesto, CA",
+  "lat": 37.6393,
+  "lng": -120.997,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(209) 222-8313"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Monterey Bay Area Intergroup",
+  "fellowship": "AA",
+  "area": "Monterey, CA",
+  "lat": 36.5973,
+  "lng": -121.8978,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(831) 373-3713"
+   }
+  ],
+  "website": "http://www.aamonterey.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana del Area de San Mateo",
+  "fellowship": "AA",
+  "area": "Mountainview, CA",
+  "lat": 37.3868,
+  "lng": -122.0752,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(650) 669-6844"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Napa County Intergroup",
+  "fellowship": "AA",
+  "area": "Napa, CA",
+  "lat": 38.2975,
+  "lng": -122.2869,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(707) 500-7001"
+   }
+  ],
+  "website": "http://www.aanapa.org"
+ },
+ {
+  "name": "Oakhurst Fellowship Answering Service",
+  "fellowship": "AA",
+  "area": "Oakhurst, CA",
+  "lat": 37.328,
+  "lng": -119.6493,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(559) 683-1662"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Eastbay Intergroup Central Office",
+  "fellowship": "AA",
+  "area": "Oakland, CA",
+  "lat": 37.8336,
+  "lng": -122.203,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(510) 839-8900"
+   },
+   {
+    "label": "Office",
+    "number": "(510) 543-0196"
+   },
+   {
+    "label": "Spanish/French helpline",
+    "number": "(510) 502-8560"
+   }
+  ],
+  "website": "http://www.eastbayaa.org"
+ },
+ {
+  "name": "Oficina Intergrupal Condado Ve",
+  "fellowship": "AA",
+  "area": "Oxnard, CA",
+  "lat": 34.1977,
+  "lng": -119.1775,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(805) 988-0329"
+   }
+  ],
+  "website": "http://www.aacondadodeventura.org"
+ },
+ {
+  "name": "Western Slope Intergroup",
+  "fellowship": "AA",
+  "area": "Placerville, CA",
+  "lat": 38.7296,
+  "lng": -120.7985,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(530) 622-3500"
+   },
+   {
+    "label": "Office",
+    "number": "(916) 454-1100"
+   }
+  ],
+  "website": "http://www.westernsloped22.org"
+ },
+ {
+  "name": "Valley Service Center",
+  "fellowship": "AA",
+  "area": "Pleasanton, CA",
+  "lat": 37.6436,
+  "lng": -121.8676,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(925) 829-0666"
+   },
+   {
+    "label": "Office",
+    "number": "(925) 829-3160"
+   }
+  ],
+  "website": "https://trivalleyaa.org/"
+ },
+ {
+  "name": "Oficina Intergrupal De Chino #2",
+  "fellowship": "AA",
+  "area": "Pomona, CA",
+  "lat": 34.0551,
+  "lng": -117.75,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(909) 629-0493"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Northern California Intergroup",
+  "fellowship": "AA",
+  "area": "Redding, CA",
+  "lat": 40.53,
+  "lng": -122.71,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(530) 225-8955"
+   }
+  ],
+  "website": "http://www.aanorcal.org"
+ },
+ {
+  "name": "Oficina Intergrupal Del Este De La Bahia",
+  "fellowship": "AA",
+  "area": "Richmond, CA",
+  "lat": 37.9375,
+  "lng": -122.3433,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(510) 545-3421"
+   },
+   {
+    "label": "Office",
+    "number": "(510) 776-3787"
+   }
+  ],
+  "website": "http://www.alcoholicosanonimos-estedelabahia.com"
+ },
+ {
+  "name": "Oficina Central de Riverside",
+  "fellowship": "AA",
+  "area": "Riverside, CA",
+  "lat": 33.9133,
+  "lng": -117.4909,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(951) 687-7090"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Central California Fellowship",
+  "fellowship": "AA",
+  "area": "Sacramento, CA",
+  "lat": 38.5781,
+  "lng": -121.4944,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(916) 454-1100"
+   },
+   {
+    "label": "Office",
+    "number": "(916) 454-1771"
+   }
+  ],
+  "website": "http://www.aasacramento.org"
+ },
+ {
+  "name": "Salinas Valley Area Intergroup",
+  "fellowship": "AA",
+  "area": "Salinas, CA",
+  "lat": 36.6777,
+  "lng": -121.6555,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(831) 424-9874"
+   }
+  ],
+  "website": "http://www.aasalinas.org"
+ },
+ {
+  "name": "Oficina Central Hispana Intergrupal",
+  "fellowship": "AA",
+  "area": "Salinas, CA",
+  "lat": 36.6777,
+  "lng": -121.6555,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(831) 854-8380"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Oficina Central Hispana",
+  "fellowship": "AA",
+  "area": "San Diego, CA",
+  "lat": 32.7157,
+  "lng": -117.1611,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(619) 280-7224"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "San Diego Central Office",
+  "fellowship": "AA",
+  "area": "San Diego, CA",
+  "lat": 32.7157,
+  "lng": -117.1611,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(619) 265-8762"
+   }
+  ],
+  "website": "http://www.aasandiego.org"
+ },
+ {
+  "name": "San Francisco and Marin Intergroup",
+  "fellowship": "AA",
+  "area": "San Francisco, CA",
+  "lat": 37.7749,
+  "lng": -122.4194,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(415) 674-1821"
+   }
+  ],
+  "website": "http://www.aasfmarin.org/"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana De Alcoholicos Anonimos Del Area de Santa Clara",
+  "fellowship": "AA",
+  "area": "San Jose, CA",
+  "lat": 37.3387,
+  "lng": -121.8853,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(408) 975-0826"
+   },
+   {
+    "label": "Office",
+    "number": "(408) 207-7276"
+   }
+  ],
+  "website": "http://aasanjosecaintergrupal.org/home"
+ },
+ {
+  "name": "Santa Clara County Intergroup C.O.",
+  "fellowship": "AA",
+  "area": "San Jose, CA",
+  "lat": 37.3387,
+  "lng": -121.8853,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(408) 374-8511"
+   },
+   {
+    "label": "Office",
+    "number": "(408) 889-1001"
+   }
+  ],
+  "website": "http://www.aasanjose.org"
+ },
+ {
+  "name": "Oficina Central Hispana Costa Norte",
+  "fellowship": "AA",
+  "area": "San Jose, CA",
+  "lat": 37.3387,
+  "lng": -121.8853,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(408) 706-1466"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Central Coast Central Office Intergroup",
+  "fellowship": "AA",
+  "area": "Los Osos, CA",
+  "lat": 35.2873,
+  "lng": -120.8384,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(805) 541-3211"
+   }
+  ],
+  "website": "http://www.sloaa.org"
+ },
+ {
+  "name": "San Mateo CO Fellowship Of A.A.",
+  "fellowship": "AA",
+  "area": "San Mateo, CA",
+  "lat": 37.563,
+  "lng": -122.3255,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(650) 577-1310"
+   }
+  ],
+  "website": "http://www.aa-san-mateo.org"
+ },
+ {
+  "name": "Oficina Intergrupal De Orange",
+  "fellowship": "AA",
+  "area": "Santa Ana, CA",
+  "lat": 33.7455,
+  "lng": -117.8677,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(714) 543-1162"
+   }
+  ],
+  "website": "http://oc-intsuraa.org"
+ },
+ {
+  "name": "Santa Barbara Central Office",
+  "fellowship": "AA",
+  "area": "Santa Barbara, CA",
+  "lat": 34.4203,
+  "lng": -119.6989,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(805) 962-3332"
+   }
+  ],
+  "website": "http://www.santabarbaraaa.com"
+ },
+ {
+  "name": "SCV Central Office Of A.A.",
+  "fellowship": "AA",
+  "area": "Santa Clarita, CA",
+  "lat": 34.4355,
+  "lng": -118.4689,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(661) 250-9922"
+   }
+  ],
+  "website": "http://www.aascv.org"
+ },
+ {
+  "name": "52nd District Alcoholics Anonymous Central Office",
+  "fellowship": "AA",
+  "area": "Santa Maria, CA",
+  "lat": 34.953,
+  "lng": -120.4357,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(661) 361-0239"
+   }
+  ],
+  "website": "http://www.aa52centraloffice.org"
+ },
+ {
+  "name": "Oficina Intergrupal Sureste De Ventura",
+  "fellowship": "AA",
+  "area": "Santa Paula, CA",
+  "lat": 34.3542,
+  "lng": -119.0593,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(805) 525-6140"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Oficina Central Norte",
+  "fellowship": "AA",
+  "area": "Santa Rosa, CA",
+  "lat": 38.4404,
+  "lng": -122.7141,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(707) 623-6702"
+   }
+  ],
+  "website": "http://www.sonomacountyaa.org"
+ },
+ {
+  "name": "Sonoma County Intergroup",
+  "fellowship": "AA",
+  "area": "Santa Rosa, CA",
+  "lat": 38.4404,
+  "lng": -122.7141,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(800) 224-1300"
+   },
+   {
+    "label": "Answering service",
+    "number": "(707) 544-1300"
+   },
+   {
+    "label": "Office",
+    "number": "(707) 546-2066"
+   }
+  ],
+  "website": "http://www.sonomacountyaa.org"
+ },
+ {
+  "name": "24 Hour Answering Service",
+  "fellowship": "AA",
+  "area": "Sonora, CA",
+  "lat": 37.9829,
+  "lng": -120.3822,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(209) 464-1564"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Santa Cruz County Intergroup  Inc.",
+  "fellowship": "AA",
+  "area": "Soquel, CA",
+  "lat": 36.9882,
+  "lng": -121.9574,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(831) 475-5782"
+   }
+  ],
+  "website": "http://www.aasantacruz.org"
+ },
+ {
+  "name": "Temecula Valley Central Office",
+  "fellowship": "AA",
+  "area": "Murrieta, CA",
+  "lat": 33.5613,
+  "lng": -117.2105,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(951) 695-1535"
+   },
+   {
+    "label": "Office",
+    "number": "(951) 530-4136"
+   }
+  ],
+  "website": "http://www.temeculacentraloffice.org"
+ },
+ {
+  "name": "24-Hour Hotline",
+  "fellowship": "AA",
+  "area": "Thousand Oaks, CA",
+  "lat": 34.1761,
+  "lng": -118.8488,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(805) 495-1111"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "All South Bay Central Office",
+  "fellowship": "AA",
+  "area": "Torrance, CA",
+  "lat": 33.8369,
+  "lng": -118.3407,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(310) 618-1180"
+   }
+  ],
+  "website": "http://www.southbayaa.org"
+ },
+ {
+  "name": "Mendocino Inland Intergroup",
+  "fellowship": "AA",
+  "area": "Ukiah, CA",
+  "lat": 39.1502,
+  "lng": -123.2078,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(707) 462-7123"
+   }
+  ],
+  "website": "http://www.aaukiah.org"
+ },
+ {
+  "name": "North Solano Intergroup",
+  "fellowship": "AA",
+  "area": "Vacaville, CA",
+  "lat": 38.3566,
+  "lng": -121.9877,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(707) 446-2244"
+   },
+   {
+    "label": "Office",
+    "number": "(925) 787-8631"
+   }
+  ],
+  "website": "http://www.aasolanonorth.org"
+ },
+ {
+  "name": "A.A. San Fernando Valley C.O.",
+  "fellowship": "AA",
+  "area": "Van Nuys, CA",
+  "lat": 34.2012,
+  "lng": -118.4662,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(818) 988-3001"
+   },
+   {
+    "label": "TTY",
+    "number": "(818) 988-0342"
+   }
+  ],
+  "website": "http://www.sfvaa.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana Del Condado Notre de San Diego",
+  "fellowship": "AA",
+  "area": "Vista, CA",
+  "lat": 33.2,
+  "lng": -117.2425,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(760) 758-6905"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "North County (San Diego) Central Office",
+  "fellowship": "AA",
+  "area": "Vista, CA",
+  "lat": 33.2,
+  "lng": -117.2425,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(760) 758-2515"
+   },
+   {
+    "label": "Office",
+    "number": "(760) 758-2514"
+   }
+  ],
+  "website": "http://www.ncsandiegoaa.org"
+ },
+ {
+  "name": "Contra Costa Service Center",
+  "fellowship": "AA",
+  "area": "Walnut Creek, CA",
+  "lat": 37.9101,
+  "lng": -122.0652,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(925) 939-4155"
+   },
+   {
+    "label": "Office",
+    "number": "(917) 717-8477"
+   }
+  ],
+  "website": "http://www.contracostaaa.org"
+ },
+ {
+  "name": "Dist. 20-Grass Valley, Nevada City, Penn Valley and Surrounding Areas",
+  "fellowship": "AA",
+  "area": "Western Nevada County, CA",
+  "lat": 39.1347,
+  "lng": -121.171,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(530) 272-6287"
+   }
+  ],
+  "website": "http://www.dist20aa.org"
+ },
+ {
+  "name": "24 Hour Answering Service",
+  "fellowship": "AA",
+  "area": "Yuba City, CA",
+  "lat": 39.1407,
+  "lng": -121.6177,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(916) 454-1100"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "AA Boulder County Central Office",
+  "fellowship": "AA",
+  "area": "Boulder, CO",
+  "lat": 40.019,
+  "lng": -105.2747,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(303) 447-8201"
+   }
+  ],
+  "website": "https://bouldercountyaa.com/"
+ },
+ {
+  "name": "Denver Area Central Office",
+  "fellowship": "AA",
+  "area": "Denver, CO",
+  "lat": 39.7392,
+  "lng": -104.9903,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(303) 322-4440"
+   }
+  ],
+  "website": "http://www.daccaa.org"
+ },
+ {
+  "name": "Northern Colorado Intergroup Inc.",
+  "fellowship": "AA",
+  "area": "Ft. Collins, CO",
+  "lat": 40.5853,
+  "lng": -105.0844,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(970) 224-3552"
+   }
+  ],
+  "website": "https://nocoaa.org/"
+ },
+ {
+  "name": "Central Office Of Western Colorado Answering Service",
+  "fellowship": "AA",
+  "area": "Glenwood Springs, CO",
+  "lat": 39.5505,
+  "lng": -107.3248,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(970) 245-9649"
+   }
+  ],
+  "website": "http://www.coaadistrict14.org"
+ },
+ {
+  "name": "Central Office Of Western Colorado",
+  "fellowship": "AA",
+  "area": "Grand Junction, CO",
+  "lat": 39.0689,
+  "lng": -108.5643,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(888) 333-9649"
+   },
+   {
+    "label": "Office",
+    "number": "(970) 245-9649"
+   }
+  ],
+  "website": "http://www.aa-westerncolorado.com"
+ },
+ {
+  "name": "Central Service Office Of South Colorado",
+  "fellowship": "AA",
+  "area": "Pueblo, CO",
+  "lat": 38.2706,
+  "lng": -104.6101,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(719) 546-1173"
+   }
+  ],
+  "website": "http://www.puebloaa.org"
+ },
+ {
+  "name": "Connecticut Statewide Spanish Hotline",
+  "fellowship": "AA",
+  "area": "Connecticut, CT",
+  "lat": 41.6032,
+  "lng": -73.0877,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(855) 377-2628"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Connecticut Statewide 24 Hour Hotline",
+  "fellowship": "AA",
+  "area": "Connecticut, CT",
+  "lat": 41.6032,
+  "lng": -73.0877,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(866) 783-7712"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Intergroup Association of Fairfield County",
+  "fellowship": "AA",
+  "area": "Norwalk, CT",
+  "lat": 41.134,
+  "lng": -73.4062,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(203) 855-0075"
+   }
+  ],
+  "website": "http://iafc-aa.org"
+ },
+ {
+  "name": "Washington Area Intergroup Association",
+  "fellowship": "AA",
+  "area": "Washington, DC",
+  "lat": 38.9073,
+  "lng": -77.0369,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(202) 966-9783"
+   },
+   {
+    "label": "TTY",
+    "number": "(202) 966-9782"
+   }
+  ],
+  "website": "http://www.aa-dc.org"
+ },
+ {
+  "name": "Central Delaware Intergroup",
+  "fellowship": "AA",
+  "area": "Dover, DE",
+  "lat": 39.2081,
+  "lng": -75.4578,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(302) 736-1567"
+   }
+  ],
+  "website": "http://www.cdiaa-de.org/html/home.html"
+ },
+ {
+  "name": "Southern Delaware Intergroup",
+  "fellowship": "AA",
+  "area": "Millsboro, DE",
+  "lat": 38.5915,
+  "lng": -75.2913,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(302) 856-6452"
+   },
+   {
+    "label": "Office",
+    "number": "(302) 540-8959"
+   }
+  ],
+  "website": "https://sussexaa.org"
+ },
+ {
+  "name": "Northern Delaware Intergroup",
+  "fellowship": "AA",
+  "area": "Wilmington, DE",
+  "lat": 39.7447,
+  "lng": -75.5484,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(302) 655-5113"
+   }
+  ],
+  "website": "http://www.ndiaa.org"
+ },
+ {
+  "name": "Central Florida Intergroup Service (Orlando Area)",
+  "fellowship": "AA",
+  "area": "Casselberry, FL",
+  "lat": 28.6778,
+  "lng": -81.3278,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(407) 260-5408"
+   },
+   {
+    "label": "Office",
+    "number": "(407) 260-5822"
+   }
+  ],
+  "website": "http://www.cflintergroup.org"
+ },
+ {
+  "name": "So. Palm Beach County Intergroup Inc.",
+  "fellowship": "AA",
+  "area": "Delray Beach, FL",
+  "lat": 26.4671,
+  "lng": -80.0591,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(561) 276-4581"
+   }
+  ],
+  "website": "http://www.aainpalmbeach.org"
+ },
+ {
+  "name": "Broward County Intergroup",
+  "fellowship": "AA",
+  "area": "Fort Lauderdale, FL",
+  "lat": 26.1889,
+  "lng": -80.1763,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(954) 462-7202"
+   }
+  ],
+  "website": "http://www.aabroward.org"
+ },
+ {
+  "name": "Lee County Area Intergroup",
+  "fellowship": "AA",
+  "area": "Fort Myers, FL",
+  "lat": 26.5588,
+  "lng": -81.8716,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(239) 275-5111"
+   }
+  ],
+  "website": "http://www.leecountyaa.org"
+ },
+ {
+  "name": "Intergrupos de Area Notre",
+  "fellowship": "AA",
+  "area": "Ft. Pierce, FL",
+  "lat": 27.4414,
+  "lng": -80.3269,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(561) 262-3176"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Intergroup Comm Of District 14",
+  "fellowship": "AA",
+  "area": "Ft. Walton Beach, FL",
+  "lat": 30.4035,
+  "lng": -86.6107,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(850) 244-2421"
+   }
+  ],
+  "website": "https://www.fortwaltonbeachaa.org/"
+ },
+ {
+  "name": "North Central Florida Intergroup",
+  "fellowship": "AA",
+  "area": "Gainesville, FL",
+  "lat": 29.652,
+  "lng": -82.325,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(352) 372-8091"
+   }
+  ],
+  "website": "http://www.aagainesville.org"
+ },
+ {
+  "name": "Northeast Florida Intergroup",
+  "fellowship": "AA",
+  "area": "Jacksonville, FL",
+  "lat": 30.3298,
+  "lng": -81.6592,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(904) 399-8535"
+   }
+  ],
+  "website": "http://www.neflaa.org"
+ },
+ {
+  "name": "Upper Keys FL Intergroup",
+  "fellowship": "AA",
+  "area": "Key Largo, FL",
+  "lat": 25.0926,
+  "lng": -80.442,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(305) 852-6186"
+   },
+   {
+    "label": "Office",
+    "number": "(305) 900-7280"
+   }
+  ],
+  "website": "http://www.upperflkeysaa.org"
+ },
+ {
+  "name": "Key West Intergroup",
+  "fellowship": "AA",
+  "area": "Key West, FL",
+  "lat": 24.5551,
+  "lng": -81.78,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(305) 296-8654"
+   }
+  ],
+  "website": "http://www.aafloridakeys.org"
+ },
+ {
+  "name": "Osceola County Intergroup",
+  "fellowship": "AA",
+  "area": "Kissimmee, FL",
+  "lat": 28.2956,
+  "lng": -81.4039,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(407) 361-5356"
+   }
+  ],
+  "website": "http://osceolacountyintergroup.org"
+ },
+ {
+  "name": "Dist. 16 Helpline",
+  "fellowship": "AA",
+  "area": "Lake City, FL",
+  "lat": 30.1894,
+  "lng": -82.6394,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(386) 758-4283"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Heartland Intergroup A.A. Inc",
+  "fellowship": "AA",
+  "area": "Lakeland, FL",
+  "lat": 28.0421,
+  "lng": -81.9535,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(863) 687-9275"
+   },
+   {
+    "label": "Office",
+    "number": "(863) 688-0211"
+   }
+  ],
+  "website": "http://www.heartlandintergroup.org"
+ },
+ {
+  "name": "Lake Sumter Central Office",
+  "fellowship": "AA",
+  "area": "Leesburg, FL",
+  "lat": 28.8108,
+  "lng": -81.8779,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(352) 360-0960"
+   }
+  ],
+  "website": "http://www.aalakesumter.org"
+ },
+ {
+  "name": "District 27 Answering Service for Levy, Gilchrist and Dixie Counties",
+  "fellowship": "AA",
+  "area": "Levy, Gilchrist",
+  "lat": 29.6871,
+  "lng": -82.821,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(352) 949-2239"
+   }
+  ],
+  "website": "http://district27aa.org"
+ },
+ {
+  "name": "Brevard Intergroup",
+  "fellowship": "AA",
+  "area": "Melbourne, FL",
+  "lat": 28.06,
+  "lng": -80.6216,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(321) 724-2247"
+   },
+   {
+    "label": "Spanish/French helpline",
+    "number": "(321) 633-0052"
+   }
+  ],
+  "website": "http://www.aaspacecoast.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana Del Sur",
+  "fellowship": "AA",
+  "area": "Miami, FL",
+  "lat": 25.7617,
+  "lng": -80.1918,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(305) 642-2805"
+   }
+  ],
+  "website": "http://www.miamialcoholicosanonimos.org"
+ },
+ {
+  "name": "Central Miami Intergroup",
+  "fellowship": "AA",
+  "area": "Miami, FL",
+  "lat": 25.8235,
+  "lng": -80.3102,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(305) 504-7211"
+   }
+  ],
+  "website": "http://www.miamiaa.org"
+ },
+ {
+  "name": "Naples Area Intergroup",
+  "fellowship": "AA",
+  "area": "Naples, FL",
+  "lat": 26.1392,
+  "lng": -81.7955,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(239) 262-6535"
+   }
+  ],
+  "website": "http://www.aanaples.org"
+ },
+ {
+  "name": "West Pasco Tarpon Springs Intergroup",
+  "fellowship": "AA",
+  "area": "New Port Richey, FL",
+  "lat": 28.2442,
+  "lng": -82.7193,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(727) 847-0777"
+   },
+   {
+    "label": "Office",
+    "number": "(727) 226-5340"
+   }
+  ],
+  "website": "https://www.aapasco.org/"
+ },
+ {
+  "name": "Intergroup Service Comm Of The 5th Dist Inc.",
+  "fellowship": "AA",
+  "area": "North Port, FL",
+  "lat": 27.0601,
+  "lng": -82.2529,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(941) 426-7723"
+   },
+   {
+    "label": "Office",
+    "number": "(941) 426-7655"
+   }
+  ],
+  "website": "https://aanorthport.org/"
+ },
+ {
+  "name": "Intergroup 17",
+  "fellowship": "AA",
+  "area": "Ocala, FL",
+  "lat": 29.1851,
+  "lng": -82.1343,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(352) 867-0660"
+   }
+  ],
+  "website": "http://www.aaocalamarion.org"
+ },
+ {
+  "name": "Oficina Intergrupal de Orlando",
+  "fellowship": "AA",
+  "area": "Orlando, FL",
+  "lat": 28.5384,
+  "lng": -81.3789,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(321) 945-4653"
+   },
+   {
+    "label": "Spanish/French helpline",
+    "number": "(407) 240-1181"
+   }
+  ],
+  "website": "http://aaintergrupalhispana.com"
+ },
+ {
+  "name": "Flagler County Intergroup",
+  "fellowship": "AA",
+  "area": "Palm Coast, FL",
+  "lat": 29.5181,
+  "lng": -81.2243,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(386) 445-4357"
+   }
+  ],
+  "website": "http://www.aaflagler.org"
+ },
+ {
+  "name": "District 15 Intergroup",
+  "fellowship": "AA",
+  "area": "Panama City, FL",
+  "lat": 30.1559,
+  "lng": -85.6628,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(850) 784-7431"
+   }
+  ],
+  "website": "http://www.panamacityaa.org"
+ },
+ {
+  "name": "Tri-District Intergroup,Inc.",
+  "fellowship": "AA",
+  "area": "Pensacola, FL",
+  "lat": 30.4077,
+  "lng": -87.219,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(850) 433-4191"
+   }
+  ],
+  "website": "http://www.aapensacola.org"
+ },
+ {
+  "name": "St. Lucie County Intergroup Association",
+  "fellowship": "AA",
+  "area": "Port Saint Lucie, FL",
+  "lat": 27.273,
+  "lng": -80.3582,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(772) 873-9299"
+   },
+   {
+    "label": "Office",
+    "number": "(772) 337-1490"
+   }
+  ],
+  "website": "http://www.aastlucieintergroup.com"
+ },
+ {
+  "name": "Volusia County Intergroup",
+  "fellowship": "AA",
+  "area": "South Daytona, FL",
+  "lat": 29.1681,
+  "lng": -81.0147,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(888) 756-2930"
+   },
+   {
+    "label": "Office",
+    "number": "(386) 756-2930"
+   }
+  ],
+  "website": "http://www.aadaytona.org"
+ },
+ {
+  "name": "Hernando County Intergroup",
+  "fellowship": "AA",
+  "area": "Spring Hill, FL",
+  "lat": 28.4832,
+  "lng": -82.537,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(361) 522-2391"
+   }
+  ],
+  "website": "http://www.aahernando.org"
+ },
+ {
+  "name": "Intergroup Of Martin County",
+  "fellowship": "AA",
+  "area": "Stuart, FL",
+  "lat": 27.1975,
+  "lng": -80.2528,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(772) 283-9337"
+   },
+   {
+    "label": "Office",
+    "number": "(772) 267-7464"
+   }
+  ],
+  "website": "http://www.martincountyaa.org"
+ },
+ {
+  "name": "Intergroup 5 Inc.",
+  "fellowship": "AA",
+  "area": "Tallahassee, FL",
+  "lat": 30.4382,
+  "lng": -84.2806,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(850) 224-1818"
+   },
+   {
+    "label": "Office",
+    "number": "(850) 545-8169"
+   }
+  ],
+  "website": "http://www.intergroup5.org"
+ },
+ {
+  "name": "Tri-County Central Office, Inc",
+  "fellowship": "AA",
+  "area": "Tampa, FL",
+  "lat": 27.9517,
+  "lng": -82.4588,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(813) 933-9123"
+   }
+  ],
+  "website": "http://www.aatampa-area.org"
+ },
+ {
+  "name": "Oficina Intergrupal De Tampa-Bay",
+  "fellowship": "AA",
+  "area": "Tampa, FL",
+  "lat": 27.9517,
+  "lng": -82.4588,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(813) 953-7472"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Indian River Central Office",
+  "fellowship": "AA",
+  "area": "Vero Beach, FL",
+  "lat": 27.6386,
+  "lng": -80.3946,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(772) 562-1114"
+   }
+  ],
+  "website": "http://www.indianriveraa.org"
+ },
+ {
+  "name": "Oficina Intergrupal Sur De Florida AA",
+  "fellowship": "AA",
+  "area": "West Palm Beach, FL",
+  "lat": 26.7145,
+  "lng": -80.0549,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(561) 929-1759"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Palm Beach County Intergroup Association",
+  "fellowship": "AA",
+  "area": "West Palm Beach, FL",
+  "lat": 26.7145,
+  "lng": -80.0549,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(561) 655-5700"
+   }
+  ],
+  "website": "http://www.aa-palmbeachcounty.org"
+ },
+ {
+  "name": "Athens GA Area 16 District 16B 24 hourHotline",
+  "fellowship": "AA",
+  "area": "Athens, GA",
+  "lat": 33.9597,
+  "lng": -83.3764,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(706) 389-4164"
+   }
+  ],
+  "website": "https://athensaa.org"
+ },
+ {
+  "name": "Central Office",
+  "fellowship": "AA",
+  "area": "Atlanta, GA",
+  "lat": 33.7501,
+  "lng": -84.3885,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(404) 525-3178"
+   }
+  ],
+  "website": "http://www.atlantaaa.org"
+ },
+ {
+  "name": "12th District Central Office",
+  "fellowship": "AA",
+  "area": "Augusta, GA",
+  "lat": 33.5315,
+  "lng": -82.0734,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(706) 860-8331"
+   }
+  ],
+  "website": "http://www.augustaaa.org"
+ },
+ {
+  "name": "Southeast Georgia AA Intergroup",
+  "fellowship": "AA",
+  "area": "Brunswick, GA",
+  "lat": 31.1511,
+  "lng": -81.4878,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(912) 399-7962"
+   }
+  ],
+  "website": "http://www.aasega.org"
+ },
+ {
+  "name": "Area 16 District 8 Hotline",
+  "fellowship": "AA",
+  "area": "Macon, GA",
+  "lat": 32.8362,
+  "lng": -83.632,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(478) 232-6280"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist 07A 24 Hr Answering Service",
+  "fellowship": "AA",
+  "area": "Macon, GA",
+  "lat": 32.8362,
+  "lng": -83.632,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(833) 643-4222"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Georgia Service Assembly",
+  "fellowship": "AA",
+  "area": "Macon, GA",
+  "lat": 32.8362,
+  "lng": -83.632,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(478) 745-2588"
+   }
+  ],
+  "website": "http://www.aageorgia.org"
+ },
+ {
+  "name": "Savannah Intergroup Association Inc.",
+  "fellowship": "AA",
+  "area": "Savannah, GA",
+  "lat": 32.0809,
+  "lng": -81.0912,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(912) 356-3688"
+   }
+  ],
+  "website": "http://www.savannahaa.com"
+ },
+ {
+  "name": "East Hawaii Intergroup",
+  "fellowship": "AA",
+  "area": "Hilo, HI",
+  "lat": 19.7216,
+  "lng": -155.0849,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(808) 961-6133"
+   }
+  ],
+  "website": "http://www.easthawaiiaa.org"
+ },
+ {
+  "name": "West Hawaii Central Office",
+  "fellowship": "AA",
+  "area": "Kailua Kona, HI",
+  "lat": 19.6419,
+  "lng": -155.9962,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(808) 329-1212"
+   }
+  ],
+  "website": "http://www.westhawaiiaa.org"
+ },
+ {
+  "name": "Kauai Intergroup",
+  "fellowship": "AA",
+  "area": "Lihue, HI",
+  "lat": 21.9742,
+  "lng": -159.3673,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(808) 245-6677"
+   },
+   {
+    "label": "Office",
+    "number": "(808) 245-3680"
+   }
+  ],
+  "website": "http://www.kauaiaa.org"
+ },
+ {
+  "name": "Maui Central Office",
+  "fellowship": "AA",
+  "area": "Wailuku, HI",
+  "lat": 20.8869,
+  "lng": -156.5048,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(808) 244-9673"
+   }
+  ],
+  "website": "http://www.aamaui.org"
+ },
+ {
+  "name": "Ames Intergroup",
+  "fellowship": "AA",
+  "area": "Ames, IA",
+  "lat": 42.0321,
+  "lng": -93.5914,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(515) 232-8642"
+   }
+  ],
+  "website": "http://www.amesaa.org"
+ },
+ {
+  "name": "Answer Plus Answering Service",
+  "fellowship": "AA",
+  "area": "Cedar Rapids, IA",
+  "lat": 41.9779,
+  "lng": -91.6656,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(319) 365-5955"
+   }
+  ],
+  "website": "http://www.aa-cedarrapids.org"
+ },
+ {
+  "name": "24 Hour Answering Service",
+  "fellowship": "AA",
+  "area": "Davenport, IA",
+  "lat": 41.5238,
+  "lng": -90.5766,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(309) 764-1016"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dubuque Area Intergroup",
+  "fellowship": "AA",
+  "area": "Dubuque, IA",
+  "lat": 42.5292,
+  "lng": -90.6963,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(563) 557-9196"
+   }
+  ],
+  "website": "http://www.dubuqueaa.org"
+ },
+ {
+  "name": "Dist. 13 Intergroup",
+  "fellowship": "AA",
+  "area": "Iowa City, IA",
+  "lat": 41.66,
+  "lng": -91.53,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(319) 338-9111"
+   }
+  ],
+  "website": "https://aaiowacity.org/"
+ },
+ {
+  "name": "Siouxland Intergroup",
+  "fellowship": "AA",
+  "area": "Sioux City, IA",
+  "lat": 42.5171,
+  "lng": -96.4397,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(712) 252-1333"
+   }
+  ],
+  "website": "http://www.aasiouxcity.org"
+ },
+ {
+  "name": "Area 18 Answering Service-Boise",
+  "fellowship": "AA",
+  "area": "Boise, ID",
+  "lat": 43.615,
+  "lng": -116.2023,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(208) 344-6611"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Area 18  Spanish  Language Answering Service -Boise",
+  "fellowship": "AA",
+  "area": "Boise, ID",
+  "lat": 43.615,
+  "lng": -116.2023,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(208) 703-1574"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Treasure Valley Central Office",
+  "fellowship": "AA",
+  "area": "Boise, ID",
+  "lat": 43.615,
+  "lng": -116.2023,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(208) 344-6611"
+   }
+  ],
+  "website": "http://www.tvico.net"
+ },
+ {
+  "name": "Area 92 District 14 (North Idaho,Northwest Montana and Northeast Washington)",
+  "fellowship": "AA",
+  "area": "Bonners Ferry, ID",
+  "lat": 48.6913,
+  "lng": -116.3163,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 326-2164"
+   }
+  ],
+  "website": "http://district14-aa.org"
+ },
+ {
+  "name": "Area 18 Answering Service ( Burley and Rupert)",
+  "fellowship": "AA",
+  "area": "Burley, ID",
+  "lat": 42.5357,
+  "lng": -113.7928,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(208) 670-4313"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Central Office Of North Idaho",
+  "fellowship": "AA",
+  "area": "Coeur D Alene, ID",
+  "lat": 47.6735,
+  "lng": -116.7812,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(208) 667-4633"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Area 18 Answering Service (Gooding and Jerome)",
+  "fellowship": "AA",
+  "area": "Gooding, ID",
+  "lat": 42.9388,
+  "lng": -114.7131,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(208) 837-6048"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Area 18 Answering Service (Idaho Falls)",
+  "fellowship": "AA",
+  "area": "Idaho Falls, ID",
+  "lat": 43.4927,
+  "lng": -112.0408,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(208) 524-7729"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Area 18 Answering Service (Ketchum and Sun Valley)",
+  "fellowship": "AA",
+  "area": "Ketchum, ID",
+  "lat": 43.6807,
+  "lng": -114.3637,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(208) 721-0565"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Area 18 Spanish Language Answering Service-(Ketchum ,Sun Valley & Twin Falls)",
+  "fellowship": "AA",
+  "area": "Ketchum, ID",
+  "lat": 43.6807,
+  "lng": -114.3637,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(208) 721-2989"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Area 92 North Central Idaho Answering Service",
+  "fellowship": "AA",
+  "area": "Lewiston, ID",
+  "lat": 46.4041,
+  "lng": -117.002,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(888) 416-2016"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Area 18 Dist. 01 Answering Service (Pocatello and Blackfoot)",
+  "fellowship": "AA",
+  "area": "Pocatello, ID",
+  "lat": 42.8621,
+  "lng": -112.4506,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(208) 235-1444"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Area 18 Answering Service (Twin Falls)",
+  "fellowship": "AA",
+  "area": "Twin Falls, ID",
+  "lat": 42.5558,
+  "lng": -114.4701,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(208) 733-8300"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist. 18 Answering Service",
+  "fellowship": "AA",
+  "area": "Alton, IL",
+  "lat": 38.8906,
+  "lng": -90.1843,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(618) 251-4000"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist. 60,62,63,64 Answering Service",
+  "fellowship": "AA",
+  "area": "Aurora, IL",
+  "lat": 41.7606,
+  "lng": -88.3201,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(630) 859-2444"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist. 28 Answering Service",
+  "fellowship": "AA",
+  "area": "Barrington, IL",
+  "lat": 42.1539,
+  "lng": -88.1362,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(847) 382-4455"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist 23 Answering Service",
+  "fellowship": "AA",
+  "area": "Bartlett, IL",
+  "lat": 41.995,
+  "lng": -88.1856,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(847) 893-9034"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Bloomington/Normal Answering Service",
+  "fellowship": "AA",
+  "area": "Bloomington, IL",
+  "lat": 40.4769,
+  "lng": -88.992,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(309) 828-7092"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Oficina Intergrupal Sureste",
+  "fellowship": "AA",
+  "area": "Blue Island, IL",
+  "lat": 41.6527,
+  "lng": -87.6828,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(708) 239-5640"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist 12 Answering Service",
+  "fellowship": "AA",
+  "area": "Champaign, IL",
+  "lat": 40.1163,
+  "lng": -88.2435,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(217) 373-4200"
+   }
+  ],
+  "website": "http://www.aa-eci.org"
+ },
+ {
+  "name": "Oficina Intergrupal Del Sur De Chicago",
+  "fellowship": "AA",
+  "area": "Chicago, IL",
+  "lat": 41.8832,
+  "lng": -87.6324,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(773) 639-0001"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Chicago Area Service Office",
+  "fellowship": "AA",
+  "area": "Chicago, IL",
+  "lat": 41.8832,
+  "lng": -87.6324,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(800) 371-1475"
+   },
+   {
+    "label": "Office",
+    "number": "(312) 346-1475"
+   }
+  ],
+  "website": "http://www.chicagoaa.org"
+ },
+ {
+  "name": "Dist. 11 Answering Service",
+  "fellowship": "AA",
+  "area": "Crystal Lake, IL",
+  "lat": 42.2411,
+  "lng": -88.3162,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(815) 455-3311"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist. 71 Answering Service",
+  "fellowship": "AA",
+  "area": "DeKalb, IL",
+  "lat": 41.9295,
+  "lng": -88.7499,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 452-7990"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist. 73 Answering Service",
+  "fellowship": "AA",
+  "area": "Dixon, IL",
+  "lat": 41.838,
+  "lng": -89.4802,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 452-7990"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist. 42 Answering Service",
+  "fellowship": "AA",
+  "area": "Downers Grove, IL",
+  "lat": 41.8089,
+  "lng": -88.0112,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(630) 387-9942"
+   }
+  ],
+  "website": "https://aa-nia-dist42.com/"
+ },
+ {
+  "name": "Dist. 22 Answering Service",
+  "fellowship": "AA",
+  "area": "Elgin, IL",
+  "lat": 42.0354,
+  "lng": -88.2826,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(224) 325-4414"
+   },
+   {
+    "label": "Office",
+    "number": "(847) 742-7870"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Intergrupal Noroeste",
+  "fellowship": "AA",
+  "area": "Elgin, IL",
+  "lat": 42.0354,
+  "lng": -88.2826,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(847) 695-9123"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist. 41 Answering Service",
+  "fellowship": "AA",
+  "area": "Elmhurst, IL",
+  "lat": 41.9035,
+  "lng": -87.9398,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(630) 833-7897"
+   }
+  ],
+  "website": "https://www.dupage41aa.org"
+ },
+ {
+  "name": "Dist. 72 Answering Service",
+  "fellowship": "AA",
+  "area": "Freeport, IL",
+  "lat": 42.2967,
+  "lng": -89.6212,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 452-7990"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist. 91 Central Office",
+  "fellowship": "AA",
+  "area": "Galesburg, IL",
+  "lat": 40.9478,
+  "lng": -90.3712,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(309) 343-1530"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist. 40 Answering Service",
+  "fellowship": "AA",
+  "area": "Glen Ellyn, IL",
+  "lat": 41.8775,
+  "lng": -88.067,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(630) 653-6556"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist. 51 Answering Service",
+  "fellowship": "AA",
+  "area": "Joliet, IL",
+  "lat": 41.525,
+  "lng": -88.083,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(815) 741-6637"
+   }
+  ],
+  "website": "http://www.aadistrict51.org"
+ },
+ {
+  "name": "Dist. 52 Answering Service",
+  "fellowship": "AA",
+  "area": "Kankakee, IL",
+  "lat": 41.12,
+  "lng": -87.8612,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(815) 939-4996"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Antioch/Gumee/RoundLake/Libertyville Area",
+  "fellowship": "AA",
+  "area": "Libertyville, IL",
+  "lat": 42.2831,
+  "lng": -87.9531,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(877) 893-1212"
+   }
+  ],
+  "website": "http://www.district10nia.org"
+ },
+ {
+  "name": "S.I.A. 21 District 20",
+  "fellowship": "AA",
+  "area": "Macomb, IL",
+  "lat": 40.4592,
+  "lng": -90.6718,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(309) 839-9430"
+   }
+  ],
+  "website": "http://www.aad20.org"
+ },
+ {
+  "name": "Dist. 43 Answering Service",
+  "fellowship": "AA",
+  "area": "Naperville, IL",
+  "lat": 41.7508,
+  "lng": -88.1535,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(630) 355-2622"
+   }
+  ],
+  "website": "https://aa-nia-dist43.org/"
+ },
+ {
+  "name": "Dist. 21 Answering Service",
+  "fellowship": "AA",
+  "area": "Palatine, IL",
+  "lat": 42.1103,
+  "lng": -88.0342,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(847) 359-3311"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Peoria Area Intergroup Association",
+  "fellowship": "AA",
+  "area": "Peoria, IL",
+  "lat": 40.7658,
+  "lng": -89.5969,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(309) 687-1329"
+   }
+  ],
+  "website": "http://www.aapeoria.org"
+ },
+ {
+  "name": "Rockford Area Intergroup",
+  "fellowship": "AA",
+  "area": "Rockford, IL",
+  "lat": 42.2677,
+  "lng": -89.0878,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(815) 968-0333"
+   }
+  ],
+  "website": "http://www.rockfordaa.org"
+ },
+ {
+  "name": "Dist. 61 Answering Service",
+  "fellowship": "AA",
+  "area": "Saint Charles, IL",
+  "lat": 41.9142,
+  "lng": -88.3087,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(630) 492-1255"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "A.A. District 19 Hotline",
+  "fellowship": "AA",
+  "area": "Springfield, IL",
+  "lat": 39.8007,
+  "lng": -89.6449,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(217) 525-5795"
+   }
+  ],
+  "website": "http://www.aaspringfield.org"
+ },
+ {
+  "name": "Madison County Intergroup",
+  "fellowship": "AA",
+  "area": "Anderson, IN",
+  "lat": 40.1009,
+  "lng": -85.7111,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(765) 356-1739"
+   },
+   {
+    "label": "Office",
+    "number": "(765) 620-1257"
+   }
+  ],
+  "website": "http://www.madcoaa.org"
+ },
+ {
+  "name": "Central Service Office",
+  "fellowship": "AA",
+  "area": "Elkhart, IN",
+  "lat": 41.6062,
+  "lng": -85.8486,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(574) 295-8188"
+   }
+  ],
+  "website": "http://www.aaelkhart.org"
+ },
+ {
+  "name": "Fort Wayne Area Intergroup",
+  "fellowship": "AA",
+  "area": "Fort Wayne, IN",
+  "lat": 41.0795,
+  "lng": -85.1363,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(260) 471-6262"
+   }
+  ],
+  "website": "http://www.aaftwayne.org"
+ },
+ {
+  "name": "Calumet Area Intergroup",
+  "fellowship": "AA",
+  "area": "Hammond, IN",
+  "lat": 41.5834,
+  "lng": -87.5,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(219) 660-0867"
+   },
+   {
+    "label": "Office",
+    "number": "(219) 844-6695"
+   }
+  ],
+  "website": "http://www.aanwi.org"
+ },
+ {
+  "name": "Indianapolis Intergroup Inc.",
+  "fellowship": "AA",
+  "area": "Indianapolis, IN",
+  "lat": 39.7691,
+  "lng": -86.158,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(317) 632-7864"
+   }
+  ],
+  "website": "http://www.indyaa.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana",
+  "fellowship": "AA",
+  "area": "Indianapolis, IN",
+  "lat": 39.7691,
+  "lng": -86.158,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(317) 975-9604"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Muncie Tri-District 85,87,89, Intergroup",
+  "fellowship": "AA",
+  "area": "Muncie, IN",
+  "lat": 40.12,
+  "lng": -85.34,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(765) 284-2515"
+   }
+  ],
+  "website": "http://www.aamuncie.org"
+ },
+ {
+  "name": "Michiana Central Service Office",
+  "fellowship": "AA",
+  "area": "South Bend, IN",
+  "lat": 41.6841,
+  "lng": -86.2311,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(574) 234-7007"
+   }
+  ],
+  "website": "https://www.michianasober.com/"
+ },
+ {
+  "name": "Wabash Valley Intergroup",
+  "fellowship": "AA",
+  "area": "Terre Haute, IN",
+  "lat": 39.3539,
+  "lng": -87.4009,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(812) 240-0092"
+   },
+   {
+    "label": "Office",
+    "number": "(812) 235-7263"
+   }
+  ],
+  "website": "http://www.terrehauteaa.com"
+ },
+ {
+  "name": "Lafayette Area Districts 49 & 51",
+  "fellowship": "AA",
+  "area": "West Lafayette, IN",
+  "lat": 40.4259,
+  "lng": -86.9081,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(765) 742-1666"
+   }
+  ],
+  "website": "http://www.aalafayette.org"
+ },
+ {
+  "name": "Alcoholics Anonymous Kansas District 23",
+  "fellowship": "AA",
+  "area": "Lawrence, KS",
+  "lat": 39.0177,
+  "lng": -95.2058,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(785) 842-0110"
+   }
+  ],
+  "website": "http://www.aa-ksdist23.org"
+ },
+ {
+  "name": "Area 25 District 6 Hotline",
+  "fellowship": "AA",
+  "area": "Manhattan, KS",
+  "lat": 39.1795,
+  "lng": -96.5733,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 564-0515"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Topeka Area Answering Service",
+  "fellowship": "AA",
+  "area": "Topeka, KS",
+  "lat": 39.0473,
+  "lng": -95.6752,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(785) 235-2226"
+   }
+  ],
+  "website": "http://www.aatopeka.org"
+ },
+ {
+  "name": "Wichita Area Central Office",
+  "fellowship": "AA",
+  "area": "Wichita, KS",
+  "lat": 37.6935,
+  "lng": -97.3382,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(316) 684-3661"
+   }
+  ],
+  "website": "http://www.aawichita.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana Witchita Kansas",
+  "fellowship": "AA",
+  "area": "Witchita, KS",
+  "lat": 37.6723,
+  "lng": -97.3139,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(316) 871-1599"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Bowling Green Central Office",
+  "fellowship": "AA",
+  "area": "Bowling Green, KY",
+  "lat": 36.9931,
+  "lng": -86.4429,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(270) 782-5267"
+   }
+  ],
+  "website": "https://bowlinggreenaa.org/"
+ },
+ {
+  "name": "No. Kentucky Central Office",
+  "fellowship": "AA",
+  "area": "Covington, KY",
+  "lat": 39.0837,
+  "lng": -84.5086,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(859) 491-7181"
+   }
+  ],
+  "website": "http://www.nkyaa.info"
+ },
+ {
+  "name": "Bluegrass Intergroup",
+  "fellowship": "AA",
+  "area": "Lexington, KY",
+  "lat": 38.0389,
+  "lng": -84.5153,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(859) 559-5368"
+   }
+  ],
+  "website": "http://www.bluegrassintergroup.org"
+ },
+ {
+  "name": "Western Kentucky Intergroup",
+  "fellowship": "AA",
+  "area": "Murray, KY",
+  "lat": 36.6103,
+  "lng": -88.3148,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(800) 606-6047"
+   },
+   {
+    "label": "Office",
+    "number": "(270) 401-7583"
+   }
+  ],
+  "website": "http://www.wkintergroup.org"
+ },
+ {
+  "name": "Yellowbanks Central Office",
+  "fellowship": "AA",
+  "area": "Owensboro, KY",
+  "lat": 37.7674,
+  "lng": -87.1129,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(270) 683-0371"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Greater Baton Rouge AA Central Office",
+  "fellowship": "AA",
+  "area": "Baton Rouge, LA",
+  "lat": 30.4515,
+  "lng": -91.1871,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(225) 930-0026"
+   }
+  ],
+  "website": "http://www.aabatonrouge.org"
+ },
+ {
+  "name": "17th District Intergroup",
+  "fellowship": "AA",
+  "area": "Houma, LA",
+  "lat": 29.6374,
+  "lng": -90.7602,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(985) 326-3789"
+   }
+  ],
+  "website": "http://www.bayouaa.org"
+ },
+ {
+  "name": "Acadiana Area Central Office",
+  "fellowship": "AA",
+  "area": "Lafayette, LA",
+  "lat": 30.2241,
+  "lng": -92.0198,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(337) 991-0830"
+   }
+  ],
+  "website": "http://www.aa-acadiana.org"
+ },
+ {
+  "name": "Oficina Intergrupo De New Orleans",
+  "fellowship": "AA",
+  "area": "Metairie, LA",
+  "lat": 30.0126,
+  "lng": -90.1923,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(504) 444-2677"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Northeast Louisiana District 4",
+  "fellowship": "AA",
+  "area": "Monroe, LA",
+  "lat": 32.5093,
+  "lng": -92.1193,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(318) 582-0234"
+   }
+  ],
+  "website": "https://ladistrict4.org/"
+ },
+ {
+  "name": "Area 27  District 6 Hotline",
+  "fellowship": "AA",
+  "area": "Natchitoches, LA",
+  "lat": 31.7607,
+  "lng": -93.0863,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(318) 357-1331"
+   }
+  ],
+  "website": "http://www.aanatchitoches-district6.org"
+ },
+ {
+  "name": "Central Office",
+  "fellowship": "AA",
+  "area": "Shreveport, LA",
+  "lat": 32.513,
+  "lng": -93.7515,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(318) 865-2172"
+   }
+  ],
+  "website": "http://www.aa-shreveport.org"
+ },
+ {
+  "name": "Boston Central Service",
+  "fellowship": "AA",
+  "area": "Boston, MA",
+  "lat": 42.3555,
+  "lng": -71.0565,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(617) 426-9444"
+   }
+  ],
+  "website": "http://www.aaboston.org"
+ },
+ {
+  "name": "Cape Cod Intergroup",
+  "fellowship": "AA",
+  "area": "Hyannis, MA",
+  "lat": 41.6525,
+  "lng": -70.2881,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(508) 775-7060"
+   }
+  ],
+  "website": "http://www.capecodaa.net"
+ },
+ {
+  "name": "Lowell Dist. 21 Answering Service",
+  "fellowship": "AA",
+  "area": "Lowell, MA",
+  "lat": 42.6459,
+  "lng": -71.3127,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(978) 957-4690"
+   }
+  ],
+  "website": "http://www.aaemassd21.org"
+ },
+ {
+  "name": "Nantucket Intergroup",
+  "fellowship": "AA",
+  "area": "Nantucket, MA",
+  "lat": 41.2853,
+  "lng": -70.0988,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(508) 228-2334"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Martha's Vineyard Answering Service",
+  "fellowship": "AA",
+  "area": "Oaks Bluff, MA",
+  "lat": 41.4556,
+  "lng": -70.5678,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(508) 627-7084"
+   }
+  ],
+  "website": "http://www.aaonmv.org"
+ },
+ {
+  "name": "Berkshire Intergroup Office",
+  "fellowship": "AA",
+  "area": "Pittsfield, MA",
+  "lat": 42.4501,
+  "lng": -73.2454,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(413) 443-0212"
+   },
+   {
+    "label": "Office",
+    "number": "(413) 448-2382"
+   }
+  ],
+  "website": "https://www.Berkshireintergroup.org"
+ },
+ {
+  "name": "Western Mass De Habla Hispana",
+  "fellowship": "AA",
+  "area": "Springfield, MA",
+  "lat": 42.1013,
+  "lng": -72.5893,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(413) 734-7500"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Worcester Area Intergroup Inc.",
+  "fellowship": "AA",
+  "area": "Worcester, MA",
+  "lat": 42.2628,
+  "lng": -71.8025,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(508) 752-9000"
+   }
+  ],
+  "website": "http://www.aaworcester.org"
+ },
+ {
+  "name": "Northeastern Maryland Intergroup",
+  "fellowship": "AA",
+  "area": "Aberdeen, MD",
+  "lat": 39.5096,
+  "lng": -76.1641,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(410) 272-4150"
+   }
+  ],
+  "website": "http://www.nemdaa.org"
+ },
+ {
+  "name": "Southern Maryland Intergroup",
+  "fellowship": "AA",
+  "area": "Charlotte Hall, MD",
+  "lat": 38.481,
+  "lng": -76.778,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(800) 492-0209"
+   }
+  ],
+  "website": "http://www.somdintergroup.org"
+ },
+ {
+  "name": "Western Maryland Intergroup",
+  "fellowship": "AA",
+  "area": "Cumberland, MD",
+  "lat": 39.6529,
+  "lng": -78.7625,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(844) 568-3422"
+   }
+  ],
+  "website": "https://westernmarylandaa.wixsite.com/website"
+ },
+ {
+  "name": "Midshore Intergroup",
+  "fellowship": "AA",
+  "area": "Easton, MD",
+  "lat": 38.7743,
+  "lng": -76.0763,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(410) 822-4226"
+   }
+  ],
+  "website": "http://www.midshoreintergroup.org"
+ },
+ {
+  "name": "West/Central Intergroup Of Maryland",
+  "fellowship": "AA",
+  "area": "Frederick, MD",
+  "lat": 39.4143,
+  "lng": -77.4105,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(443) 974-7038"
+   }
+  ],
+  "website": "http://www.westcentralaa.org"
+ },
+ {
+  "name": "Hagerstown Area Intergroup",
+  "fellowship": "AA",
+  "area": "Hagerstown, MD",
+  "lat": 39.6418,
+  "lng": -77.72,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(301) 733-1109"
+   },
+   {
+    "label": "Office",
+    "number": "(240) 850-2677"
+   }
+  ],
+  "website": "http://www.hagerstownaa.org"
+ },
+ {
+  "name": "Ocean City Fellowship Intergroup",
+  "fellowship": "AA",
+  "area": "Ocean City, MD",
+  "lat": 38.3367,
+  "lng": -75.087,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(410) 600-5219"
+   }
+  ],
+  "website": "http://www.ocaa.org"
+ },
+ {
+  "name": "Lower Shore Intergroup",
+  "fellowship": "AA",
+  "area": "Salisbury, MD",
+  "lat": 38.3607,
+  "lng": -75.5994,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(410) 543-2266"
+   }
+  ],
+  "website": "http://www.lsiaa.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana",
+  "fellowship": "AA",
+  "area": "Silver Spring, MD",
+  "lat": 39.0,
+  "lng": -77.03,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(202) 427-1871"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Down East Intergroup",
+  "fellowship": "AA",
+  "area": "Ellsworth, ME",
+  "lat": 44.5411,
+  "lng": -68.425,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(207) 479-1779"
+   }
+  ],
+  "website": "http://www.downeastintergroup.org"
+ },
+ {
+  "name": "Central Service Office",
+  "fellowship": "AA",
+  "area": "Portland, ME",
+  "lat": 43.6708,
+  "lng": -70.2844,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(207) 774-4335"
+   },
+   {
+    "label": "Office",
+    "number": "(207) 774-3034"
+   }
+  ],
+  "website": "http://www.csoaamaine.org"
+ },
+ {
+  "name": "District 28 Unity Council Answering Service",
+  "fellowship": "AA",
+  "area": "Alpena, MI",
+  "lat": 45.0617,
+  "lng": -83.4328,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(989) 354-2728"
+   }
+  ],
+  "website": "http://www.cmia32.org"
+ },
+ {
+  "name": "24 Hour Hotline",
+  "fellowship": "AA",
+  "area": "Battle Creek, MI",
+  "lat": 42.3212,
+  "lng": -85.1797,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(269) 964-7577"
+   }
+  ],
+  "website": "http://www.westmidistrict5aa.org"
+ },
+ {
+  "name": "Bay County Unity Intergroup",
+  "fellowship": "AA",
+  "area": "Bay City, MI",
+  "lat": 43.5945,
+  "lng": -83.8889,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(989) 894-1949"
+   }
+  ],
+  "website": "http://www.baycountyaa.org"
+ },
+ {
+  "name": "Detroit & Wayne County Office",
+  "fellowship": "AA",
+  "area": "Detroit, MI",
+  "lat": 42.3297,
+  "lng": -83.0425,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(313) 831-5550"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "A.A. Of Greater Detroit",
+  "fellowship": "AA",
+  "area": "Ferndale, MI",
+  "lat": 42.4606,
+  "lng": -83.1346,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(877) 337-0611"
+   },
+   {
+    "label": "Office",
+    "number": "(248) 541-6565"
+   }
+  ],
+  "website": "https://www.aaferndale.org"
+ },
+ {
+  "name": "Flint Area Unity Council 24",
+  "fellowship": "AA",
+  "area": "Flint, MI",
+  "lat": 43.0125,
+  "lng": -83.6875,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(810) 234-0815"
+   }
+  ],
+  "website": "http://geneseecountyaa.org"
+ },
+ {
+  "name": "Dist.12-Area 34 Answering Service",
+  "fellowship": "AA",
+  "area": "Gaylord, MI",
+  "lat": 45.0275,
+  "lng": -84.6748,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(888) 596-0699"
+   }
+  ],
+  "website": "http://www.area34district12.org"
+ },
+ {
+  "name": "Kent County Central Office",
+  "fellowship": "AA",
+  "area": "Grand Rapids, MI",
+  "lat": 42.9704,
+  "lng": -85.6722,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(616) 913-9149"
+   },
+   {
+    "label": "Office",
+    "number": "(616) 913-9216"
+   }
+  ],
+  "website": "http://www.grandrapidsaa.org"
+ },
+ {
+  "name": "WMD3 A.A. Ansr Serv -  Lake MI Shoreline Area, Holland, So. Haven & Covert",
+  "fellowship": "AA",
+  "area": "Holland, MI",
+  "lat": 42.7894,
+  "lng": -86.109,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(616) 834-1191"
+   }
+  ],
+  "website": "http://www.wmd3aa.org"
+ },
+ {
+  "name": "District 26 Unity Council Answering Service",
+  "fellowship": "AA",
+  "area": "Houghton Lake, MI",
+  "lat": 44.3147,
+  "lng": -84.7647,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(866) 227-0015"
+   }
+  ],
+  "website": "http://www.dist26aa.org"
+ },
+ {
+  "name": "District 8 Livingston County Answering Service",
+  "fellowship": "AA",
+  "area": "Howell, MI",
+  "lat": 42.6073,
+  "lng": -83.9294,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(517) 540-9533"
+   }
+  ],
+  "website": "https://www.d8aa.org/"
+ },
+ {
+  "name": "Jackson Area Answering Service",
+  "fellowship": "AA",
+  "area": "Jackson, MI",
+  "lat": 42.2459,
+  "lng": -84.4013,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(517) 789-8883"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Lansing Central Office",
+  "fellowship": "AA",
+  "area": "Lansing, MI",
+  "lat": 42.7336,
+  "lng": -84.5539,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(517) 377-1445"
+   }
+  ],
+  "website": "http://www.aalansingmi.org"
+ },
+ {
+  "name": "Dist. 18 Answering Service",
+  "fellowship": "AA",
+  "area": "Marquette, MI",
+  "lat": 46.5436,
+  "lng": -87.3954,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 605-5043"
+   }
+  ],
+  "website": "http://www.aa-marquettecounty.org"
+ },
+ {
+  "name": "District 20 Midland County",
+  "fellowship": "AA",
+  "area": "Midland, MI",
+  "lat": 43.6156,
+  "lng": -84.2472,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(989) 698-2975"
+   }
+  ],
+  "website": "http://www.midlandaa.org"
+ },
+ {
+  "name": "Monroe Intergroup",
+  "fellowship": "AA",
+  "area": "Monroe, MI",
+  "lat": 41.9164,
+  "lng": -83.3977,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(734) 240-4844"
+   }
+  ],
+  "website": "http://www.monroeaa.org"
+ },
+ {
+  "name": "Dist. 10 Answering Service",
+  "fellowship": "AA",
+  "area": "Owosso, MI",
+  "lat": 42.9978,
+  "lng": -84.1766,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(989) 723-5711"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "A.A. Of Oakland County",
+  "fellowship": "AA",
+  "area": "Pontiac, MI",
+  "lat": 42.6374,
+  "lng": -83.2885,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(248) 332-3521"
+   },
+   {
+    "label": "Office",
+    "number": "(248) 332-6116"
+   }
+  ],
+  "website": "http://www.aaoaklandcountymi.org"
+ },
+ {
+  "name": "Kalamazoo Area Intergroup",
+  "fellowship": "AA",
+  "area": "Portage, MI",
+  "lat": 42.201,
+  "lng": -85.5916,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(269) 349-4410"
+   },
+   {
+    "label": "Office",
+    "number": "(269) 382-5244"
+   }
+  ],
+  "website": "http://www.aakalamazoo.org"
+ },
+ {
+  "name": "Dist. 16 Answering Service",
+  "fellowship": "AA",
+  "area": "Rudyard, MI",
+  "lat": 46.1995,
+  "lng": -84.6584,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(906) 240-9897"
+   }
+  ],
+  "website": "http://www.eupaa.org/"
+ },
+ {
+  "name": "Saginaw Valley Answering Service",
+  "fellowship": "AA",
+  "area": "Saginaw, MI",
+  "lat": 43.4333,
+  "lng": -83.939,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(989) 776-1241"
+   }
+  ],
+  "website": "http://www.saginawaa.org"
+ },
+ {
+  "name": "Dist. 10 Intergroup",
+  "fellowship": "AA",
+  "area": "Saint Charles, MI",
+  "lat": 43.2995,
+  "lng": -84.1429,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(989) 723-5711"
+   }
+  ],
+  "website": "http://www.shiacoaa.org"
+ },
+ {
+  "name": "Sanilac County Hotline",
+  "fellowship": "AA",
+  "area": "Sandusky, MI",
+  "lat": 43.4203,
+  "lng": -82.8297,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(810) 366-0324"
+   }
+  ],
+  "website": "http://aa-semi.org"
+ },
+ {
+  "name": "Southwest Michigan Local Helpline - Berrien & Cass County MI",
+  "fellowship": "AA",
+  "area": "Saint Joseph, MI",
+  "lat": 42.0939,
+  "lng": -86.4895,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(269) 281-4939"
+   }
+  ],
+  "website": "http://southwestmichiganaa.org"
+ },
+ {
+  "name": "Southwest Central Intergroup",
+  "fellowship": "AA",
+  "area": "Sturgis, MI",
+  "lat": 41.7992,
+  "lng": -85.4191,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(616) 467-1107"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Northern Michigan Central Office",
+  "fellowship": "AA",
+  "area": "Traverse City, MI",
+  "lat": 44.7629,
+  "lng": -85.621,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(231) 946-8823"
+   }
+  ],
+  "website": "https://nmcentraloffice.org/"
+ },
+ {
+  "name": "Huron Valley Intergroup Inc.",
+  "fellowship": "AA",
+  "area": "Ypsilanti, MI",
+  "lat": 42.2411,
+  "lng": -83.613,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(734) 482-5700"
+   },
+   {
+    "label": "Office",
+    "number": "(734) 482-0707"
+   }
+  ],
+  "website": "http://www.hvai.org"
+ },
+ {
+  "name": "Answering Service",
+  "fellowship": "AA",
+  "area": "Albert Lea, MN",
+  "lat": 43.6478,
+  "lng": -93.3687,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(507) 373-7307"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Answering Service",
+  "fellowship": "AA",
+  "area": "Austin, MN",
+  "lat": 43.6666,
+  "lng": -92.9746,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(507) 438-7846"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Greater Minneapolis Intergroup",
+  "fellowship": "AA",
+  "area": "Minneapolis, MN",
+  "lat": 44.9778,
+  "lng": -93.265,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(952) 922-0880"
+   }
+  ],
+  "website": "http://www.aaminneapolis.org"
+ },
+ {
+  "name": "Alcoholics Anonymous Information Dist 1 Of Area 36",
+  "fellowship": "AA",
+  "area": "Rochester, MN",
+  "lat": 44.0193,
+  "lng": -92.4588,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(507) 281-1747"
+   }
+  ],
+  "website": "http://www.aadistrict1.org"
+ },
+ {
+  "name": "St. Cloud Intergroup",
+  "fellowship": "AA",
+  "area": "Saint Cloud, MN",
+  "lat": 45.5579,
+  "lng": -94.1632,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(320) 204-6005"
+   }
+  ],
+  "website": "http://aasaintcloud.org/"
+ },
+ {
+  "name": "Dist. 12 Office 24 Hr. Answering Service",
+  "fellowship": "AA",
+  "area": "Columbia, MO",
+  "lat": 38.9518,
+  "lng": -92.3283,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(573) 442-4424"
+   }
+  ],
+  "website": "http://www.d12aa.org"
+ },
+ {
+  "name": "North County Intergroup Office (NCO)",
+  "fellowship": "AA",
+  "area": "Hazelwood, MO",
+  "lat": 38.7885,
+  "lng": -90.4031,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(314) 731-4854"
+   }
+  ],
+  "website": "https://nco-aa.org/"
+ },
+ {
+  "name": "Kansas City Area Central Office",
+  "fellowship": "AA",
+  "area": "North Kansas City, MO",
+  "lat": 39.1429,
+  "lng": -94.573,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(816) 471-7229"
+   }
+  ],
+  "website": "http://www.kc-aa.org"
+ },
+ {
+  "name": "Tri County Intergroup",
+  "fellowship": "AA",
+  "area": "O’Fallon, MO",
+  "lat": 38.8602,
+  "lng": -90.7153,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(636) 970-0013"
+   },
+   {
+    "label": "Office",
+    "number": "(843) 830-2660"
+   }
+  ],
+  "website": "http://tricountyaa.org"
+ },
+ {
+  "name": "District 6 AA Answering Service",
+  "fellowship": "AA",
+  "area": "Park Hills, MO",
+  "lat": 37.8542,
+  "lng": -90.5182,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(573) 482-4120"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Central Services Of A.A.(St. Louis Central Service Office)",
+  "fellowship": "AA",
+  "area": "St Louis, MO",
+  "lat": 38.6274,
+  "lng": -90.1982,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(314) 647-3677"
+   }
+  ],
+  "website": "http://www.aastl.org"
+ },
+ {
+  "name": "Cleveland 24 Hour Answering Service",
+  "fellowship": "AA",
+  "area": "Cleveland, MS",
+  "lat": 33.744,
+  "lng": -90.7248,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(662) 846-1132"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Area 37 District 22 Answering Service",
+  "fellowship": "AA",
+  "area": "Hattiesburg, MS",
+  "lat": 31.3271,
+  "lng": -89.2903,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(601) 583-5910"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Laurel Intergroup",
+  "fellowship": "AA",
+  "area": "Laurel, MS",
+  "lat": 31.6995,
+  "lng": -89.1373,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(601) 422-7311"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "South Mississippi Intergroup",
+  "fellowship": "AA",
+  "area": "Long Beach, MS",
+  "lat": 30.3505,
+  "lng": -89.1528,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(228) 575-9225"
+   }
+  ],
+  "website": "http://www.aagulfcoast.org"
+ },
+ {
+  "name": "North Central Mississippi 24-Hr Hotline",
+  "fellowship": "AA",
+  "area": "Oxford, MS",
+  "lat": 34.366,
+  "lng": -89.5188,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(662) 533-9102"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Vicksburg Answering Service",
+  "fellowship": "AA",
+  "area": "Vicksburg, MS",
+  "lat": 32.3526,
+  "lng": -90.8779,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(601) 636-1134"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Area 40 (Montana) Hotline",
+  "fellowship": "AA",
+  "area": "Billings, MT",
+  "lat": 45.7828,
+  "lng": -108.5046,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(888) 607-2000"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Flathead Valley Intergroup",
+  "fellowship": "AA",
+  "area": "Columbia Falls, MT",
+  "lat": 48.38,
+  "lng": -114.1804,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(833) 800-8553"
+   },
+   {
+    "label": "Office",
+    "number": "(406) 991-7052"
+   }
+  ],
+  "website": "http://www.aanwmt.org"
+ },
+ {
+  "name": "Sandhills Intergroup",
+  "fellowship": "AA",
+  "area": "Aberdeen, NC",
+  "lat": 35.1315,
+  "lng": -79.4295,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(910) 420-0575"
+   }
+  ],
+  "website": "http://www.moorecountyaa.org"
+ },
+ {
+  "name": "NC Mountain Central Office",
+  "fellowship": "AA",
+  "area": "Asheville, NC",
+  "lat": 35.5975,
+  "lng": -82.5461,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(828) 254-8539"
+   }
+  ],
+  "website": "http://www.aaNCMCO.org"
+ },
+ {
+  "name": "Boone Intergroup",
+  "fellowship": "AA",
+  "area": "Boone, NC",
+  "lat": 36.2182,
+  "lng": -81.683,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(828) 264-1212"
+   },
+   {
+    "label": "Office",
+    "number": "(828) 264-0208"
+   }
+  ],
+  "website": "http://www.booneaa.org"
+ },
+ {
+  "name": "Dist. 33 Answering Service-Alamance,Caswell,Chatham, Orange Counties",
+  "fellowship": "AA",
+  "area": "Chapel Hill, NC",
+  "lat": 35.91,
+  "lng": -79.06,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(919) 783-6144"
+   }
+  ],
+  "website": "http://www.aanc33.org"
+ },
+ {
+  "name": "Metrolina Intergroup",
+  "fellowship": "AA",
+  "area": "Charlotte, NC",
+  "lat": 35.2271,
+  "lng": -80.8409,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(877) 233-6853"
+   },
+   {
+    "label": "Office",
+    "number": "(704) 377-0244"
+   }
+  ],
+  "website": "http://www.charlotteaa.org"
+ },
+ {
+  "name": "Durham County Answering Service",
+  "fellowship": "AA",
+  "area": "Durham County, NC",
+  "lat": 36.0484,
+  "lng": -78.8836,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(919) 286-9499"
+   }
+  ],
+  "website": "http://www.aanc32.org"
+ },
+ {
+  "name": "Bladen, Cumberland, Robeson Central Office",
+  "fellowship": "AA",
+  "area": "Fayetteville, NC",
+  "lat": 35.0524,
+  "lng": -78.8784,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(910) 678-8733"
+   }
+  ],
+  "website": "http://www.fayaa.org"
+ },
+ {
+  "name": "Greensboro Intergroup",
+  "fellowship": "AA",
+  "area": "Greensboro, NC",
+  "lat": 36.0726,
+  "lng": -79.7915,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(336) 274-1501"
+   },
+   {
+    "label": "Office",
+    "number": "(336) 854-4278"
+   }
+  ],
+  "website": "http://www.aagreensboronc.com"
+ },
+ {
+  "name": "High Point Intergroup",
+  "fellowship": "AA",
+  "area": "High Point, NC",
+  "lat": 35.9557,
+  "lng": -80.0053,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(336) 885-8520"
+   }
+  ],
+  "website": "http://www.highpointaa.org"
+ },
+ {
+  "name": "Dist 93 Intergroup Covering Outer Banks",
+  "fellowship": "AA",
+  "area": "Kitty Hawk, NC",
+  "lat": 36.0646,
+  "lng": -75.7057,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(252) 256-0850"
+   }
+  ],
+  "website": "http://www.aaobx.com"
+ },
+ {
+  "name": "Carteret County Answering Service",
+  "fellowship": "AA",
+  "area": "Morehead City, NC",
+  "lat": 34.7229,
+  "lng": -76.726,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(252) 726-8540"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Tri-County Intergroup",
+  "fellowship": "AA",
+  "area": "Raleigh, NC",
+  "lat": 35.7796,
+  "lng": -78.6382,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(919) 783-6144"
+   },
+   {
+    "label": "Office",
+    "number": "(919) 783-8214"
+   }
+  ],
+  "website": "http://www.raleighaa.com"
+ },
+ {
+  "name": "Iredell Intergroup",
+  "fellowship": "AA",
+  "area": "Statesville, NC",
+  "lat": 35.7678,
+  "lng": -80.9208,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(704) 878-6404"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Wilmington Intergroup Association",
+  "fellowship": "AA",
+  "area": "Wilmington, NC",
+  "lat": 34.2104,
+  "lng": -77.8868,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(910) 794-1840"
+   }
+  ],
+  "website": "http://www.wilmingtonaa.org"
+ },
+ {
+  "name": "1st Link 211 Helpline",
+  "fellowship": "AA",
+  "area": "Fargo, ND",
+  "lat": 46.8772,
+  "lng": -96.7898,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(701) 235-7355"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Grand Forks A.A. Answering Service",
+  "fellowship": "AA",
+  "area": "Grand Forks, ND",
+  "lat": 47.9253,
+  "lng": -97.0329,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(701) 330-4339"
+   }
+  ],
+  "website": "http://grandforksaa.org"
+ },
+ {
+  "name": "Hastings Nebraska Intergroup",
+  "fellowship": "AA",
+  "area": "Hastings, NE",
+  "lat": 40.5863,
+  "lng": -98.3899,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(402) 463-9024"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Lincoln Central Office",
+  "fellowship": "AA",
+  "area": "Lincoln, NE",
+  "lat": 40.8137,
+  "lng": -96.7026,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(402) 438-5214"
+   }
+  ],
+  "website": "https://lincolncsoffice.org/"
+ },
+ {
+  "name": "Norfolk Area Intergroup",
+  "fellowship": "AA",
+  "area": "Norfolk, NE",
+  "lat": 42.0327,
+  "lng": -97.4168,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(402) 371-9859"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Omaha Central Office",
+  "fellowship": "AA",
+  "area": "Omaha, NE",
+  "lat": 41.2565,
+  "lng": -95.9345,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(402) 556-1880"
+   }
+  ],
+  "website": "http://www.omahaaa.org"
+ },
+ {
+  "name": "Northeast Nebraska Answering Service",
+  "fellowship": "AA",
+  "area": "Plainview, NE",
+  "lat": 42.3497,
+  "lng": -97.792,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(402) 582-3944"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "New Hampshire Area Service Office",
+  "fellowship": "AA",
+  "area": "Concord NH 03301, NH",
+  "lat": 43.2086,
+  "lng": -71.5487,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(800) 593-3330"
+   },
+   {
+    "label": "Office",
+    "number": "(603) 622-6967"
+   }
+  ],
+  "website": "http://www.nhaa.net"
+ },
+ {
+  "name": "Central Jersey Intergroup",
+  "fellowship": "AA",
+  "area": "Hamilton, NJ",
+  "lat": 40.2482,
+  "lng": -74.6986,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(609) 586-6900"
+   },
+   {
+    "label": "Office",
+    "number": "(609) 586-6902"
+   }
+  ],
+  "website": "http://www.centraljerseyintergroup.org"
+ },
+ {
+  "name": "South Jersey Intergroup Assc.",
+  "fellowship": "AA",
+  "area": "Pennsauken, NJ",
+  "lat": 39.9671,
+  "lng": -75.0319,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(856) 486-4444"
+   },
+   {
+    "label": "Office",
+    "number": "(856) 486-4446"
+   }
+  ],
+  "website": "http://www.aasj.org"
+ },
+ {
+  "name": "Polska Intergrupa Polish Intergroup",
+  "fellowship": "AA",
+  "area": "Clark, NJ",
+  "lat": 40.626,
+  "lng": -74.317,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(609) 455-2738"
+   }
+  ],
+  "website": "http://www.polskaintergrupa.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana New Jersey",
+  "fellowship": "AA",
+  "area": "Newark, NJ",
+  "lat": 40.7315,
+  "lng": -74.1745,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(973) 824-0555"
+   }
+  ],
+  "website": "http://www.alcoholicosanonimosnj.org"
+ },
+ {
+  "name": "Intergroup Of Northern N.J.",
+  "fellowship": "AA",
+  "area": "Union, NJ",
+  "lat": 40.6964,
+  "lng": -74.27,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(908) 687-8566"
+   }
+  ],
+  "website": "http://www.nnjaa.org"
+ },
+ {
+  "name": "Answ Serv Alamogordo & Ruidoso Area",
+  "fellowship": "AA",
+  "area": "Alamogordo, NM",
+  "lat": 32.9008,
+  "lng": -105.9602,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(575) 430-9502"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Central Office Albuquerque Inc.",
+  "fellowship": "AA",
+  "area": "Albuquerque, NM",
+  "lat": 35.0844,
+  "lng": -106.6504,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(505) 266-1900"
+   }
+  ],
+  "website": "http://www.albuquerqueaa.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana",
+  "fellowship": "AA",
+  "area": "Albuquerque, NM",
+  "lat": 35.0844,
+  "lng": -106.6504,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(505) 266-3688"
+   }
+  ],
+  "website": "http://www.aaoficinahispanadealbuquerque.org"
+ },
+ {
+  "name": "Dist. 4 Answering Service",
+  "fellowship": "AA",
+  "area": "Fairacres, NM",
+  "lat": 32.2999,
+  "lng": -106.8355,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(575) 527-1803"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Central Offices Of San Juan",
+  "fellowship": "AA",
+  "area": "Farmington, NM",
+  "lat": 36.7281,
+  "lng": -108.2187,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(505) 327-0731"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Answering Service",
+  "fellowship": "AA",
+  "area": "Hobbs, NM",
+  "lat": 32.7012,
+  "lng": -103.1344,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(575) 397-7009"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Telstar Answering Service",
+  "fellowship": "AA",
+  "area": "Las Cruces, NM",
+  "lat": 32.3142,
+  "lng": -106.7798,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(575) 527-1803"
+   }
+  ],
+  "website": "http://www.nmdistrict4aa.com"
+ },
+ {
+  "name": "Answering Service",
+  "fellowship": "AA",
+  "area": "Roswell, NM",
+  "lat": 33.3943,
+  "lng": -104.5227,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(575) 623-0166"
+   }
+  ],
+  "website": "http://nm-aa.org/districts/district-7"
+ },
+ {
+  "name": "Grant County  Answering Service",
+  "fellowship": "AA",
+  "area": "Silver City, NM",
+  "lat": 32.7701,
+  "lng": -108.2803,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(575) 388-1802"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Answering Service",
+  "fellowship": "AA",
+  "area": "Taos, NM",
+  "lat": 36.4072,
+  "lng": -105.5734,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(575) 758-3318"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Las Vegas Intergroup",
+  "fellowship": "AA",
+  "area": "Las Vegas, NV",
+  "lat": 36.1716,
+  "lng": -115.1391,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(702) 598-1888"
+   }
+  ],
+  "website": "http://www.lvcentraloffice.org"
+ },
+ {
+  "name": "Triple Cities Intergroup",
+  "fellowship": "AA",
+  "area": "Binghamton, NY",
+  "lat": 42.0971,
+  "lng": -75.9117,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(607) 722-5983"
+   }
+  ],
+  "website": "http://www.aabinghamton.org"
+ },
+ {
+  "name": "Oficina De Intergrupo De Suffolk",
+  "fellowship": "AA",
+  "area": "Brentwood, NY",
+  "lat": 40.7812,
+  "lng": -73.2462,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(347) 449-1389"
+   },
+   {
+    "label": "Office",
+    "number": "(631) 220-9384"
+   },
+   {
+    "label": "Spanish/French helpline",
+    "number": "(631) 639-4181"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Oficina Central Hispana de Brooklyn",
+  "fellowship": "AA",
+  "area": "Brooklyn, NY",
+  "lat": 40.6782,
+  "lng": -73.9442,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(347) 932-5485"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Brooklyn Intergroup",
+  "fellowship": "AA",
+  "area": "Brooklyn, NY",
+  "lat": 40.6484,
+  "lng": -73.9801,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(718) 851-3039"
+   }
+  ],
+  "website": "http://bigaa.org/"
+ },
+ {
+  "name": "Greene County Answering Service",
+  "fellowship": "AA",
+  "area": "Catskill, NY",
+  "lat": 42.2173,
+  "lng": -73.8646,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(518) 463-0906"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Corning Answering Service",
+  "fellowship": "AA",
+  "area": "Corning, NY",
+  "lat": 42.1429,
+  "lng": -77.0547,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(607) 249-4276"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Corning Intergroup",
+  "fellowship": "AA",
+  "area": "Corning, NY",
+  "lat": 42.1429,
+  "lng": -77.0547,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(607) 249-4276"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Elmira Intergroup",
+  "fellowship": "AA",
+  "area": "Elmira, NY",
+  "lat": 42.0912,
+  "lng": -76.8046,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(607) 249-4276"
+   }
+  ],
+  "website": "http://aaelmira.org"
+ },
+ {
+  "name": "Queens Intergroup Of A.A.",
+  "fellowship": "AA",
+  "area": "Forest Hills, NY",
+  "lat": 40.7181,
+  "lng": -73.8448,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(718) 520-5021"
+   }
+  ],
+  "website": "http://www.queensaa.org"
+ },
+ {
+  "name": "Livingston Area Intergroup",
+  "fellowship": "AA",
+  "area": "Geneseo, NY",
+  "lat": 42.7959,
+  "lng": -77.8169,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(585) 281-0108"
+   }
+  ],
+  "website": "http://www.livingstonareaintergroup.org"
+ },
+ {
+  "name": "Dist. 4-Gloversville, Johnstown & Amsterdam Answering Service",
+  "fellowship": "AA",
+  "area": "Gloversville, NY",
+  "lat": 43.0529,
+  "lng": -74.3437,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(518) 736-2644"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Central Service Intergroup Of Orange County",
+  "fellowship": "AA",
+  "area": "Goshen, NY",
+  "lat": 41.402,
+  "lng": -74.3243,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(845) 534-8525"
+   }
+  ],
+  "website": "http://www.orangenyaa.org"
+ },
+ {
+  "name": "Cortland Homer Intergroup",
+  "fellowship": "AA",
+  "area": "Homer, NY",
+  "lat": 42.637,
+  "lng": -76.1788,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(607) 261-5848"
+   }
+  ],
+  "website": "https://www.aacortland-homer.org/"
+ },
+ {
+  "name": "Columbia County Answering Service",
+  "fellowship": "AA",
+  "area": "Hudson, NY",
+  "lat": 42.2529,
+  "lng": -73.791,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(518) 463-0906"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Ithaca Area Intergroup",
+  "fellowship": "AA",
+  "area": "Ithaca, NY",
+  "lat": 42.4409,
+  "lng": -76.4962,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(607) 273-1541"
+   }
+  ],
+  "website": "https://aaithaca.org/"
+ },
+ {
+  "name": "Ulster County Answering Services",
+  "fellowship": "AA",
+  "area": "Kingston, NY",
+  "lat": 41.927,
+  "lng": -73.9974,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(845) 331-6360"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "24 Hour Answering Service",
+  "fellowship": "AA",
+  "area": "Lakewood, NY",
+  "lat": 42.1042,
+  "lng": -79.3331,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(716) 372-4800"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Sullivan County Intergroup Assoc.",
+  "fellowship": "AA",
+  "area": "Monticello, NY",
+  "lat": 41.6556,
+  "lng": -74.6893,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(845) 234-4841"
+   }
+  ],
+  "website": "https://scia-aa.com/"
+ },
+ {
+  "name": "Oficina Central Hispana De A.A",
+  "fellowship": "AA",
+  "area": "New York, NY",
+  "lat": 40.7128,
+  "lng": -74.006,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(347) 623-8156"
+   }
+  ],
+  "website": "http://www.oficinacentralhispanany.org"
+ },
+ {
+  "name": "General Service Office of U.S. and Canada",
+  "fellowship": "AA",
+  "area": "<p class=\"address\" translate=\"no\"><span class=\"address-line1\">475 Riverside Dr 11th Fl</span><br> <span class=\"locality\">New York</span>, <span class=\"administrative-area\">NY</span> <span class=\"postal-code\">10115-0002</span><br> <span class=\"country\">United States</span></p>",
+  "lat": 40.8109,
+  "lng": -73.964,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(212) 870-3400"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Niagara Intergroup",
+  "fellowship": "AA",
+  "area": "Niagara Falls, NY",
+  "lat": 43.0962,
+  "lng": -79.0377,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(877) 270-5303"
+   }
+  ],
+  "website": "http://www.niagarafallsnyaameetings.com"
+ },
+ {
+  "name": "Old Forge 24 Hour Answering Service",
+  "fellowship": "AA",
+  "area": "Old Forge, NY",
+  "lat": 43.7101,
+  "lng": -74.9735,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 765-8338"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "NY-Penn Intergroup",
+  "fellowship": "AA",
+  "area": "Olean, NY",
+  "lat": 42.0836,
+  "lng": -78.4299,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(716) 372-4800"
+   }
+  ],
+  "website": "https://nypennintergroup.org/"
+ },
+ {
+  "name": "City of Oneida 24 Hr Answering Service",
+  "fellowship": "AA",
+  "area": "Oneida, NY",
+  "lat": 43.0926,
+  "lng": -75.6513,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(315) 533-1227"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Tioga County Intergroup",
+  "fellowship": "AA",
+  "area": "Owego, NY",
+  "lat": 42.1034,
+  "lng": -76.2622,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(800) 307-4285"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Suffolk Intergroup Association",
+  "fellowship": "AA",
+  "area": "Ronkonkoma, NY",
+  "lat": 40.8169,
+  "lng": -73.1232,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(631) 669-1124"
+   },
+   {
+    "label": "Office",
+    "number": "(631) 654-1150"
+   }
+  ],
+  "website": "http://www.suffolkny-aa.org"
+ },
+ {
+  "name": "Dist 10 Plattsburgh Answering Service",
+  "fellowship": "AA",
+  "area": "Plattsburgh, NY",
+  "lat": 44.6995,
+  "lng": -73.4529,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(518) 561-8444"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "District 42, St. Lawrence County Answering Service",
+  "fellowship": "AA",
+  "area": "Potsdam, NY",
+  "lat": 44.6698,
+  "lng": -74.9813,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(315) 268-0120"
+   }
+  ],
+  "website": "http://aa-stlawrenceny.org"
+ },
+ {
+  "name": "Dutchess County Dist. 11 Central Office",
+  "fellowship": "AA",
+  "area": "Poughkeepsie, NY",
+  "lat": 41.7056,
+  "lng": -73.9284,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(845) 452-1111"
+   }
+  ],
+  "website": "http://www.dutchessaa.org"
+ },
+ {
+  "name": "Dist. 13 Answering Service",
+  "fellowship": "AA",
+  "area": "Queensbury, NY",
+  "lat": 43.3587,
+  "lng": -73.6577,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(518) 463-0906"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Rome 24 Hour Answering Service District 12",
+  "fellowship": "AA",
+  "area": "Rome, NY",
+  "lat": 43.2128,
+  "lng": -75.4557,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(315) 210-6644"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist 10 Saranac Lake Answering Service",
+  "fellowship": "AA",
+  "area": "Saranac Lake, NY",
+  "lat": 44.325,
+  "lng": -74.1318,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(518) 561-8444"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Saratoga 24 Hour Answering Service",
+  "fellowship": "AA",
+  "area": "Saratoga Springs, NY",
+  "lat": 43.0834,
+  "lng": -73.785,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(518) 587-0407"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Utica 24 Hour Dist 9 Answering Service",
+  "fellowship": "AA",
+  "area": "Utica, NY",
+  "lat": 43.1011,
+  "lng": -75.2356,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(518) 463-0906"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Alcoholics Anonymous Hotline/Utica, NY",
+  "fellowship": "AA",
+  "area": "Utica, NY",
+  "lat": 43.1011,
+  "lng": -75.2356,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(315) 732-6880"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Jefferson County Intergroup",
+  "fellowship": "AA",
+  "area": "Watertown, NY",
+  "lat": 43.9726,
+  "lng": -75.9097,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(315) 788-2280"
+   }
+  ],
+  "website": "http://www.aajci.org"
+ },
+ {
+  "name": "Rockland County Intergroup",
+  "fellowship": "AA",
+  "area": "West Nyack, NY",
+  "lat": 41.0965,
+  "lng": -73.9729,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(845) 352-1112"
+   }
+  ],
+  "website": "http://www.rocklandnyaa.org"
+ },
+ {
+  "name": "Akron Intergroup Council",
+  "fellowship": "AA",
+  "area": "Akron, OH",
+  "lat": 41.0812,
+  "lng": -81.5188,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(330) 253-8181"
+   }
+  ],
+  "website": "http://www.akronaa.org"
+ },
+ {
+  "name": "Ashtabula Area Intergroup",
+  "fellowship": "AA",
+  "area": "Ashtabula, OH",
+  "lat": 41.8651,
+  "lng": -80.7898,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(440) 992-8383"
+   }
+  ],
+  "website": "http://www.aaigo.net"
+ },
+ {
+  "name": "Canton Area Intergroup Council",
+  "fellowship": "AA",
+  "area": "Canton, OH",
+  "lat": 40.7974,
+  "lng": -81.377,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(330) 491-1989"
+   }
+  ],
+  "website": "http://cantonaa.com/"
+ },
+ {
+  "name": "Appalachian Ohio Intergroup Office",
+  "fellowship": "AA",
+  "area": "Chillicothe, OH",
+  "lat": 39.3331,
+  "lng": -82.9824,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(740) 774-2646"
+   }
+  ],
+  "website": "http://www.aoio.org"
+ },
+ {
+  "name": "Cleveland District Office",
+  "fellowship": "AA",
+  "area": "Cleveland, OH",
+  "lat": 41.5139,
+  "lng": -81.6747,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(216) 241-7387"
+   }
+  ],
+  "website": "https://www.aacle.org"
+ },
+ {
+  "name": "Central Ohio Group Fellowship Intergroup",
+  "fellowship": "AA",
+  "area": "Columbus, OH",
+  "lat": 39.9625,
+  "lng": -83.0032,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(800) 242-1729"
+   },
+   {
+    "label": "Office",
+    "number": "(614) 253-8501"
+   },
+   {
+    "label": "TTY",
+    "number": "(614) 253-5554"
+   }
+  ],
+  "website": "http://www.aacentralohio.org"
+ },
+ {
+  "name": "Central Office Of Dayton, Inc.",
+  "fellowship": "AA",
+  "area": "Dayton, OH",
+  "lat": 39.7592,
+  "lng": -84.1936,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(937) 222-2211"
+   },
+   {
+    "label": "TTY",
+    "number": "(937) 299-7587"
+   }
+  ],
+  "website": "http://www.aadaytononline.org"
+ },
+ {
+  "name": "Lancaster Area Intergroup",
+  "fellowship": "AA",
+  "area": "Lancaster, OH",
+  "lat": 39.7137,
+  "lng": -82.6019,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(740) 653-4869"
+   }
+  ],
+  "website": "http://www.lancasterareaintergroup.org"
+ },
+ {
+  "name": "Answering Service",
+  "fellowship": "AA",
+  "area": "Lima, OH",
+  "lat": 40.7426,
+  "lng": -84.1052,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(419) 234-3800"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist 11 Answering Service",
+  "fellowship": "AA",
+  "area": "Middletown, OH",
+  "lat": 39.5151,
+  "lng": -84.3983,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(513) 423-0102"
+   }
+  ],
+  "website": "http://www.aad11a56.org"
+ },
+ {
+  "name": "NW Ohio & SE Michigan Central Office",
+  "fellowship": "AA",
+  "area": "Toledo, OH",
+  "lat": 41.6528,
+  "lng": -83.5379,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(419) 380-9862"
+   },
+   {
+    "label": "TTY",
+    "number": "(419) 380-9978"
+   }
+  ],
+  "website": "http://www.toledoaa.com"
+ },
+ {
+  "name": "Oklahoma State A.A. Office Area 57",
+  "fellowship": "AA",
+  "area": "Oklahoma City, OK",
+  "lat": 35.5221,
+  "lng": -97.5301,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(405) 842-1200"
+   }
+  ],
+  "website": "http://www.aaoklahoma.org"
+ },
+ {
+  "name": "Intergroup Service Office Inc.",
+  "fellowship": "AA",
+  "area": "Oklahoma City, OK",
+  "lat": 35.4689,
+  "lng": -97.5195,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(405) 831-2535"
+   },
+   {
+    "label": "TTY",
+    "number": "(405) 524-1100"
+   }
+  ],
+  "website": "http://www.okcintergroup.org"
+ },
+ {
+  "name": "Northeast Central Service Office",
+  "fellowship": "AA",
+  "area": "Tulsa, OK",
+  "lat": 36.1551,
+  "lng": -95.9895,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(918) 627-2224"
+   }
+  ],
+  "website": "http://www.aaneok.org"
+ },
+ {
+  "name": "Alcoholics Anonymous District 29 Hotline",
+  "fellowship": "AA",
+  "area": "Baker, Union and Wallowa Cnty",
+  "lat": 45.593,
+  "lng": -116.9718,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(541) 624-5117"
+   }
+  ],
+  "website": "http://oregonaadistrict29.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana",
+  "fellowship": "AA",
+  "area": "Beaverton, OR",
+  "lat": 45.4869,
+  "lng": -122.804,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(971) 327-5523"
+   }
+  ],
+  "website": "http://www.aaoregon.com"
+ },
+ {
+  "name": "District 3 A.A. Hotline Answering Service",
+  "fellowship": "AA",
+  "area": "Hermiston, OR",
+  "lat": 45.8404,
+  "lng": -119.2895,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 410-5953"
+   }
+  ],
+  "website": "http://www.district3aa.org"
+ },
+ {
+  "name": "Klamath Lake Intergroup",
+  "fellowship": "AA",
+  "area": "Klamath Falls, OR",
+  "lat": 42.2249,
+  "lng": -121.7817,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(541) 883-4970"
+   }
+  ],
+  "website": "http://www.klciaa.org"
+ },
+ {
+  "name": "Yamhill County Intergroup",
+  "fellowship": "AA",
+  "area": "McMinnville, OR",
+  "lat": 45.2108,
+  "lng": -123.1945,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(503) 472-1172"
+   },
+   {
+    "label": "Office",
+    "number": "(801) 564-0104"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Central Oregon Intergroup",
+  "fellowship": "AA",
+  "area": "Redmond, OR",
+  "lat": 44.2726,
+  "lng": -121.1739,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(541) 548-0440"
+   },
+   {
+    "label": "Office",
+    "number": "(541) 788-7276"
+   }
+  ],
+  "website": "http://www.coigaa.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana De Salem",
+  "fellowship": "AA",
+  "area": "Salem, OR",
+  "lat": 45.0145,
+  "lng": -122.9369,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(503) 899-2652"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Willamette Valley Intergroup, Inc.",
+  "fellowship": "AA",
+  "area": "Salem, OR",
+  "lat": 44.9362,
+  "lng": -123.0407,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(503) 399-0599"
+   }
+  ],
+  "website": "http://www.aa-salem.com"
+ },
+ {
+  "name": "Emerald Valley Intergroup",
+  "fellowship": "AA",
+  "area": "Springfield, OR",
+  "lat": 44.0462,
+  "lng": -123.022,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(541) 342-4113"
+   }
+  ],
+  "website": "http://www.eviaa.org"
+ },
+ {
+  "name": "Dist. 17 Gen Serv Comm Answering Service",
+  "fellowship": "AA",
+  "area": "Altoona, PA",
+  "lat": 40.5187,
+  "lng": -78.3947,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(814) 946-9002"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "A B E Intergroup",
+  "fellowship": "AA",
+  "area": "Bethlehem, PA",
+  "lat": 40.6259,
+  "lng": -75.3705,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(610) 882-0558"
+   },
+   {
+    "label": "Office",
+    "number": "(610) 657-9766"
+   }
+  ],
+  "website": "http://www.aalv.org"
+ },
+ {
+  "name": "AA 24-Hour Hotline for Columbia/Montour Counties,PA",
+  "fellowship": "AA",
+  "area": "Bloomsburg, PA",
+  "lat": 41.0037,
+  "lng": -76.4549,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 640-7545"
+   }
+  ],
+  "website": "http://www.district5959aa.org"
+ },
+ {
+  "name": "District 62 Answering Serivce",
+  "fellowship": "AA",
+  "area": "Dingmans Ferry, PA",
+  "lat": 41.2201,
+  "lng": -74.8713,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(570) 296-5344"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dubois Answering Service",
+  "fellowship": "AA",
+  "area": "Dubois, PA",
+  "lat": 41.1231,
+  "lng": -78.7576,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 400-2346"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Erie Area Answering Service",
+  "fellowship": "AA",
+  "area": "Erie, PA",
+  "lat": 42.129,
+  "lng": -80.085,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(814) 452-2675"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist 23 Westmoreland Cty Answering Svce",
+  "fellowship": "AA",
+  "area": "Greensburg, PA",
+  "lat": 40.3015,
+  "lng": -79.5389,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(866) 851-8459"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "District 35/Area 59-So. Central P.A. Answering Service",
+  "fellowship": "AA",
+  "area": "Hanover, PA",
+  "lat": 39.8007,
+  "lng": -76.983,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 296-9289"
+   }
+  ],
+  "website": "http://www.d35pa-aa.org"
+ },
+ {
+  "name": "Hanover Intergroup",
+  "fellowship": "AA",
+  "area": "Hanover, PA",
+  "lat": 39.8007,
+  "lng": -76.983,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(717) 451-3991"
+   }
+  ],
+  "website": "http://www.hanoverintergroup.org"
+ },
+ {
+  "name": "East Shore Answering Service",
+  "fellowship": "AA",
+  "area": "Harrisburg, PA",
+  "lat": 40.2732,
+  "lng": -76.8867,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(717) 234-5390"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Harrisburg Area Intergroup",
+  "fellowship": "AA",
+  "area": "Harrisburg, PA",
+  "lat": 40.2551,
+  "lng": -76.8577,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(717) 234-5390"
+   }
+  ],
+  "website": "http://www.aaharrisburg.org"
+ },
+ {
+  "name": "Huntingdon Answering Service",
+  "fellowship": "AA",
+  "area": "Huntingdon, PA",
+  "lat": 40.4848,
+  "lng": -78.0103,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(814) 643-0623"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Johnstown Area Answering Service",
+  "fellowship": "AA",
+  "area": "Johnstown, PA",
+  "lat": 40.3267,
+  "lng": -78.922,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(814) 283-4772"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Lehighton Answering Services",
+  "fellowship": "AA",
+  "area": "Lehighton, PA",
+  "lat": 40.8337,
+  "lng": -75.7138,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 640-7545"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Lewisburg Answering Services",
+  "fellowship": "AA",
+  "area": "Lewisburg, PA",
+  "lat": 40.9645,
+  "lng": -76.8844,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(570) 286-7436"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Butler Vicinity Answering Service",
+  "fellowship": "AA",
+  "area": "Lyndora, PA",
+  "lat": 40.8514,
+  "lng": -79.9139,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(724) 679-5647"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Butler County South Answering Service",
+  "fellowship": "AA",
+  "area": "Mars, PA",
+  "lat": 40.6959,
+  "lng": -80.0117,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(724) 935-7238"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Meadville Area Answering Service",
+  "fellowship": "AA",
+  "area": "Meadville, PA",
+  "lat": 41.6414,
+  "lng": -80.1514,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(814) 337-4019"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "AATASCMercerCty: Sharon,Hermitage,Farrel,Greenville,Mercer,W.Middlesex,Sharpesville",
+  "fellowship": "AA",
+  "area": "Mercer County, PA",
+  "lat": 41.262,
+  "lng": -80.1875,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(866) 309-1090"
+   }
+  ],
+  "website": "http://www.wpadistrict52aa.org"
+ },
+ {
+  "name": "Milford Answering Service",
+  "fellowship": "AA",
+  "area": "Milford, PA",
+  "lat": 41.3223,
+  "lng": -74.8024,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(570) 296-5344"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Mid-Mon Valley",
+  "fellowship": "AA",
+  "area": "Monesson, PA",
+  "lat": 40.1484,
+  "lng": -79.8878,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(724) 489-0740"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Oil City Answering Service",
+  "fellowship": "AA",
+  "area": "Oil City, PA",
+  "lat": 41.4339,
+  "lng": -79.7064,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 227-2421"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "South Eastern PA Intergroup Association",
+  "fellowship": "AA",
+  "area": "Philadelphia, PA",
+  "lat": 39.9526,
+  "lng": -75.1652,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(215) 923-7900"
+   }
+  ],
+  "website": "http://www.aasepia.org"
+ },
+ {
+  "name": "Pittsburgh Area Central Office",
+  "fellowship": "AA",
+  "area": "Pittsburgh, PA",
+  "lat": 40.4387,
+  "lng": -79.9972,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(412) 471-7472"
+   }
+  ],
+  "website": "http://www.pghaa.org"
+ },
+ {
+  "name": "Schuylkil Valley Answering Service",
+  "fellowship": "AA",
+  "area": "Pottstown, PA",
+  "lat": 40.2454,
+  "lng": -75.6496,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(610) 323-3450"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist. 58 Hotline",
+  "fellowship": "AA",
+  "area": "Pottsville, PA",
+  "lat": 40.6877,
+  "lng": -76.1971,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 659-4558"
+   }
+  ],
+  "website": "http://www.district58area59aa.org"
+ },
+ {
+  "name": "Sayre-Waverly Valley Intergroup",
+  "fellowship": "AA",
+  "area": "Sayre, PA",
+  "lat": 41.979,
+  "lng": -76.5155,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(607) 249-4276"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "A.A. Upper Bucks County",
+  "fellowship": "AA",
+  "area": "Sellersville, PA",
+  "lat": 40.354,
+  "lng": -75.3049,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(215) 721-3656"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "A.A. Tele Answering Service Comm",
+  "fellowship": "AA",
+  "area": "Sharon, PA",
+  "lat": 41.2331,
+  "lng": -80.4934,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(866) 309-1090"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Central Answering Service",
+  "fellowship": "AA",
+  "area": "State College, PA",
+  "lat": 40.7934,
+  "lng": -77.86,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(814) 237-3757"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Pocono Intergroup (Answering Service)",
+  "fellowship": "AA",
+  "area": "Stroudsburg, PA",
+  "lat": 40.9868,
+  "lng": -75.1946,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(570) 424-8532"
+   }
+  ],
+  "website": "http://www.poconointergroupaa.org"
+ },
+ {
+  "name": "Sunbury Answering Service",
+  "fellowship": "AA",
+  "area": "Sunbury, PA",
+  "lat": 40.8626,
+  "lng": -76.7944,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(570) 286-7436"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Tamaqua Answering Services",
+  "fellowship": "AA",
+  "area": "Tamaqua, PA",
+  "lat": 40.7973,
+  "lng": -75.9694,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(570) 654-0488"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Oficina Intergrupal Hispana De PA",
+  "fellowship": "AA",
+  "area": "Upper Darby, PA",
+  "lat": 39.9593,
+  "lng": -75.2878,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(215) 398-2540"
+   }
+  ],
+  "website": "http://www.alcoholicosanonimospa.org"
+ },
+ {
+  "name": "Warren Answering Service",
+  "fellowship": "AA",
+  "area": "Warren, PA",
+  "lat": 41.8439,
+  "lng": -79.145,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(866) 839-3401"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist. 46 24 Hour Helpline",
+  "fellowship": "AA",
+  "area": "Wellsboro, PA",
+  "lat": 41.7487,
+  "lng": -77.3005,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 316-2636"
+   }
+  ],
+  "website": "http://www.aa46.org"
+ },
+ {
+  "name": "Williamsport Answering Service",
+  "fellowship": "AA",
+  "area": "Williamsport, PA",
+  "lat": 41.2412,
+  "lng": -77.0011,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(866) 671-6130"
+   }
+  ],
+  "website": "http://www.district48aa.org"
+ },
+ {
+  "name": "York Area Intergroup",
+  "fellowship": "AA",
+  "area": "York, PA",
+  "lat": 39.9611,
+  "lng": -76.727,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(717) 467-3667"
+   }
+  ],
+  "website": "http://www.york-pa-aa.org"
+ },
+ {
+  "name": "R.I. Central Service Office",
+  "fellowship": "AA",
+  "area": "East Providence, RI",
+  "lat": 41.8137,
+  "lng": -71.3704,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(401) 438-8860"
+   }
+  ],
+  "website": "http://www.rhodeisland-aa.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana",
+  "fellowship": "AA",
+  "area": "Providence, RI",
+  "lat": 41.8245,
+  "lng": -71.4127,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(401) 621-9698"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Southern R.I. Intergroup",
+  "fellowship": "AA",
+  "area": "Warwick, RI",
+  "lat": 41.7053,
+  "lng": -71.4184,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(401) 739-8777"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Greater Columbia Intergroup",
+  "fellowship": "AA",
+  "area": "Columbia, SC",
+  "lat": 34.0008,
+  "lng": -81.0351,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(803) 254-5301"
+   }
+  ],
+  "website": "http://www.area62.org/intergroups/index.php?id=3"
+ },
+ {
+  "name": "Upstate Intergroup",
+  "fellowship": "AA",
+  "area": "Greenville, SC",
+  "lat": 34.8084,
+  "lng": -82.3343,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(864) 233-6454"
+   },
+   {
+    "label": "Office",
+    "number": "(864) 233-6446"
+   }
+  ],
+  "website": "http://www.upstateintergroup.org"
+ },
+ {
+  "name": "Grand Strand Intergroup",
+  "fellowship": "AA",
+  "area": "Myrtle Beach, SC",
+  "lat": 33.6954,
+  "lng": -78.8802,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(843) 665-7674"
+   },
+   {
+    "label": "Office",
+    "number": "(843) 455-7119"
+   }
+  ],
+  "website": "http://www.aamyrtlebeach.org"
+ },
+ {
+  "name": "Tri-County Intergroup",
+  "fellowship": "AA",
+  "area": "North Charleston, SC",
+  "lat": 32.8745,
+  "lng": -80.0107,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(843) 723-9633"
+   },
+   {
+    "label": "Office",
+    "number": "(843) 554-2998"
+   }
+  ],
+  "website": "http://tcio.org"
+ },
+ {
+  "name": "Sioux Falls AA Intergroup",
+  "fellowship": "AA",
+  "area": "Sioux Falls, SD",
+  "lat": 43.546,
+  "lng": -96.7313,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(605) 274-1450"
+   },
+   {
+    "label": "Office",
+    "number": "(605) 334-5419"
+   }
+  ],
+  "website": "http://siouxfallsaa.org"
+ },
+ {
+  "name": "Tri-Cities TN Hotline (Bristol and Kingsport)",
+  "fellowship": "AA",
+  "area": "Bristol, TN",
+  "lat": 36.5951,
+  "lng": -82.1887,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(423) 968-2020"
+   }
+  ],
+  "website": "http://www.aatricitiestn.org"
+ },
+ {
+  "name": "Chattanooga Area Central Office",
+  "fellowship": "AA",
+  "area": "Chattanooga, TN",
+  "lat": 34.9947,
+  "lng": -85.2257,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(423) 499-6003"
+   }
+  ],
+  "website": "http://www.chattanooga-aa.com"
+ },
+ {
+  "name": "Jackson / West Tennessee Intergroup",
+  "fellowship": "AA",
+  "area": "Jackson, TN",
+  "lat": 35.6145,
+  "lng": -88.8139,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(877) 426-8330"
+   },
+   {
+    "label": "Office",
+    "number": "(731) 694-3662"
+   }
+  ],
+  "website": "http://www.aawesttn.org"
+ },
+ {
+  "name": "Tri-Cities TN Hotline (Johnson City)",
+  "fellowship": "AA",
+  "area": "Johnson City, TN",
+  "lat": 36.3207,
+  "lng": -82.3425,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(423) 928-0871"
+   }
+  ],
+  "website": "http://www.aatricitiestn.org"
+ },
+ {
+  "name": "Memphis Area Intergroup",
+  "fellowship": "AA",
+  "area": "Memphis, TN",
+  "lat": 35.1486,
+  "lng": -90.0519,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(901) 454-1414"
+   },
+   {
+    "label": "Office",
+    "number": "(901) 690-0530"
+   }
+  ],
+  "website": "http://www.memphis-aa.org"
+ },
+ {
+  "name": "Middle Tennessee Central Office",
+  "fellowship": "AA",
+  "area": "Nashville, TN",
+  "lat": 36.1627,
+  "lng": -86.7816,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(615) 831-1050"
+   },
+   {
+    "label": "Office",
+    "number": "(615) 973-9898"
+   }
+  ],
+  "website": "http://www.aanashville.org"
+ },
+ {
+  "name": "24 Hour Answering Service",
+  "fellowship": "AA",
+  "area": "Abilene, TX",
+  "lat": 32.4535,
+  "lng": -99.7313,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(817) 922-9859"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "District III 24 Hour Answering Service",
+  "fellowship": "AA",
+  "area": "Amarillo, TX",
+  "lat": 35.207,
+  "lng": -101.832,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(806) 329-3088"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Hill Country Intergroup",
+  "fellowship": "AA",
+  "area": "Austin, TX",
+  "lat": 30.2672,
+  "lng": -97.7431,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(512) 444-0071"
+   }
+  ],
+  "website": "http://www.austinaa.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana A.A.",
+  "fellowship": "AA",
+  "area": "Austin, TX",
+  "lat": 30.2672,
+  "lng": -97.7431,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(512) 662-6781"
+   },
+   {
+    "label": "Spanish/French helpline",
+    "number": "(512) 619-2458"
+   }
+  ],
+  "website": "http://www.aaaustinhispano.org"
+ },
+ {
+  "name": "Ninth District Intergroup",
+  "fellowship": "AA",
+  "area": "Beaumont, TX",
+  "lat": 30.0802,
+  "lng": -94.1266,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(409) 832-1107"
+   }
+  ],
+  "website": "http://aabeaumont.org/new/"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana Del Sureste De Texas",
+  "fellowship": "AA",
+  "area": "Beaumont, TX",
+  "lat": 30.0802,
+  "lng": -94.1266,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(409) 225-6759"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Brazos Valley Intergroup",
+  "fellowship": "AA",
+  "area": "Bryan, TX",
+  "lat": 30.6744,
+  "lng": -96.37,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(979) 353-2538"
+   }
+  ],
+  "website": "http://www.bvig.org"
+ },
+ {
+  "name": "Coastal Bend Intergroup Association",
+  "fellowship": "AA",
+  "area": "Corpus Christi, TX",
+  "lat": 27.7218,
+  "lng": -97.3895,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(866) 672-7029"
+   },
+   {
+    "label": "Office",
+    "number": "(361) 992-8911"
+   }
+  ],
+  "website": "http://www.cbiaa.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana De A.A.",
+  "fellowship": "AA",
+  "area": "Dallas, TX",
+  "lat": 32.7767,
+  "lng": -96.797,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(214) 905-0770"
+   }
+  ],
+  "website": "https://alcoholicosanonimosdallas.org"
+ },
+ {
+  "name": "Dallas Intergroup Association",
+  "fellowship": "AA",
+  "area": "Dallas, TX",
+  "lat": 32.92,
+  "lng": -96.8405,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(214) 887-6699"
+   }
+  ],
+  "website": "http://www.aadallas.org"
+ },
+ {
+  "name": "Alcoholicos Anonimos Distrito 7",
+  "fellowship": "AA",
+  "area": "El Paso, TX",
+  "lat": 31.7619,
+  "lng": -106.485,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(915) 351-1141"
+   }
+  ],
+  "website": "http://www.aadistrito7.com"
+ },
+ {
+  "name": "Intergroup Central Office",
+  "fellowship": "AA",
+  "area": "El Paso, TX",
+  "lat": 31.7866,
+  "lng": -106.4435,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(915) 838-6264"
+   },
+   {
+    "label": "Office",
+    "number": "(915) 562-4081"
+   }
+  ],
+  "website": "http://aaelpaso.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana AA",
+  "fellowship": "AA",
+  "area": "El Paso, TX",
+  "lat": 31.7699,
+  "lng": -106.4229,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(915) 241-8525"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Oficina Intergrupal Hispana De Fort Worth",
+  "fellowship": "AA",
+  "area": "Fort Worth, TX",
+  "lat": 32.7555,
+  "lng": -97.3308,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(682) 438-8143"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Oficina Intergrupal Hispana De Houston Texas",
+  "fellowship": "AA",
+  "area": "Houston, TX",
+  "lat": 29.7601,
+  "lng": -95.3701,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(713) 683-9277"
+   }
+  ],
+  "website": "https://www.aaoficinaintergrupalhouston.org/"
+ },
+ {
+  "name": "Lubbock AA Hotline",
+  "fellowship": "AA",
+  "area": "Lubbock, TX",
+  "lat": 33.5845,
+  "lng": -101.8552,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(806) 778-1716"
+   }
+  ],
+  "website": "http://www.aalubbockarea.org"
+ },
+ {
+  "name": "District 10 AA",
+  "fellowship": "AA",
+  "area": "McAllen, TX",
+  "lat": 26.2034,
+  "lng": -98.23,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 930-3215"
+   }
+  ],
+  "website": "http://www.aargvdist10.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana",
+  "fellowship": "AA",
+  "area": "San Antonio, TX",
+  "lat": 29.4252,
+  "lng": -98.4946,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(210) 309-3782"
+   },
+   {
+    "label": "Spanish/French helpline",
+    "number": "(210) 409-8524"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Lower Rio Grande Valley Alcoholics Anonymous District 27",
+  "fellowship": "AA",
+  "area": "South Padre Island, TX",
+  "lat": 26.1118,
+  "lng": -97.1681,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(888) 880-9718"
+   }
+  ],
+  "website": "http://www.aadistrict27.org"
+ },
+ {
+  "name": "Texarkana Intergroup for Texas and Arkansas",
+  "fellowship": "AA",
+  "area": "Texarkana, TX",
+  "lat": 33.4251,
+  "lng": -94.0477,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(903) 792-5713"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Southwest Texas District 7 AA Hotline",
+  "fellowship": "AA",
+  "area": "Victoria, TX",
+  "lat": 28.8053,
+  "lng": -97.0036,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(866) 672-7029"
+   }
+  ],
+  "website": "http://www.swtadistrict7aa.org"
+ },
+ {
+  "name": "Central Texas Intergroup",
+  "fellowship": "AA",
+  "area": "Waco, TX",
+  "lat": 31.5576,
+  "lng": -97.129,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(254) 754-3336"
+   }
+  ],
+  "website": "http://www.centexintergroup.com"
+ },
+ {
+  "name": "Cache Valley Intergroup Of A.A.",
+  "fellowship": "AA",
+  "area": "Logan, UT",
+  "lat": 41.737,
+  "lng": -111.8338,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(435) 890-5977"
+   }
+  ],
+  "website": "https://cachevalleyaa.org/"
+ },
+ {
+  "name": "Central Office Of Northern Utah",
+  "fellowship": "AA",
+  "area": "Ogden, UT",
+  "lat": 41.2186,
+  "lng": -111.9705,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(801) 393-4728"
+   }
+  ],
+  "website": "http://www.utahaa.org"
+ },
+ {
+  "name": "Utah Valley Central Office",
+  "fellowship": "AA",
+  "area": "Provo, UT",
+  "lat": 40.2335,
+  "lng": -111.667,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(801) 375-8620"
+   }
+  ],
+  "website": "http://www.utahvalleyaa.org"
+ },
+ {
+  "name": "Dixie Central Office",
+  "fellowship": "AA",
+  "area": "Saint George, UT",
+  "lat": 37.0965,
+  "lng": -113.5684,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(435) 674-4791"
+   }
+  ],
+  "website": "https://dixieaaoffice.com"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana De Utah",
+  "fellowship": "AA",
+  "area": "Salt Lake City, UT",
+  "lat": 40.7606,
+  "lng": -111.8881,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(385) 337-0148"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Central Office Of Salt Lake City Inc.",
+  "fellowship": "AA",
+  "area": "Salt Lake City, UT",
+  "lat": 40.7606,
+  "lng": -111.8881,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(801) 484-7871"
+   }
+  ],
+  "website": "http://www.saltlakeaa.org"
+ },
+ {
+  "name": "Answering Service",
+  "fellowship": "AA",
+  "area": "Danville, VA",
+  "lat": 36.586,
+  "lng": -79.395,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(434) 799-4111"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Northern Virginia Intergroup",
+  "fellowship": "AA",
+  "area": "Fairfax, VA",
+  "lat": 38.846,
+  "lng": -77.3053,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(703) 293-9753"
+   },
+   {
+    "label": "Office",
+    "number": "(703) 293-9757"
+   }
+  ],
+  "website": "http://www.nvintergroup.org"
+ },
+ {
+  "name": "District 8 Answering Service",
+  "fellowship": "AA",
+  "area": "Hampton, VA",
+  "lat": 37.0299,
+  "lng": -76.3452,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(757) 595-1212"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "North Piedmont Central Office",
+  "fellowship": "AA",
+  "area": "Lynchburg, VA",
+  "lat": 37.4149,
+  "lng": -79.1422,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(434) 847-4733"
+   },
+   {
+    "label": "Office",
+    "number": "(432) 426-9600"
+   }
+  ],
+  "website": "http://www.aacentralva.org"
+ },
+ {
+  "name": "Newport News Answering Service",
+  "fellowship": "AA",
+  "area": "Newport News, VA",
+  "lat": 37.0871,
+  "lng": -76.473,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(757) 595-1212"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "New River District 13   24-Hr. Phone Line",
+  "fellowship": "AA",
+  "area": "Radford, VA",
+  "lat": 37.1318,
+  "lng": -80.5764,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(877) 678-2282"
+   }
+  ],
+  "website": "http://www.aasouthwestva.org"
+ },
+ {
+  "name": "Richmond Intergroup Inc.",
+  "fellowship": "AA",
+  "area": "Richmond, VA",
+  "lat": 37.5407,
+  "lng": -77.436,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(804) 355-1212"
+   }
+  ],
+  "website": "http://www.aarichmond.org"
+ },
+ {
+  "name": "Roanoke Intergroup",
+  "fellowship": "AA",
+  "area": "Roanoke, VA",
+  "lat": 37.2709,
+  "lng": -79.9449,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(540) 556-5421"
+   }
+  ],
+  "website": "http://www.aaroanoke.org"
+ },
+ {
+  "name": "Tidewater Intergroup Council",
+  "fellowship": "AA",
+  "area": "Virginia Beach, VA",
+  "lat": 36.8401,
+  "lng": -76.1494,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(757) 490-3980"
+   }
+  ],
+  "website": "http://www.tidewaterintergroup.org"
+ },
+ {
+  "name": "Williamsburg Area Intergroup",
+  "fellowship": "AA",
+  "area": "Williamsburg, VA",
+  "lat": 37.2757,
+  "lng": -76.7098,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(757) 253-1234"
+   }
+  ],
+  "website": "http://www.aawilliamsburg.org"
+ },
+ {
+  "name": "Blue Ridge Area Intergroup",
+  "fellowship": "AA",
+  "area": "Winchester, VA",
+  "lat": 39.19,
+  "lng": -78.15,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(800) 835-6130"
+   },
+   {
+    "label": "Office",
+    "number": "(540) 667-0322"
+   }
+  ],
+  "website": "https://blueridgeareaintergroup.org/"
+ },
+ {
+  "name": "Answering Service",
+  "fellowship": "AA",
+  "area": "Barre, VT",
+  "lat": 44.1967,
+  "lng": -72.5014,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(802) 229-5100"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Answering Service (Bennington, VT)",
+  "fellowship": "AA",
+  "area": "Bennington, VT",
+  "lat": 42.8783,
+  "lng": -73.1971,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(802) 447-1285"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Answering Service (Brattleboro, VT)",
+  "fellowship": "AA",
+  "area": "Brattleboro, VT",
+  "lat": 42.8509,
+  "lng": -72.5579,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(802) 257-5801"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Answering Service (Dorset,VT)",
+  "fellowship": "AA",
+  "area": "Dorset, VT",
+  "lat": 43.2548,
+  "lng": -73.0988,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(802) 447-1285"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Answering Service (Manchester, VT)",
+  "fellowship": "AA",
+  "area": "Manchester, VT",
+  "lat": 43.1635,
+  "lng": -73.0721,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(802) 447-1285"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Answering Service",
+  "fellowship": "AA",
+  "area": "Middlebury, VT",
+  "lat": 44.0151,
+  "lng": -73.167,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(802) 388-9284"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Answering Service",
+  "fellowship": "AA",
+  "area": "Montpelier, VT",
+  "lat": 44.2601,
+  "lng": -72.5754,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(802) 229-5100"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Answering Service( Rutland, VT)",
+  "fellowship": "AA",
+  "area": "Rutland, VT",
+  "lat": 43.6106,
+  "lng": -72.9726,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(802) 775-0402"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "St. Albans Answering Service",
+  "fellowship": "AA",
+  "area": "Saint Albans, VT",
+  "lat": 44.8107,
+  "lng": -73.0836,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(802) 741-7100"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Answering Service (Springfield, VT)",
+  "fellowship": "AA",
+  "area": "Springfield, VT",
+  "lat": 43.2987,
+  "lng": -72.482,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(802) 885-8281"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Answering Service",
+  "fellowship": "AA",
+  "area": "White River, VT",
+  "lat": 43.8184,
+  "lng": -72.5987,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(802) 295-7611"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Eastside Intergroup",
+  "fellowship": "AA",
+  "area": "Bellevue, WA",
+  "lat": 47.6101,
+  "lng": -122.2015,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(425) 454-9192"
+   }
+  ],
+  "website": "http://www.eastsideaa.org"
+ },
+ {
+  "name": "NW Wa-Whatcom County Dist. 11 Answering Service",
+  "fellowship": "AA",
+  "area": "Bellingham, WA",
+  "lat": 48.7519,
+  "lng": -122.4787,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(360) 734-1688"
+   }
+  ],
+  "website": "http://www.whatcomaa.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana Area 072",
+  "fellowship": "AA",
+  "area": "Burien, WA",
+  "lat": 47.4668,
+  "lng": -122.3405,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(206) 331-9132"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "SE Washington 24 Hr Answering Service",
+  "fellowship": "AA",
+  "area": "Clarkston, WA",
+  "lat": 46.4163,
+  "lng": -117.0452,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(888) 416-2016"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Central Office Of AA-Snohomish County",
+  "fellowship": "AA",
+  "area": "Everett, WA",
+  "lat": 47.9782,
+  "lng": -122.2074,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(425) 252-2525"
+   }
+  ],
+  "website": "http://www.snocoaa.org"
+ },
+ {
+  "name": "Greater Tri-City Central Office",
+  "fellowship": "AA",
+  "area": "Kennewick, WA",
+  "lat": 46.2087,
+  "lng": -119.1199,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(509) 735-4086"
+   }
+  ],
+  "website": "http://www.3citiesaa.org"
+ },
+ {
+  "name": "Kelso-Longview 24 Hr Answering Service",
+  "fellowship": "AA",
+  "area": "Longview, WA",
+  "lat": 46.1382,
+  "lng": -122.9382,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(360) 694-3870"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Area 92 District 19 Hotline",
+  "fellowship": "AA",
+  "area": "Moses Lake, WA",
+  "lat": 47.1301,
+  "lng": -119.2781,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(877) 740-2366"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Area 92 District 12 Hotline",
+  "fellowship": "AA",
+  "area": "Omak, WA",
+  "lat": 48.4109,
+  "lng": -119.5301,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(509) 826-6299"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "District 22 Answering Service",
+  "fellowship": "AA",
+  "area": "Port Angeles, WA",
+  "lat": 48.1181,
+  "lng": -123.4307,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(360) 452-4212"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "District 22 AA Answering Service",
+  "fellowship": "AA",
+  "area": "Pullman, WA",
+  "lat": 46.7298,
+  "lng": -117.1817,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(208) 882-1597"
+   }
+  ],
+  "website": "http://district22aa.org"
+ },
+ {
+  "name": "Spokane Central Office",
+  "fellowship": "AA",
+  "area": "Spokane, WA",
+  "lat": 47.658,
+  "lng": -117.4235,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(509) 624-1442"
+   }
+  ],
+  "website": "http://www.aaspokane.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana de A.A. del Medio Este",
+  "fellowship": "AA",
+  "area": "Grandview, WA",
+  "lat": 46.251,
+  "lng": -119.9017,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(509) 948-7396"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "South Sound Service Center",
+  "fellowship": "AA",
+  "area": "Tumwater, WA",
+  "lat": 47.0073,
+  "lng": -122.9093,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(360) 352-7344"
+   }
+  ],
+  "website": "http://www.aadistrict8.org"
+ },
+ {
+  "name": "Vancouver Area Intergroup",
+  "fellowship": "AA",
+  "area": "Vancouver, WA",
+  "lat": 45.628,
+  "lng": -122.6739,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(360) 694-3870"
+   },
+   {
+    "label": "Office",
+    "number": "(360) 314-4619"
+   }
+  ],
+  "website": "http://www.vancouveraa.org"
+ },
+ {
+  "name": "Dist. 18 24 Hour Answering Service",
+  "fellowship": "AA",
+  "area": "Waitsburg, WA",
+  "lat": 46.2704,
+  "lng": -118.1533,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(509) 522-8251"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "District 5 Answering Service",
+  "fellowship": "AA",
+  "area": "Wenatchee, WA",
+  "lat": 47.4235,
+  "lng": -120.3103,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(509) 664-6469"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Central Washington Central Office",
+  "fellowship": "AA",
+  "area": "Yakima, WA",
+  "lat": 46.6022,
+  "lng": -120.5061,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(509) 517-9138"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Answering Service",
+  "fellowship": "AA",
+  "area": "Appleton, WI",
+  "lat": 44.2623,
+  "lng": -88.4071,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(920) 731-4331"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Chippewa Valley Intergroup",
+  "fellowship": "AA",
+  "area": "Eau Claire, WI",
+  "lat": 44.8113,
+  "lng": -91.4985,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(800) 471-9876"
+   },
+   {
+    "label": "Office",
+    "number": "(715) 835-5543"
+   }
+  ],
+  "website": "http://www.chippewavalleyintergroup.org"
+ },
+ {
+  "name": "Winnebago Land Central Office",
+  "fellowship": "AA",
+  "area": "Fond du Lac, WI",
+  "lat": 43.7681,
+  "lng": -88.4499,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(920) 204-8321"
+   }
+  ],
+  "website": "https://www.fonddulacaa.org/"
+ },
+ {
+  "name": "La Crosse Area Intergroup",
+  "fellowship": "AA",
+  "area": "La Crosse, WI",
+  "lat": 43.8,
+  "lng": -91.24,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(608) 621-2161"
+   }
+  ],
+  "website": "http://www.aalacrosse.org"
+ },
+ {
+  "name": "Oshkosh Help-Line",
+  "fellowship": "AA",
+  "area": "Oshkosh, WI",
+  "lat": 44.0247,
+  "lng": -88.5426,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(920) 410-4620"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Racine Area Central Office",
+  "fellowship": "AA",
+  "area": "Racine, WI",
+  "lat": 42.7333,
+  "lng": -87.8255,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(262) 554-7788"
+   },
+   {
+    "label": "Office",
+    "number": "(262) 554-6611"
+   }
+  ],
+  "website": "https://racinecentraloffice.org/"
+ },
+ {
+  "name": "Area 74 District 10 Hotline",
+  "fellowship": "AA",
+  "area": "Rhinelander, WI",
+  "lat": 45.6366,
+  "lng": -89.4121,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(715) 360-4637"
+   }
+  ],
+  "website": "http://www.northwoodsaa.org"
+ },
+ {
+  "name": "AA Answering Service",
+  "fellowship": "AA",
+  "area": "Sturgeon Bay, WI",
+  "lat": 44.8342,
+  "lng": -87.377,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(855) 746-0901"
+   }
+  ],
+  "website": "http://www.doorcountyaa.org"
+ },
+ {
+  "name": "District 3 Answering Service",
+  "fellowship": "AA",
+  "area": "Beckley, WV",
+  "lat": 37.7766,
+  "lng": -81.1851,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(304) 252-9444"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "West Virginia State Answering Service",
+  "fellowship": "AA",
+  "area": "Charleston, WV",
+  "lat": 38.3498,
+  "lng": -81.6326,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(800) 333-5051"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist. 06 Answering Service",
+  "fellowship": "AA",
+  "area": "Casper, WY",
+  "lat": 42.8487,
+  "lng": -106.2981,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(307) 333-0769"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist. 12 Answering Service",
+  "fellowship": "AA",
+  "area": "Cheyenne, WY",
+  "lat": 41.1347,
+  "lng": -104.8212,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(307) 632-7706"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist. 10 Answering Service",
+  "fellowship": "AA",
+  "area": "Laramie, WY",
+  "lat": 41.3114,
+  "lng": -105.5911,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(307) 399-0590"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Dist. 02 Intergroup",
+  "fellowship": "AA",
+  "area": "Sheridan, WY",
+  "lat": 44.7972,
+  "lng": -106.9562,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(307) 674-2082"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Arkansas Central Office",
+  "fellowship": "AA",
+  "area": "Little Rock, AR",
+  "lat": 34.7428,
+  "lng": -92.2763,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(501) 664-7303"
+   },
+   {
+    "label": "Office",
+    "number": "(501) 664-6042"
+   }
+  ],
+  "website": "http://www.arkansascentraloffice.org"
+ },
+ {
+  "name": "East Valley Intergroup Inc",
+  "fellowship": "AA",
+  "area": "Mesa, AZ",
+  "lat": 33.399,
+  "lng": -111.7972,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(480) 834-9033"
+   }
+  ],
+  "website": "http://www.aamesaaz.org"
+ },
+ {
+  "name": "AV Intergroup of AA, Inc",
+  "fellowship": "AA",
+  "area": "Lancaster, CA",
+  "lat": 34.6946,
+  "lng": -118.1474,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(661) 945-5757"
+   },
+   {
+    "label": "Spanish/French helpline",
+    "number": "(661) 593-2417"
+   }
+  ],
+  "website": "http://www.avcentraloffice.org"
+ },
+ {
+  "name": "Central Office of Southwest Missouri",
+  "fellowship": "AA",
+  "area": "Springfield, MO",
+  "lat": 37.1565,
+  "lng": -93.2483,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(417) 823-7125"
+   }
+  ],
+  "website": "http://www.aaswmo.org"
+ },
+ {
+  "name": "Central Service Office in Tyle",
+  "fellowship": "AA",
+  "area": "Tyler, TX",
+  "lat": 32.3513,
+  "lng": -95.3011,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(903) 597-1796"
+   }
+  ],
+  "website": "http://www.tyleraa.org"
+ },
+ {
+  "name": "AA Heart of Virginia",
+  "fellowship": "AA",
+  "area": "Charlottesville, VA",
+  "lat": 38.0302,
+  "lng": -78.4769,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(434) 293-6565"
+   }
+  ],
+  "website": "https://aaheartofva.org/"
+ },
+ {
+  "name": "Northern Nevada Intergroup",
+  "fellowship": "AA",
+  "area": "Sparks, NV",
+  "lat": 39.5402,
+  "lng": -119.7484,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(775) 355-1151"
+   }
+  ],
+  "website": "http://www.nnig.org"
+ },
+ {
+  "name": "Madison Area Intergroup Central Office, Inc.",
+  "fellowship": "AA",
+  "area": "Madison, WI",
+  "lat": 43.0722,
+  "lng": -89.4008,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(608) 222-8989"
+   }
+  ],
+  "website": "https://aamadisonwi.org"
+ },
+ {
+  "name": "Central Office Of Ft. Worth/ Inside delivery please",
+  "fellowship": "AA",
+  "area": "Fort Worth, TX",
+  "lat": 32.7555,
+  "lng": -97.3308,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(800) 396-1602"
+   },
+   {
+    "label": "Office",
+    "number": "(817) 332-3533"
+   }
+  ],
+  "website": "http://www.fortworthaa.org"
+ },
+ {
+  "name": "Rochester Area Intergroup Inc.",
+  "fellowship": "AA",
+  "area": "Rochester, NY",
+  "lat": 43.1566,
+  "lng": -77.6088,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(585) 278-9223"
+   },
+   {
+    "label": "Office",
+    "number": "(585) 232-6720"
+   }
+  ],
+  "website": "https://www.rochesteraa.org/"
+ },
+ {
+  "name": "Portland Area Intergroup Inc",
+  "fellowship": "AA",
+  "area": "Portland, OR",
+  "lat": 45.5296,
+  "lng": -122.6463,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(503) 223-8569"
+   },
+   {
+    "label": "Spanish/French helpline",
+    "number": "(971) 327-5523"
+   }
+  ],
+  "website": "http://www.pdxaa.com"
+ },
+ {
+  "name": "Youngstown Area Intergroup",
+  "fellowship": "AA",
+  "area": "Youngstown, OH",
+  "lat": 41.0699,
+  "lng": -80.6937,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(330) 270-3000"
+   }
+  ],
+  "website": "http://www.aayaig.org"
+ },
+ {
+  "name": "Orange County Central Office",
+  "fellowship": "AA",
+  "area": "Santa Ana, CA",
+  "lat": 33.7455,
+  "lng": -117.8677,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(714) 556-4555"
+   }
+  ],
+  "website": "http://www.oc-aa.org"
+ },
+ {
+  "name": "River Cities Central Office Alcoholics Anonymous",
+  "fellowship": "AA",
+  "area": "Bullhead City, AZ",
+  "lat": 35.0772,
+  "lng": -114.5599,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(800) 864-1606"
+   },
+   {
+    "label": "Office",
+    "number": "(928) 763-4499"
+   }
+  ],
+  "website": "http://www.rcco-aa.org"
+ },
+ {
+  "name": "Reading-Berks Intergroup",
+  "fellowship": "AA",
+  "area": "Reading, PA",
+  "lat": 40.337,
+  "lng": -75.9214,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(610) 373-6500"
+   },
+   {
+    "label": "Office",
+    "number": "(610) 451-4095"
+   }
+  ],
+  "website": "http://www.readingberksintergroup.org"
+ },
+ {
+  "name": "Pinellas County Intergroup Inc",
+  "fellowship": "AA",
+  "area": "Largo, FL",
+  "lat": 27.8831,
+  "lng": -82.794,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(727) 530-0415"
+   },
+   {
+    "label": "Office",
+    "number": "(727) 754-8006"
+   }
+  ],
+  "website": "http://www.aapinellas.org"
+ },
+ {
+  "name": "Oahu Intergroup Of Hawaii",
+  "fellowship": "AA",
+  "area": "Honolulu, HI",
+  "lat": 21.3136,
+  "lng": -157.848,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(808) 946-1438"
+   }
+  ],
+  "website": "http://www.oahucentraloffice.com"
+ },
+ {
+  "name": "Jackson Area Intergroup",
+  "fellowship": "AA",
+  "area": "Jackson, MS",
+  "lat": 32.3673,
+  "lng": -90.1776,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(601) 982-0081"
+   },
+   {
+    "label": "Answering service",
+    "number": "(888) 771-1633"
+   }
+  ],
+  "website": "http://www.midmissintergroup.org"
+ },
+ {
+  "name": "Miami Dade Intergroup",
+  "fellowship": "AA",
+  "area": "Miami, FL",
+  "lat": 25.7687,
+  "lng": -80.2349,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(305) 642-2805"
+   },
+   {
+    "label": "Office",
+    "number": "(305) 461-2425"
+   }
+  ],
+  "website": "http://www.aamiamidade.org"
+ },
+ {
+  "name": "Inter-Group Association of A.A. of New York,Inc.",
+  "fellowship": "AA",
+  "area": "New York, NY",
+  "lat": 40.7537,
+  "lng": -73.9992,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(212) 647-1680"
+   },
+   {
+    "label": "Office",
+    "number": "(212) 647-1647"
+   }
+  ],
+  "website": "http://www.nyintergroup.org"
+ },
+ {
+  "name": "Intergroup Association Inc.",
+  "fellowship": "AA",
+  "area": "Houston, TX",
+  "lat": 29.8265,
+  "lng": -95.4673,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(713) 686-6300"
+   }
+  ],
+  "website": "https://aahouston.org/"
+ },
+ {
+  "name": "Cincinnati Intergroup Office",
+  "fellowship": "AA",
+  "area": "Cincinnati, OH",
+  "lat": 39.1031,
+  "lng": -84.512,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(513) 351-0422"
+   }
+  ],
+  "website": "http://www.aacincinnati.org"
+ },
+ {
+  "name": "Milwaukee Central Office",
+  "fellowship": "AA",
+  "area": "West Allis, WI",
+  "lat": 43.0167,
+  "lng": -88.007,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(414) 771-9119"
+   }
+  ],
+  "website": "http://www.aamilwaukee.com"
+ },
+ {
+  "name": "IIIowa Intergroup",
+  "fellowship": "AA",
+  "area": "Davenport, IA",
+  "lat": 41.5349,
+  "lng": -90.5589,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(309) 764-1016"
+   }
+  ],
+  "website": "http://www.aaquadcities.org"
+ },
+ {
+  "name": "Josephine County Intergroup",
+  "fellowship": "AA",
+  "area": "Grants Pass, OR",
+  "lat": 42.439,
+  "lng": -123.3284,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(541) 474-0782"
+   }
+  ],
+  "website": "http://www.grantspassaa.com"
+ },
+ {
+  "name": "A.A. Jackson County Central Office",
+  "fellowship": "AA",
+  "area": "Medford, OR",
+  "lat": 42.323,
+  "lng": -122.8767,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(541) 732-1850"
+   }
+  ],
+  "website": "http://www.jccoaa.org"
+ },
+ {
+  "name": "Greater Louisville Intergroup of AA",
+  "fellowship": "AA",
+  "area": "Louisville, KY",
+  "lat": 38.2469,
+  "lng": -85.7664,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(502) 582-1849"
+   }
+  ],
+  "website": "https://loukyaa.org/"
+ },
+ {
+  "name": "St. Paul & Suburban Area Intergroup",
+  "fellowship": "AA",
+  "area": "West St. Paul, MN",
+  "lat": 44.9161,
+  "lng": -93.1016,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(651) 227-5502"
+   },
+   {
+    "label": "Spanish/French helpline",
+    "number": "(651) 888-6912"
+   }
+  ],
+  "website": "http://www.aastpaul.org"
+ },
+ {
+  "name": "East Tennessee Intergroup",
+  "fellowship": "AA",
+  "area": "Knoxville, TN",
+  "lat": 35.9653,
+  "lng": -83.9233,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(865) 522-9667"
+   }
+  ],
+  "website": "http://www.etiaa.org"
+ },
+ {
+  "name": "Buffalo Central Office",
+  "fellowship": "AA",
+  "area": "Sloan, NY",
+  "lat": 42.8934,
+  "lng": -78.7939,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(716) 853-0388"
+   }
+  ],
+  "website": "http://www.buffaloaany.org"
+ },
+ {
+  "name": "Capital District Central Office, Inc",
+  "fellowship": "AA",
+  "area": "Albany, NY",
+  "lat": 42.7227,
+  "lng": -73.8301,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(518) 463-0906"
+   }
+  ],
+  "website": "http://www.aaalbanyny.org"
+ },
+ {
+  "name": "Western Mass Intergroup",
+  "fellowship": "AA",
+  "area": "Holyoke, MA",
+  "lat": 42.2172,
+  "lng": -72.6269,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(413) 532-2111"
+   }
+  ],
+  "website": "http://www.westernmassaa.org"
+ },
+ {
+  "name": "Greater New Orleans Service Board",
+  "fellowship": "AA",
+  "area": "Metairie, LA",
+  "lat": 29.9841,
+  "lng": -90.1529,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(504) 838-3399"
+   },
+   {
+    "label": "Office",
+    "number": "(504) 836-0507"
+   }
+  ],
+  "website": "http://www.aaneworleans.org"
+ },
+ {
+  "name": "Fox Valley Central Office",
+  "fellowship": "AA",
+  "area": "Appleton, WI",
+  "lat": 44.2623,
+  "lng": -88.4071,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(920) 997-0221"
+   }
+  ],
+  "website": "http://www.foxvalleyaa.org"
+ },
+ {
+  "name": "Northwest Piedmont Intergroup",
+  "fellowship": "AA",
+  "area": "Winston Salem, NC",
+  "lat": 36.0948,
+  "lng": -80.2434,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(336) 725-6031"
+   }
+  ],
+  "website": "http://nwpi.net/"
+ },
+ {
+  "name": "District 8 Hotline",
+  "fellowship": "AA",
+  "area": "Lake Charles, LA",
+  "lat": 30.2266,
+  "lng": -93.2174,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(337) 502-9833"
+   },
+   {
+    "label": "Spanish/French helpline",
+    "number": "(504) 444-2677"
+   }
+  ],
+  "website": "http://aa-swla.org"
+ },
+ {
+  "name": "Inland Empire Central Office Of Alcoholics Anonymous",
+  "fellowship": "AA",
+  "area": "Colton, CA",
+  "lat": 34.0739,
+  "lng": -117.3137,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(909) 825-4700"
+   }
+  ],
+  "website": "https://aainlandempire.org/"
+ },
+ {
+  "name": "Central Office of Santa Fe Intergroup",
+  "fellowship": "AA",
+  "area": "Santa Fe, NM",
+  "lat": 35.6894,
+  "lng": -105.9382,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(505) 982-8932"
+   }
+  ],
+  "website": "http://www.santafeaa.org"
+ },
+ {
+  "name": "Central Office Of Mid-Missouri (C.O.M.M.)",
+  "fellowship": "AA",
+  "area": "Columbia, MO",
+  "lat": 38.9518,
+  "lng": -92.3283,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(573) 442-4424"
+   },
+   {
+    "label": "Office",
+    "number": "(573) 808-4075"
+   }
+  ],
+  "website": "http://www.aacomm.org"
+ },
+ {
+  "name": "Greater Seattle Intergroup",
+  "fellowship": "AA",
+  "area": "Seattle, WA",
+  "lat": 47.6061,
+  "lng": -122.3328,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(206) 587-2838"
+   }
+  ],
+  "website": "http://www.seattleaa.org"
+ },
+ {
+  "name": "Twinports Area Intergroup",
+  "fellowship": "AA",
+  "area": "Duluth, MN",
+  "lat": 46.7845,
+  "lng": -92.1055,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(218) 727-8117"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Nassau Intergroup",
+  "fellowship": "AA",
+  "area": "West Hempstead, NY",
+  "lat": 40.7048,
+  "lng": -73.6501,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(516) 292-3040"
+   },
+   {
+    "label": "Office",
+    "number": "(516) 292-3045"
+   }
+  ],
+  "website": "https://nassauintergroup.org"
+ },
+ {
+  "name": "Syracuse Intergroup, Inc",
+  "fellowship": "AA",
+  "area": "Syracuse, NY",
+  "lat": 43.0495,
+  "lng": -76.1474,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(315) 463-5011"
+   }
+  ],
+  "website": "http://www.aasyracuse.org"
+ },
+ {
+  "name": "Westside Central Office",
+  "fellowship": "AA",
+  "area": "Portland, OR",
+  "lat": 45.5065,
+  "lng": -122.7756,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(503) 684-0415"
+   }
+  ],
+  "website": "http://westsidecentraloffice.com"
+ },
+ {
+  "name": "Delta Central Office",
+  "fellowship": "AA",
+  "area": "Stockton, CA",
+  "lat": 37.9984,
+  "lng": -121.3198,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(209) 464-1509"
+   },
+   {
+    "label": "TTY",
+    "number": "(209) 464-1594"
+   }
+  ],
+  "website": "https://aadelta.org/"
+ },
+ {
+  "name": "Central Service Office",
+  "fellowship": "AA",
+  "area": "San Antonio, TX",
+  "lat": 29.4252,
+  "lng": -98.4946,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(210) 828-6235"
+   },
+   {
+    "label": "Office",
+    "number": "(210) 821-6325"
+   },
+   {
+    "label": "Spanish/French helpline",
+    "number": "(210) 409-8524"
+   }
+  ],
+  "website": "http://www.aasanantonio.org"
+ },
+ {
+  "name": "Oficina Integrupal Hispana, Area Sur NJ",
+  "fellowship": "AA",
+  "area": "North Brunswick, NJ",
+  "lat": 40.443,
+  "lng": -74.4819,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(347) 512-6752"
+   }
+  ],
+  "website": "https://www.aaintergruposurnj.com/"
+ },
+ {
+  "name": "Montgomery Area Intergroup",
+  "fellowship": "AA",
+  "area": "Montgomery, AL",
+  "lat": 32.3513,
+  "lng": -86.2413,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(334) 264-4122"
+   },
+   {
+    "label": "Office",
+    "number": "(980) 621-1595"
+   }
+  ],
+  "website": "http://www.centralalaa.org"
+ },
+ {
+  "name": "Answering Service",
+  "fellowship": "AA",
+  "area": "Rock Spring, WY",
+  "lat": 41.5875,
+  "lng": -109.2029,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(307) 362-8421"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Central Ohio Online Alcoholics Anonymous Intergroup",
+  "fellowship": "AA",
+  "area": "Columbus, OH",
+  "lat": 39.9625,
+  "lng": -83.0032,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(614) 407-4323"
+   }
+  ],
+  "website": "https://www.coolaa.org"
+ },
+ {
+  "name": "Oficina Central del Valle de San Gabriel de AA",
+  "fellowship": "AA",
+  "area": "El Monte, CA",
+  "lat": 34.0499,
+  "lng": -118.0479,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(626) 453-0226"
+   }
+  ],
+  "website": "http://www.aaoficinasangabriel.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana de A.A. de Massachusetts",
+  "fellowship": "AA",
+  "area": "Chelsea, MA",
+  "lat": 42.3918,
+  "lng": -71.0328,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(617) 764-0361"
+   }
+  ],
+  "website": "http://www.oficinaintergrupaldema.com"
+ },
+ {
+  "name": "Licking County Intergroup",
+  "fellowship": "AA",
+  "area": "Newark, OH",
+  "lat": 40.0581,
+  "lng": -82.4013,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(740) 345-7060"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Oficina Central Hispana",
+  "fellowship": "AA",
+  "area": "Las Vegas, NV",
+  "lat": 36.2031,
+  "lng": -115.2245,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(702) 387-8744"
+   }
+  ],
+  "website": "https://www.aalatinoslv.org/"
+ },
+ {
+  "name": "Cape Atlantic Intergroup",
+  "fellowship": "AA",
+  "area": "Northfield, NJ",
+  "lat": 39.3754,
+  "lng": -74.5534,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(302) 250-7679"
+   }
+  ],
+  "website": "http://www.capeatlanticaa.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana Sur de Arizona",
+  "fellowship": "AA",
+  "area": "Tucson, AZ",
+  "lat": 32.254,
+  "lng": -110.9742,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(520) 622-5112"
+   }
+  ],
+  "website": "https://www.oisadetucsonaa.org"
+ },
+ {
+  "name": "Oficina Intergrupal De AA Del Valle De San Fernando",
+  "fellowship": "AA",
+  "area": "Panorama City, CA",
+  "lat": 34.2215,
+  "lng": -118.4488,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(818) 916-3723"
+   }
+  ],
+  "website": "https://www.oiaavsf.org/"
+ },
+ {
+  "name": "Central Connecticut Intergroup",
+  "fellowship": "AA",
+  "area": "Wallingford, CT",
+  "lat": 41.4567,
+  "lng": -72.8241,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(203) 435-2914"
+   }
+  ],
+  "website": "http://CCTI-AA.ORG"
+ },
+ {
+  "name": "Jackson Wyoming and Surrounding Areas.  Area 76 District 4",
+  "fellowship": "AA",
+  "area": "Jackson",
+  "lat": 32.2981,
+  "lng": -90.1806,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(307) 733-5322"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Oficina Intergrupal del Area 29 Baltimore",
+  "fellowship": "AA",
+  "area": "Baltimore, MD",
+  "lat": 39.2905,
+  "lng": -76.6104,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(443) 257-1877"
+   }
+  ],
+  "website": "http://aahispanomaryland.org"
+ },
+ {
+  "name": "Northeast Pennsylvania Intergroup",
+  "fellowship": "AA",
+  "area": "Pittston, PA",
+  "lat": 41.3259,
+  "lng": -75.7894,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(570) 654-0488"
+   },
+   {
+    "label": "Answering service",
+    "number": "(800) 640-7545"
+   },
+   {
+    "label": "Office",
+    "number": "(570) 654-1226"
+   }
+  ],
+  "website": "https://www.nepaig.org"
+ },
+ {
+  "name": "District 21 Copper Country",
+  "fellowship": "AA",
+  "area": "Dollar Bay, MI",
+  "lat": 47.1198,
+  "lng": -88.5023,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(906) 482-7778"
+   }
+  ],
+  "website": "https://coppercountryaa.info/"
+ },
+ {
+  "name": "Nature Coast Intergroup",
+  "fellowship": "AA",
+  "area": "Crystal River, FL",
+  "lat": 28.8947,
+  "lng": -82.5875,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(352) 621-0599"
+   }
+  ],
+  "website": "http://www.ncintergroup.com"
+ },
+ {
+  "name": "Lancaster AACSO",
+  "fellowship": "AA",
+  "area": "Lancaster, PA",
+  "lat": 40.0145,
+  "lng": -76.329,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(717) 394-3238"
+   }
+  ],
+  "website": "https://lancasteraa.org/"
+ },
+ {
+  "name": "Central Service Office Of Fresno",
+  "fellowship": "AA",
+  "area": "Fresno, CA",
+  "lat": 36.795,
+  "lng": -119.7542,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(559) 221-6907"
+   }
+  ],
+  "website": "http://www.fresnoaa.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana De Carolina Del Norte Raleigh",
+  "fellowship": "AA",
+  "area": "",
+  "lat": 38.7946,
+  "lng": -106.5348,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(919) 633-1777"
+   },
+   {
+    "label": "Office",
+    "number": "(919) 478-2067"
+   }
+  ],
+  "website": "http://www.intergrupalsilercitync.weebly.com"
+ },
+ {
+  "name": "Puget Sound Central Service Office",
+  "fellowship": "AA",
+  "area": "Tacoma, WA",
+  "lat": 47.2019,
+  "lng": -122.478,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(253) 474-8897"
+   }
+  ],
+  "website": "http://pugetsoundaa.org/"
+ },
+ {
+  "name": "Oficina Intergrupal del Alto Desierto de Victor Valley",
+  "fellowship": "AA",
+  "area": "Hesperia, CA",
+  "lat": 34.4237,
+  "lng": -117.3156,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(760) 245-5600"
+   }
+  ],
+  "website": null
+ },
+ {
+  "name": "Baltimore Intergroup Council of AA",
+  "fellowship": "AA",
+  "area": "Pikesville, MD",
+  "lat": 39.3743,
+  "lng": -76.7225,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(410) 663-1922"
+   }
+  ],
+  "website": "http://www.baltimoreaa.org"
+ },
+ {
+  "name": "AA Vermont District 2",
+  "fellowship": "AA",
+  "area": "Burlington, VT",
+  "lat": 44.4759,
+  "lng": -73.2121,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(802) 802-2288"
+   }
+  ],
+  "website": "http://www.aavt.org"
+ },
+ {
+  "name": "AA Vermont District 11",
+  "fellowship": "AA",
+  "area": "Chittenden County, VT",
+  "lat": 44.3959,
+  "lng": -72.9962,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Answering service",
+    "number": "(802) 802-2288"
+   }
+  ],
+  "website": "http://www.aavt.org"
+ },
+ {
+  "name": "Southwestern Indiana Central Office",
+  "fellowship": "AA",
+  "area": "Evansville, IN",
+  "lat": 37.9716,
+  "lng": -87.5711,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Helpline",
+    "number": "(800) 266-5584"
+   },
+   {
+    "label": "Office",
+    "number": "(812) 204-1276"
+   }
+  ],
+  "website": "https://southwesternindianaaa.org/"
+ },
+ {
+  "name": "Mansfield Area Intergroup",
+  "fellowship": "AA",
+  "area": "Mansfield, OH",
+  "lat": 40.7587,
+  "lng": -82.5105,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(419) 522-4800"
+   }
+  ],
+  "website": "http://www.mansfieldaa.org"
+ },
+ {
+  "name": "Oficina Intergrupal Hispana Del Valle De Coachella",
+  "fellowship": "AA",
+  "area": "Indio, CA",
+  "lat": 33.7206,
+  "lng": -116.2156,
+  "radiusMiles": 60,
+  "phones": [
+   {
+    "label": "Office",
+    "number": "(760) 296-4969"
+   }
+  ],
+  "website": "https://aaintcoachella.net/"
+ }
+]

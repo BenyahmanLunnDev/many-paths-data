@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Lane County Area NA Phoneline",
+    "fellowship": "NA",
+    "area": "Lane County, OR",
+    "lat": 44.05,
+    "lng": -123.09,
+    "radiusMiles": 50,
+    "phones": [{ "label": "Helpline", "number": "(541) 729-0080" }],
+    "website": "https://www.lanecountyarea-na.org/asc/phoneline/"
+  },
+  {
+    "name": "Snake River Area NA",
+    "fellowship": "NA",
+    "area": "Pocatello, Blackfoot, American Falls and Idaho Falls, ID",
+    "lat": 43.15,
+    "lng": -112.3,
+    "radiusMiles": 70,
+    "phones": [{ "label": "Helpline", "number": "(208) 252-5167" }],
+    "website": "https://sirna.org/meetings/snake-river/"
+  },
+  {
+    "name": "Restored Connections Peer Center",
+    "fellowship": "OTHER",
+    "area": "Eugene, OR",
+    "lat": 44.0464,
+    "lng": -123.0885,
+    "radiusMiles": 25,
+    "phones": [{ "label": "Drop-in center, weekdays 8–6", "number": "(458) 544-0000" }],
+    "website": "https://restoredconnections.org/"
+  }
+]
