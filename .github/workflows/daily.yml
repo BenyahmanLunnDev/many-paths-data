@@ -5,6 +5,11 @@ on:
     # 11:23 UTC is about 4 AM in Oregon, before anyone's morning meeting.
     - cron: "23 11 * * *"
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Re-read public pages and sheets now, even if copied recently"
+        type: boolean
+        default: false
 
 permissions:
   contents: write   # commit the small daily status file (keeps the schedule alive)
@@ -30,13 +35,15 @@ jobs:
         env:
           # Sharing keys groups have given this project ("id=key;id2=key2"). Never committed.
           SOURCE_KEYS: ${{ secrets.SOURCE_KEYS }}
-        run: python builder/build.py --out site --status status/latest.json
+          FORCE: ${{ inputs.force && '--force' || '' }}
+        run: python builder/build.py --out site --status status/latest.json $FORCE
       - name: Record today's status
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add status/latest.json
           git diff --cached --quiet || git commit -m "Daily status $(date -u +%F)"
+          git pull --rebase --quiet origin main   # in case code was pushed while this ran
           git push
       - uses: actions/upload-pages-artifact@v3
         with:

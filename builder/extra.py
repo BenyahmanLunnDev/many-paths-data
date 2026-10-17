@@ -90,7 +90,11 @@ def geocode(addresses, cache, ua):
             "User-Agent": ua, "Content-Type": f"multipart/form-data; boundary={boundary}"})
         with urllib.request.urlopen(req, timeout=600) as r:
             result = r.read().decode("utf-8", "replace")
-        for row in csv.reader(io.StringIO(result)):
+        answered = [row for row in csv.reader(io.StringIO(result)) if row and row[0] in ids]
+        if not answered:
+            # An error page or empty reply: don't record every address as "not found".
+            raise RuntimeError("address lookup gave no answers: " + re.sub(r"\s+", " ", result[:120]))
+        for row in answered:
             if len(row) >= 6 and row[0] in ids:
                 key = ids[row[0]]
                 if row[2] == "Match" and "," in row[5]:

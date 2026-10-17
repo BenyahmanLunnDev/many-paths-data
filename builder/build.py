@@ -75,11 +75,14 @@ def age_days(iso):
         return 1e9
 
 
+FORCE = False  # --force: re-read pages and sheets even if the last copy is recent
+
+
 def build_extra(source, cache):
     """A public meeting page or sheet, re-read only when the last copy is older than refreshDays."""
     sid = source["id"]
     old = previous_manifest.get("sources", {}).get(sid, {})
-    if old.get("status") == "ok" and age_days(old.get("fetchedAt")) < source.get("refreshDays", 1) - 0.1:
+    if not FORCE and old.get("status") == "ok" and age_days(old.get("fetchedAt")) < source.get("refreshDays", 1) - 0.1:
         try:
             return get_json(PAGES + f"v1/feeds/{sid}.json", timeout=60), dict(old)
         except Exception:  # noqa: BLE001 - fall through and rebuild
@@ -89,6 +92,9 @@ def build_extra(source, cache):
         data = reader(source, get_text, cache, UA)
         if not data:
             raise ValueError("no meetings found")
+        if old.get("count") and len(data) < old["count"] / 2:
+            # A sudden halving is far more likely a failed lookup than half the meetings closing.
+            raise ValueError(f"only {len(data)} meetings, down from {old['count']}")
         return data, {"status": "ok", "count": len(data), "fetchedAt": now()}
     except Exception as e:  # noqa: BLE001
         error = str(e)[:120] or type(e).__name__
@@ -210,7 +216,10 @@ def main():
     ap.add_argument("--status", help="also write a small status summary here (committed daily)")
     ap.add_argument("--workers", type=int, default=6)
     ap.add_argument("--only", help="comma-separated source ids, for testing")
+    ap.add_argument("--force", action="store_true", help="re-read pages and sheets now")
     args = ap.parse_args()
+    global FORCE
+    FORCE = args.force
 
     out = Path(args.out)
     if out.exists():
@@ -237,10 +246,15 @@ def main():
                     json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
     # Public meeting pages and sheets, with addresses looked up (and remembered between runs).
+    # Known addresses ship with the repo (sources/geocode_cache.json, refreshed from a home
+    # connection); the published cache adds any looked up by earlier runs.
+    cache = json.loads((ROOT / "sources/geocode_cache.json").read_text(encoding="utf-8"))
     try:
-        cache = get_json(PAGES + "v1/geocode-cache.json", timeout=60)
+        for k, v in get_json(PAGES + "v1/geocode-cache.json", timeout=60).items():
+            if v is not None:
+                cache.setdefault(k, v)
     except Exception:  # noqa: BLE001 - first run
-        cache = {}
+        pass
     extras = [s for s in json.loads((ROOT / "sources/extra_sources.json").read_text(encoding="utf-8")) if s.get("enabled", True)]
     if args.only:
         extras = [s for s in extras if s["id"] in only]
