@@ -1,0 +1,93 @@
+[
+ {
+  "id": "aa-napa-sheet",
+  "name": "Napa County Intergroup",
+  "fellowship": "AA",
+  "kind": "TSML",
+  "url": "https://benyahmanlunndev.github.io/many-paths-data/v1/feeds/aa-napa-sheet.json",
+  "website": "https://www.aanapa.org",
+  "area": "Napa, CA",
+  "centerLat": 38.301,
+  "centerLng": -122.304,
+  "radiusMiles": 37,
+  "note": "Read daily from the group's public Google Sheet by many-paths-data."
+ },
+ {
+  "id": "aa-kalamazoo-sheet",
+  "name": "Greater Kalamazoo AA",
+  "fellowship": "AA",
+  "kind": "TSML",
+  "url": "https://benyahmanlunndev.github.io/many-paths-data/v1/feeds/aa-kalamazoo-sheet.json",
+  "website": "https://www.wmaa4.org",
+  "area": "Kalamazoo, MI",
+  "centerLat": 42.282,
+  "centerLng": -85.586,
+  "radiusMiles": 34,
+  "note": "Read daily from the group's public Google Sheet by many-paths-data."
+ },
+ {
+  "id": "aa-midland-sheet",
+  "name": "District 20 Midland County",
+  "fellowship": "AA",
+  "kind": "TSML",
+  "url": "https://benyahmanlunndev.github.io/many-paths-data/v1/feeds/aa-midland-sheet.json",
+  "website": "https://www.midlandaa.org",
+  "area": "Midland, MI",
+  "centerLat": 43.62,
+  "centerLng": -84.239,
+  "radiusMiles": 25,
+  "note": "Read daily from the group's public Google Sheet by many-paths-data."
+ },
+ {
+  "id": "aa-binghamton-sheet",
+  "name": "Triple Cities Intergroup",
+  "fellowship": "AA",
+  "kind": "TSML",
+  "url": "https://benyahmanlunndev.github.io/many-paths-data/v1/feeds/aa-binghamton-sheet.json",
+  "website": "https://www.aabinghamton.org",
+  "area": "Binghamton, NY",
+  "centerLat": 42.101,
+  "centerLng": -75.905,
+  "radiusMiles": 55,
+  "note": "Read daily from the group's public Google Sheet by many-paths-data."
+ },
+ {
+  "id": "aa-rivercities-sheet",
+  "name": "River Cities Central Office",
+  "fellowship": "AA",
+  "kind": "TSML",
+  "url": "https://benyahmanlunndev.github.io/many-paths-data/v1/feeds/aa-rivercities-sheet.json",
+  "website": "https://www.rcco-aa.org",
+  "area": "Lake Havasu City and Bullhead City, AZ",
+  "centerLat": 34.982,
+  "centerLng": -114.342,
+  "radiusMiles": 55,
+  "note": "Read daily from the group's public Google Sheet by many-paths-data."
+ },
+ {
+  "id": "aa-district24mi-sheet",
+  "name": "AA District 24 (Michigan)",
+  "fellowship": "AA",
+  "kind": "TSML",
+  "url": "https://benyahmanlunndev.github.io/many-paths-data/v1/feeds/aa-district24mi-sheet.json",
+  "website": "https://tauc.ws",
+  "area": "Michigan District 24",
+  "centerLat": 43.489,
+  "centerLng": -83.315,
+  "radiusMiles": 62,
+  "note": "Read daily from the group's public Google Sheet by many-paths-data."
+ },
+ {
+  "id": "aa-district80il-sheet",
+  "name": "AA District 80 (Illinois)",
+  "fellowship": "AA",
+  "kind": "TSML",
+  "url": "https://benyahmanlunndev.github.io/many-paths-data/v1/feeds/aa-district80il-sheet.json",
+  "website": "https://ildistrict80aa.org",
+  "area": "Illinois District 80",
+  "centerLat": 41.329,
+  "centerLng": -89.088,
+  "radiusMiles": 40,
+  "note": "Read daily from the group's public Google Sheet by many-paths-data."
+ }
+]

@@ -28,6 +28,8 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
+import extra
+
 ROOT = Path(__file__).resolve().parent.parent
 PAGES = os.environ.get("PAGES_BASE", "https://benyahmanlunndev.github.io/many-paths-data/")
 # Says who's asking and where to read about it. (Some hosts refuse anything containing "compatible;".)
@@ -58,6 +60,43 @@ def get_json(url, timeout=90):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json, */*"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return json.loads(r.read().decode("utf-8", "replace"))
+
+
+def get_text(url, timeout=90):
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html,text/csv,*/*"})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read().decode("utf-8", "replace")
+
+
+def age_days(iso):
+    try:
+        return (dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(iso)).total_seconds() / 86400
+    except (TypeError, ValueError):
+        return 1e9
+
+
+def build_extra(source, cache):
+    """A public meeting page or sheet, re-read only when the last copy is older than refreshDays."""
+    sid = source["id"]
+    old = previous_manifest.get("sources", {}).get(sid, {})
+    if old.get("status") == "ok" and age_days(old.get("fetchedAt")) < source.get("refreshDays", 1) - 0.1:
+        try:
+            return get_json(PAGES + f"v1/feeds/{sid}.json", timeout=60), dict(old)
+        except Exception:  # noqa: BLE001 - fall through and rebuild
+            pass
+    reader = extra.read_tsml_page if source["type"] == "tsml_page" else extra.read_sheet
+    try:
+        data = reader(source, get_text, cache, UA)
+        if not data:
+            raise ValueError("no meetings found")
+        return data, {"status": "ok", "count": len(data), "fetchedAt": now()}
+    except Exception as e:  # noqa: BLE001
+        error = str(e)[:120] or type(e).__name__
+        try:
+            previous = get_json(PAGES + f"v1/feeds/{sid}.json", timeout=60)
+            return previous, {"status": "previous", "count": len(previous), "fetchedAt": old.get("fetchedAt"), "error": error}
+        except Exception:  # noqa: BLE001
+            return None, {"status": "failed", "error": error}
 
 
 def feed_key(url):
@@ -101,6 +140,8 @@ def request_url(source, keys):
 def wanted(source, keys):
     if source.get("kind") not in ("TSML", "BMLT_ONLINE"):
         return False
+    if source.get("url", "").startswith(PAGES):
+        return False  # published by this job itself (sheets, public pages)
     return not source.get("restricted") or source["id"] in keys
 
 
@@ -194,6 +235,23 @@ def main():
             if data is not None:
                 (out / f"v1/feeds/{sid}.json").write_text(
                     json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+
+    # Public meeting pages and sheets, with addresses looked up (and remembered between runs).
+    try:
+        cache = get_json(PAGES + "v1/geocode-cache.json", timeout=60)
+    except Exception:  # noqa: BLE001 - first run
+        cache = {}
+    extras = [s for s in json.loads((ROOT / "sources/extra_sources.json").read_text(encoding="utf-8")) if s.get("enabled", True)]
+    if args.only:
+        extras = [s for s in extras if s["id"] in only]
+    for source in extras:
+        data, st = build_extra(source, cache)
+        statuses[source["id"]] = st
+        if data is not None:
+            (out / f"v1/feeds/{source['id']}.json").write_text(
+                json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    (out / "v1/geocode-cache.json").write_text(json.dumps(cache, separators=(",", ":")), encoding="utf-8")
+    sources = sources + extras  # so the status page names them
 
     # Hand-maintained files ride along so they can be updated without an app release.
     curated = json.loads((ROOT / "sources/curated_meetings.json").read_text(encoding="utf-8"))

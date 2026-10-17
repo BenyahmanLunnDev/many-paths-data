@@ -1,0 +1,93 @@
+[
+ {
+  "id": "aa-eviaa-public",
+  "name": "AA Emerald Valley Intergroup",
+  "type": "tsml_page",
+  "page": "https://eviaaweb.org/meetings/?tsml-day=any",
+  "website": "https://eviaaweb.org/meetings/",
+  "state": "OR",
+  "timezone": "America/Los_Angeles",
+  "area": "Eugene, Springfield and Lane County, OR",
+  "refreshDays": 7,
+  "note": "Their sharing setting for apps is restricted (the plugin's default), so this is copied from their public meetings page about once a week, dated, and links back to each listing. It's replaced by their own feed if they share a key, and removed if they ask.",
+  "enabled": false,
+  "why": "Off until the owner decides: reading this site was paused on 2026-10-17. Flip to true only with that decision recorded."
+ },
+ {
+  "id": "aa-napa-sheet",
+  "name": "Napa County Intergroup",
+  "type": "sheet",
+  "sheet": "https://docs.google.com/spreadsheets/d/1l6VM8FSxcR1BxCKLgtFJHGs3pVkpJ9A97MRE-t-2aVk/export?format=csv",
+  "website": "https://www.aanapa.org",
+  "state": "CA",
+  "timezone": "America/Los_Angeles",
+  "area": "Napa, CA",
+  "refreshDays": 1
+ },
+ {
+  "id": "aa-kalamazoo-sheet",
+  "name": "Greater Kalamazoo AA",
+  "type": "sheet",
+  "sheet": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4A10OivlJHq3bkJQV_GPoCGUYTd23l0kE5ewgDbwWH8aEkAih97JgJkgsx1abGO712N3GCtJXtOXF/pub?output=csv",
+  "website": "https://www.wmaa4.org",
+  "state": "MI",
+  "timezone": "America/Detroit",
+  "area": "Kalamazoo, MI",
+  "refreshDays": 1
+ },
+ {
+  "id": "aa-midland-sheet",
+  "name": "District 20 Midland County",
+  "type": "sheet",
+  "sheet": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQRht3ALrr5rhOIF6oU1Cl93Rt0guFCpVUr8q9LgD-o5MAMoPJGaPEwvDaF8AnyCSfm6uPOJcfAdQ4f/pub?output=csv",
+  "website": "https://www.midlandaa.org",
+  "state": "MI",
+  "timezone": "America/Detroit",
+  "area": "Midland, MI",
+  "refreshDays": 1
+ },
+ {
+  "id": "aa-binghamton-sheet",
+  "name": "Triple Cities Intergroup",
+  "type": "sheet",
+  "sheet": "https://docs.google.com/spreadsheets/d/1hz3_qp2N-NxDsxndUZSt6_sCGFH7NNJSdijTrrpR1d8/export?format=csv",
+  "website": "https://www.aabinghamton.org",
+  "state": "NY",
+  "timezone": "America/New_York",
+  "area": "Binghamton, NY",
+  "refreshDays": 1
+ },
+ {
+  "id": "aa-rivercities-sheet",
+  "name": "River Cities Central Office",
+  "type": "sheet",
+  "sheet": "https://docs.google.com/spreadsheets/d/19D0_GN3xhYl3CykWOmHskWyfgZSgvOxgih5xBFtp9dU/export?format=csv",
+  "website": "https://www.rcco-aa.org",
+  "state": "AZ",
+  "timezone": "America/Phoenix",
+  "area": "Lake Havasu City and Bullhead City, AZ",
+  "refreshDays": 1
+ },
+ {
+  "id": "aa-district24mi-sheet",
+  "name": "AA District 24 (Michigan)",
+  "type": "sheet",
+  "sheet": "https://docs.google.com/spreadsheets/d/1809CspANB4mqfr_r-ItXXhAWguDzSRyUuwVcRpoLCBc/export?format=csv",
+  "website": "https://tauc.ws",
+  "state": "MI",
+  "timezone": "America/Detroit",
+  "area": "Michigan District 24",
+  "refreshDays": 1
+ },
+ {
+  "id": "aa-district80il-sheet",
+  "name": "AA District 80 (Illinois)",
+  "type": "sheet",
+  "sheet": "https://docs.google.com/spreadsheets/d/1AFZNSQp9wspESNNn2zOhSP7b81tR5GJuuIgrOrZgWLY/export?format=csv",
+  "website": "https://ildistrict80aa.org",
+  "state": "IL",
+  "timezone": "America/Chicago",
+  "area": "Illinois District 80",
+  "refreshDays": 1
+ }
+]
