@@ -104,6 +104,34 @@ def geocode(addresses, cache, ua):
                     cache[key] = None
 
 
+NOMINATIM = "https://nominatim.openstreetmap.org/search"
+
+
+def geocode_with_fallback(addresses, cache, ua):
+    """Census batch first; whatever it can't answer (it refuses some cloud servers) goes to
+    OpenStreetMap's Nominatim one address a second, as its usage policy asks. Results are
+    cached, so each address is looked up once."""
+    try:
+        geocode(addresses, cache, ua)
+    except Exception as e:  # noqa: BLE001
+        print(f"census geocoder unavailable ({str(e)[:100]}); using OpenStreetMap", flush=True)
+    for key, (street, city, state, zip_code) in addresses.items():
+        if cache.get(key) is not None or not street:
+            continue
+        query = urllib.parse.urlencode({
+            "street": street, "city": city, "state": state, "postalcode": zip_code,
+            "country": "us", "format": "jsonv2", "limit": 1,
+        })
+        try:
+            req = urllib.request.Request(f"{NOMINATIM}?{query}", headers={"User-Agent": ua})
+            with urllib.request.urlopen(req, timeout=60) as r:
+                found = json.loads(r.read().decode("utf-8"))
+            cache[key] = [round(float(found[0]["lat"]), 6), round(float(found[0]["lon"]), 6)] if found else None
+        except Exception:  # noqa: BLE001 - leave it for the next run
+            pass
+        time.sleep(1.1)
+
+
 def address_key(street, city, state, zip_code):
     return "|".join(x.strip().lower() for x in (street, city, state, zip_code))
 
@@ -253,7 +281,7 @@ def read_sheet(source, fetch_text, cache, ua):
 
 
 def finish(meetings, addresses, cache, ua):
-    geocode(addresses, cache, ua)
+    geocode_with_fallback(addresses, cache, ua)
     out = []
     for m in meetings:
         key = m.pop("_geo", None)
