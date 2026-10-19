@@ -89,7 +89,7 @@ def build_extra(source, cache):
             return get_json(PAGES + f"v1/feeds/{sid}.json", timeout=60), dict(old)
         except Exception:  # noqa: BLE001 - fall through and rebuild
             pass
-    reader = extra.read_tsml_page if source["type"] == "tsml_page" else extra.read_sheet
+    reader = {"tsml_page": extra.read_tsml_page, "sheet": extra.read_sheet, "ical": extra.read_calendar}[source["type"]]
     try:
         data = reader(source, get_text, cache, UA)
         if not data:

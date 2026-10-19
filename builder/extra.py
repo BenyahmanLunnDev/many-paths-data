@@ -4,6 +4,7 @@ Lists that aren't served as a Meeting Guide feed, turned into one:
   tsml_page  the public meeting page of a 12 Step Meeting List site whose feed isn't shared
              (read like a visitor reads it; the restricted feed itself is never touched)
   sheet      a public Google Sheet in (roughly) the Meeting Guide column layout
+  ical       a public calendar feed of weekly meetings (a group's Google Calendar)
 
 Addresses get coordinates from the US Census Bureau geocoder, cached between runs.
 """
@@ -17,6 +18,8 @@ import time
 import urllib.parse
 import urllib.request
 import uuid
+
+import ical
 
 DAYS = {d: i for i, d in enumerate(["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"])}
 DAYS.update({d[:3]: i for d, i in list(DAYS.items())})
@@ -277,6 +280,12 @@ def read_sheet(source, fetch_text, cache, ua):
             else:
                 continue
             meetings.append({k: v for k, v in m.items() if v not in (None, "", [])})
+    return finish(meetings, addresses, cache, ua)
+
+
+def read_calendar(source, fetch_text, cache, ua):
+    """Weekly meetings from a public calendar feed (see ical.py)."""
+    meetings, addresses = ical.meetings(fetch_text(source["calendar"]), source)
     return finish(meetings, addresses, cache, ua)
 
 

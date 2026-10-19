@@ -82,6 +82,19 @@
     "note": "Copied about once a week from EVI's public meetings page, with the date and a link to each listing, until EVI shares its list with apps."
   },
   {
+    "id": "na-sirna-snake-river",
+    "name": "Snake River Valley Area NA",
+    "fellowship": "NA",
+    "kind": "TSML",
+    "url": "https://benyahmanlunndev.github.io/many-paths-data/v1/feeds/na-sirna-snake-river.json",
+    "website": "https://sirna.org/meetings/snake-river/",
+    "area": "Pocatello, Blackfoot, Idaho Falls, Rexburg and southeast Idaho",
+    "centerLat": 43.2,
+    "centerLng": -111.9,
+    "radiusMiles": 100,
+    "note": "Read daily from the area's public Google Calendar by many-paths-data."
+  },
+  {
     "id": "aa-idaho18",
     "name": "AA Idaho Area 18",
     "fellowship": "AA",

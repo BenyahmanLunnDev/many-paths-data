@@ -14,6 +14,20 @@
   "decision": "Turned on 2026-10-17 by the project owner, who is telling EVI and will switch to their feed (key) or remove it if they ask."
  },
  {
+  "id": "na-sirna-snake-river",
+  "name": "Snake River Valley Area NA",
+  "type": "ical",
+  "calendar": "https://calendar.google.com/calendar/ical/4tgqcb646ebc16v7otljcqcg60%40group.calendar.google.com/public/basic.ics",
+  "website": "https://sirna.org/meetings/snake-river/",
+  "fellowship": "NA",
+  "state": "ID",
+  "timezone": "America/Boise",
+  "area": "Pocatello, Blackfoot, Idaho Falls, Rexburg and southeast Idaho",
+  "refreshDays": 1,
+  "enabled": true,
+  "note": "Read daily from the public Google Calendar the area embeds on its meetings page. Southern Idaho's NA meetings aren't in NA's shared meeting database."
+ },
+ {
   "id": "aa-napa-sheet",
   "name": "Napa County Intergroup",
   "type": "sheet",
