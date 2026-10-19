@@ -279,6 +279,9 @@ def main():
     manifest = {"version": 1, "generatedAt": now(), "counts": counts, "sources": statuses}
     (out / "v1/manifest.json").write_text(json.dumps(manifest, indent=1), encoding="utf-8")
     write_index(out / "index.html", manifest, sources)
+    # Static pages, like the app's privacy policy, are served at the site root.
+    for page in (ROOT / "pages").glob("*.html"):
+        shutil.copy(page, out / page.name)
     (out / ".nojekyll").write_text("", encoding="utf-8")
 
     if args.status:
