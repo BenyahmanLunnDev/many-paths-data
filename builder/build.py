@@ -8,6 +8,7 @@ and writes a static site that GitHub Pages serves:
     v1/manifest.json            what was fetched, when, and what failed
     v1/curated_meetings.json    hand-entered groups (Restored Connections, ...)
     v1/helplines.json, v1/aa_helplines.json
+    v1/sources.json, v1/places.json  what the web version reads to pick lists and find towns
     index.html                  a readable status page
 
 Restricted lists are never fetched unless the group gave this project a sharing key,
@@ -29,6 +30,7 @@ import urllib.request
 from pathlib import Path
 
 import extra
+import places
 
 ROOT = Path(__file__).resolve().parent.parent
 PAGES = os.environ.get("PAGES_BASE", "https://benyahmanlunndev.github.io/many-paths-data/")
@@ -115,6 +117,15 @@ def load_sources():
     generated = json.loads((ROOT / "sources/aa_sources.json").read_text(encoding="utf-8"))
     seen = {feed_key(s["url"]) for s in manual if s.get("url")}
     return manual + [s for s in generated if feed_key(s["url"]) not in seen]
+
+
+def web_sources():
+    """Every list, merged the way the Android app merges its copies: hand-maintained entries win."""
+    manual = json.loads((ROOT / "sources/sources.json").read_text(encoding="utf-8"))
+    seen = {feed_key(s["url"]) for s in manual if s.get("url")}
+    rest = [s for name in ("aa_sources.json", "sheet_sources.json")
+            for s in json.loads((ROOT / "sources" / name).read_text(encoding="utf-8"))]
+    return manual + [s for s in rest if not s.get("url") or feed_key(s["url"]) not in seen]
 
 
 def parse_keys(text):
@@ -273,6 +284,13 @@ def main():
     statuses["local"] = {"status": "ok", "count": len(curated), "fetchedAt": now()}
     for name in ("curated_meetings.json", "helplines.json", "aa_helplines.json"):
         shutil.copy(ROOT / "sources" / name, out / "v1" / name)
+
+    # For the web version: every list it can show, and the towns and ZIP codes it can
+    # search without sending what someone typed to a lookup service.
+    (out / "v1/sources.json").write_text(
+        json.dumps(web_sources(), ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    (out / "v1/places.json").write_text(
+        json.dumps(places.build(out / "v1/feeds"), ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
     counts = {k: sum(1 for s in statuses.values() if s["status"] == k) for k in ("ok", "previous", "failed")}
     counts["meetings"] = sum(s.get("count", 0) for s in statuses.values())
