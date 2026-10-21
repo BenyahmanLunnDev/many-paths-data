@@ -80,11 +80,26 @@ def age_days(iso):
 FORCE = False  # --force: re-read pages and sheets even if the last copy is recent
 
 
+def due(source, old, today=None):
+    """Whether a page or sheet copied before should be read again today."""
+    if old.get("status") != "ok":
+        return True
+    age = age_days(old.get("fetchedAt"))
+    days = source.get("refreshDays", 1)
+    if age < days - 0.1:
+        return False
+    # Weekly copies each have their own weekday, so no single morning reads them all.
+    weekday = source.get("weekday")
+    if weekday is None:
+        return True
+    return (today or dt.date.today()).weekday() == weekday or age >= days + 6.9
+
+
 def build_extra(source, cache):
-    """A public meeting page or sheet, re-read only when the last copy is older than refreshDays."""
+    """A public meeting page, sheet or calendar, re-read when its copy is due (see due())."""
     sid = source["id"]
     old = previous_manifest.get("sources", {}).get(sid, {})
-    if not FORCE and old.get("status") == "ok" and age_days(old.get("fetchedAt")) < source.get("refreshDays", 1) - 0.1:
+    if not FORCE and not due(source, old):
         try:
             return get_json(PAGES + f"v1/feeds/{sid}.json", timeout=60), dict(old)
         except Exception:  # noqa: BLE001 - fall through and rebuild
@@ -123,7 +138,7 @@ def web_sources():
     """Every list, merged the way the Android app merges its copies: hand-maintained entries win."""
     manual = json.loads((ROOT / "sources/sources.json").read_text(encoding="utf-8"))
     seen = {feed_key(s["url"]) for s in manual if s.get("url")}
-    rest = [s for name in ("aa_sources.json", "sheet_sources.json")
+    rest = [s for name in ("aa_sources.json", "sheet_sources.json", "copy_sources.json") if (ROOT / "sources" / name).exists()
             for s in json.loads((ROOT / "sources" / name).read_text(encoding="utf-8"))]
     return manual + [s for s in rest if not s.get("url") or feed_key(s["url"]) not in seen]
 
@@ -266,15 +281,17 @@ def main():
                 cache.setdefault(k, v)
     except Exception:  # noqa: BLE001 - first run
         pass
-    extras = [s for s in json.loads((ROOT / "sources/extra_sources.json").read_text(encoding="utf-8")) if s.get("enabled", True)]
+    extras = [s for name in ("extra_sources.json", "copy_sources.json") if (ROOT / "sources" / name).exists()
+              for s in json.loads((ROOT / "sources" / name).read_text(encoding="utf-8")) if s.get("enabled", True)]
     if args.only:
         extras = [s for s in extras if s["id"] in only]
-    for source in extras:
-        data, st = build_extra(source, cache)
-        statuses[source["id"]] = st
-        if data is not None:
-            (out / f"v1/feeds/{source['id']}.json").write_text(
-                json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    # Different websites in parallel; each site is still read one page at a time.
+    with cf.ThreadPoolExecutor(args.workers) as pool:
+        for source, (data, st) in zip(extras, pool.map(lambda s: build_extra(s, cache), extras)):
+            statuses[source["id"]] = st
+            if data is not None:
+                (out / f"v1/feeds/{source['id']}.json").write_text(
+                    json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     (out / "v1/geocode-cache.json").write_text(json.dumps(cache, separators=(",", ":")), encoding="utf-8")
     sources = sources + extras  # so the status page names them
 

@@ -1,0 +1,762 @@
+[
+ {
+  "id": "aa-idaho18",
+  "name": "AA Idaho Area 18",
+  "root": "https://idahoarea18aa.org",
+  "page": "https://idahoarea18aa.org/meetings/?tsml-day=any",
+  "final": "https://idahoarea18aa.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-arkansasaa-org",
+  "name": "AA Area 4: Arkansas",
+  "root": "https://www.arkansasaa.org",
+  "page": "https://www.arkansasaa.org/meetings/?tsml-day=any",
+  "final": "https://www.arkansasaa.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "no meeting table"
+ },
+ {
+  "id": "aa-aa-semi-org",
+  "name": "AA Area 33: Southeastern Michigan",
+  "root": "https://www.aa-semi.org",
+  "page": "https://www.aa-semi.org/meetings/?tsml-day=any",
+  "final": "https://aa-semi.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-area34aa-org",
+  "name": "AA Area 34: Western Michigan",
+  "root": "https://area34aa.org",
+  "page": "https://area34aa.org/meetings/?tsml-day=any",
+  "final": "https://area34aa.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-wamo-aa-org",
+  "name": "AA Area 39: Western Missouri",
+  "root": "https://www.wamo-aa.org",
+  "page": "https://www.wamo-aa.org/meetings/?tsml-day=any",
+  "final": "https://wamo-aa.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-aanorthcarolina-org",
+  "name": "AA Area 51: North Carolina",
+  "root": "https://www.aanorthcarolina.org",
+  "page": "https://www.aanorthcarolina.org/meetings/?tsml-day=any",
+  "final": "https://aanorthcarolina.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-aanorthdakota-org",
+  "name": "AA Area 52: North Dakota",
+  "root": "https://www.aanorthdakota.org",
+  "page": "https://www.aanorthdakota.org/meetings/?tsml-day=any",
+  "final": "https://aanorthdakota.org/meetings/?tsml-day=any",
+  "rows": 374,
+  "status": "readable"
+ },
+ {
+  "id": "aa-nhaa-net",
+  "name": "AA Area 43: New Hampshire",
+  "root": "https://www.nhaa.net",
+  "page": "https://www.nhaa.net/meetings/?tsml-day=any",
+  "final": "https://nhaa.net/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-area53aa-org",
+  "name": "AA Area 53: Central & Southeast Ohio",
+  "root": "https://www.area53aa.org",
+  "page": "https://www.area53aa.org/meetings/?tsml-day=any",
+  "final": "https://area53aa.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-area54-org",
+  "name": "AA Area 54: Northeast Ohio",
+  "root": "https://www.area54.org",
+  "page": "https://www.area54.org/meetings/?tsml-day=any",
+  "final": "https://area54.org/meetings/?tsml-day=any",
+  "rows": 63,
+  "status": "readable"
+ },
+ {
+  "id": "aa-aainri-com",
+  "name": "AA Area 61: Rhode Island",
+  "root": "https://aainri.com",
+  "page": "https://aainri.com/meetings/?tsml-day=any",
+  "final": "https://aainri.com/meetings/?tsml-day=any",
+  "rows": 542,
+  "status": "readable"
+ },
+ {
+  "id": "aa-area64assembly-org",
+  "name": "AA Area 64: Tennessee",
+  "root": "https://www.area64assembly.org",
+  "page": "https://www.area64assembly.org/meetings/?tsml-day=any",
+  "final": "https://www.area64assembly.org/meetings/?tsml-day=any",
+  "rows": 2280,
+  "status": "readable"
+ },
+ {
+  "id": "aa-area72aa-org",
+  "name": "AA Area 72: Western Washington Area",
+  "root": "https://www.area72aa.org",
+  "page": "https://www.area72aa.org/meetings/?tsml-day=any",
+  "final": "https://area72aa.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-anchorageaa-org",
+  "name": "Anchorage Intergroup Office",
+  "root": "https://www.anchorageaa.org",
+  "page": "https://www.anchorageaa.org/meetings/?tsml-day=any",
+  "final": "https://anchorageaa.org/meetings-main?tsml-day=any",
+  "rows": 0,
+  "status": "no meeting table"
+ },
+ {
+  "id": "aa-easternshoreaa-org",
+  "name": "Eastern Shore AA Hotline",
+  "root": "https://www.easternshoreaa.org",
+  "page": "https://www.easternshoreaa.org/meetings/?tsml-day=any",
+  "final": "https://easternshoreaa.org/meetings/?tsml-day=any",
+  "rows": 54,
+  "status": "readable"
+ },
+ {
+  "id": "aa-aaplacer-org",
+  "name": "CNIA District 21, Representing Placer County",
+  "root": "https://aaplacer.org",
+  "page": "https://aaplacer.org/meetings/?tsml-day=any",
+  "final": "https://aaplacer.org/meetings/?tsml-day=any",
+  "rows": 255,
+  "status": "readable"
+ },
+ {
+  "id": "aa-aainthedesert-org",
+  "name": "Central Intergroup Office of the Desert",
+  "root": "https://www.aainthedesert.org",
+  "page": "https://www.aainthedesert.org/meetings/?tsml-day=any",
+  "final": "https://aainthedesert.org/meetings/?tsml-day=any",
+  "rows": 641,
+  "status": "readable"
+ },
+ {
+  "id": "aa-aa-san-mateo-org",
+  "name": "San Mateo CO Fellowship Of A.A.",
+  "root": "https://www.aa-san-mateo.org",
+  "page": "https://www.aa-san-mateo.org/meetings/?tsml-day=any",
+  "final": "https://aa-san-mateo.org/meetings?tsml-day=any",
+  "rows": 288,
+  "status": "readable"
+ },
+ {
+  "id": "aa-santabarbaraaa-com",
+  "name": "Santa Barbara Central Office",
+  "root": "https://www.santabarbaraaa.com",
+  "page": "https://www.santabarbaraaa.com/meetings/?tsml-day=any",
+  "final": "https://santabarbaraaa.com/meetings?tsml-day=any",
+  "rows": 218,
+  "status": "readable"
+ },
+ {
+  "id": "aa-sonomacountyaa-org",
+  "name": "Oficina Central Norte",
+  "root": "https://sonomacountyaa.org",
+  "page": "https://sonomacountyaa.org/meetings/?tsml-day=any",
+  "final": "https://sonomacountyaa.org/meetings/?tsml-day=any",
+  "rows": 475,
+  "status": "readable"
+ },
+ {
+  "id": "aa-aasantacruz-org",
+  "name": "Santa Cruz County Intergroup  Inc.",
+  "root": "https://www.aasantacruz.org",
+  "page": "https://www.aasantacruz.org/meetings/?tsml-day=any",
+  "final": "https://aasantacruz.org/?tsml-day=any",
+  "rows": 8,
+  "status": "readable"
+ },
+ {
+  "id": "aa-aasolanonorth-org",
+  "name": "North Solano Intergroup",
+  "root": "https://www.aasolanonorth.org",
+  "page": "https://www.aasolanonorth.org/meetings/?tsml-day=any",
+  "final": "https://aasolanonorth.org/meetings/?tsml-day=any",
+  "rows": 91,
+  "status": "readable"
+ },
+ {
+  "id": "aa-contracostaaa-org",
+  "name": "Contra Costa Service Center",
+  "root": "https://www.contracostaaa.org",
+  "page": "https://www.contracostaaa.org/meetings/?tsml-day=any",
+  "final": "https://contracostaaa.org/meetings/?tsml-day=any",
+  "rows": 393,
+  "status": "readable"
+ },
+ {
+  "id": "aa-coaadistrict14-org",
+  "name": "Central Office Of Western Colorado Answering Service",
+  "root": "https://www.coaadistrict14.org",
+  "page": "https://www.coaadistrict14.org/meetings/?tsml-day=any",
+  "final": "https://coaadistrict14.org/meetings/?tsml-day=any",
+  "rows": 119,
+  "status": "readable"
+ },
+ {
+  "id": "aa-aa-westerncolorado-com",
+  "name": "Central Office Of Western Colorado",
+  "root": "https://www.aa-westerncolorado.com",
+  "page": "https://www.aa-westerncolorado.com/meetings/?tsml-day=any",
+  "final": "https://aa-westerncolorado.com/meetings/?tsml-day=any",
+  "rows": 466,
+  "status": "readable"
+ },
+ {
+  "id": "aa-puebloaa-org",
+  "name": "Central Service Office Of South Colorado",
+  "root": "https://www.puebloaa.org",
+  "page": "https://www.puebloaa.org/meetings/?tsml-day=any",
+  "final": "https://www.puebloaa.org/meetings/?tsml-day=any",
+  "rows": 141,
+  "status": "readable"
+ },
+ {
+  "id": "aa-sussexaa-org",
+  "name": "Southern Delaware Intergroup",
+  "root": "https://sussexaa.org",
+  "page": "https://sussexaa.org/meetings/?tsml-day=any",
+  "final": "https://sussexaa.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-cflintergroup-org",
+  "name": "Central Florida Intergroup Service (Orlando Area)",
+  "root": "https://cflintergroup.org",
+  "page": "https://cflintergroup.org/meetings/?tsml-day=any",
+  "final": "https://cflintergroup.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-upperflkeysaa-org",
+  "name": "Upper Keys FL Intergroup",
+  "root": "https://www.upperflkeysaa.org",
+  "page": "https://www.upperflkeysaa.org/meetings/?tsml-day=any",
+  "final": "https://www.upperflkeysaa.org/meetings/?tsml-day=any",
+  "rows": 67,
+  "status": "readable"
+ },
+ {
+  "id": "aa-aalakesumter-org",
+  "name": "Lake Sumter Central Office",
+  "root": "https://www.aalakesumter.org",
+  "page": "https://www.aalakesumter.org/meetings/?tsml-day=any",
+  "status": "error: HTTP Error 403: Forbidden"
+ },
+ {
+  "id": "aa-aamiamidade-org",
+  "name": "Miami Dade Intergroup",
+  "root": "https://www.aamiamidade.org",
+  "page": "https://www.aamiamidade.org/meetings/?tsml-day=any",
+  "final": "https://aamiamidade.org/meetings?tsml-day=any",
+  "rows": 698,
+  "status": "readable"
+ },
+ {
+  "id": "aa-miamialcoholicosanonimos-org",
+  "name": "Oficina Intergrupal Hispana Del Sur",
+  "root": "https://www.miamialcoholicosanonimos.org",
+  "page": "https://www.miamialcoholicosanonimos.org/meetings/?tsml-day=any",
+  "final": "https://miamialcoholicosanonimos.org/meetings/?tsml-day=any",
+  "rows": 198,
+  "status": "readable"
+ },
+ {
+  "id": "aa-aapensacola-org",
+  "name": "Tri-District Intergroup,Inc.",
+  "root": "https://www.aapensacola.org",
+  "page": "https://www.aapensacola.org/meetings/?tsml-day=any",
+  "final": "https://aapensacola.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-aadaytona-org",
+  "name": "Volusia County Intergroup",
+  "root": "https://www.aadaytona.org",
+  "page": "https://www.aadaytona.org/meetings/?tsml-day=any",
+  "final": "https://aadaytona.org/meetings/?tsml-day=any",
+  "rows": 308,
+  "status": "readable"
+ },
+ {
+  "id": "aa-intergroup5-org",
+  "name": "Intergroup 5 Inc.",
+  "root": "https://www.intergroup5.org",
+  "page": "https://www.intergroup5.org/meetings/?tsml-day=any",
+  "final": "https://intergroup5.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-district64-com",
+  "name": "Aurora District 64",
+  "root": "https://district64.com",
+  "page": "https://district64.com/meetings/?tsml-day=any",
+  "final": "https://district64.com/meetings/?tsml-day=any",
+  "rows": 41,
+  "status": "readable"
+ },
+ {
+  "id": "aa-aa-district14-org",
+  "name": "District 14",
+  "root": "https://www.aa-district14.org",
+  "page": "https://www.aa-district14.org/meetings/?tsml-day=any",
+  "final": "https://www.aa-district14.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-aa-eci-org",
+  "name": "Dist 12 Answering Service",
+  "root": "https://www.aa-eci.org",
+  "page": "https://www.aa-eci.org/meetings/?tsml-day=any",
+  "final": "https://aa-eci.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-aa-district16-org",
+  "name": "Illinois District 16 Hotline",
+  "root": "https://www.aa-district16.org",
+  "page": "https://www.aa-district16.org/meetings/?tsml-day=any",
+  "final": "https://aa-district16.org/meetings/?tsml-day=any",
+  "rows": 26,
+  "status": "readable"
+ },
+ {
+  "id": "aa-aapeoria-org",
+  "name": "Peoria Area Intergroup Association",
+  "root": "https://aapeoria.org",
+  "page": "https://aapeoria.org/meetings/?tsml-day=any",
+  "status": "robots says no"
+ },
+ {
+  "id": "aa-aa-district18-org",
+  "name": "District 18",
+  "root": "https://aa-district18.org",
+  "page": "https://aa-district18.org/meetings/?tsml-day=any",
+  "final": "https://aa-district18.org/meetings/?tsml-day=any",
+  "rows": 87,
+  "status": "readable"
+ },
+ {
+  "id": "aa-aaboston-org",
+  "name": "Boston Central Service",
+  "root": "https://www.aaboston.org",
+  "page": "https://www.aaboston.org/meetings/?tsml-day=any",
+  "final": "https://aaboston.org/meetings?tsml-day=any",
+  "rows": 2634,
+  "status": "readable"
+ },
+ {
+  "id": "aa-d9mdaa-org",
+  "name": "District 9",
+  "root": "https://www.d9mdaa.org",
+  "page": "https://www.d9mdaa.org/meetings/?tsml-day=any",
+  "final": "https://d9mdaa.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-westmidistrict5aa-org",
+  "name": "24 Hour Hotline",
+  "root": "https://www.westmidistrict5aa.org",
+  "page": "https://www.westmidistrict5aa.org/meetings/?tsml-day=any",
+  "final": "https://westmidistrict5aa.org/meetings?tsml-day=any",
+  "rows": 104,
+  "status": "readable"
+ },
+ {
+  "id": "aa-area34district9-org",
+  "name": "Area 34 District 9 West Michigan Answering Service",
+  "root": "https://area34district9.org",
+  "page": "https://area34district9.org/meetings/?tsml-day=any",
+  "final": "https://area34district9.org/meetings/?tsml-day=any",
+  "rows": 66,
+  "status": "readable"
+ },
+ {
+  "id": "aa-area34district12-org",
+  "name": "Dist.12-Area 34 Answering Service",
+  "root": "https://www.area34district12.org",
+  "page": "https://www.area34district12.org/meetings/?tsml-day=any",
+  "final": "https://area34district12.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-aa-marquettecounty-org",
+  "name": "Dist. 18 Answering Service",
+  "root": "https://www.aa-marquettecounty.org",
+  "page": "https://www.aa-marquettecounty.org/meetings/?tsml-day=any",
+  "final": "https://aa-marquettecounty.org/meetings/?tsml-day=any",
+  "rows": 44,
+  "status": "readable"
+ },
+ {
+  "id": "aa-nmcentraloffice-org",
+  "name": "Northern Michigan Central Office",
+  "root": "https://nmcentraloffice.org",
+  "page": "https://nmcentraloffice.org/meetings/?tsml-day=any",
+  "final": "https://nmcentraloffice.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-district8-wamo-aa-org",
+  "name": "District 8 of Area 39",
+  "root": "https://district8.wamo-aa.org",
+  "page": "https://district8.wamo-aa.org/meetings/?tsml-day=any",
+  "final": "https://district8.wamo-aa.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-aancmco-org",
+  "name": "NC Mountain Central Office",
+  "root": "https://wncaa.org",
+  "page": "https://wncaa.org/meetings/?tsml-day=any",
+  "status": "error: HTTP Error 404: Not Found"
+ },
+ {
+  "id": "aa-charlotteaa-org",
+  "name": "Metrolina Intergroup",
+  "root": "https://www.charlotteaa.org",
+  "page": "https://www.charlotteaa.org/meetings/?tsml-day=any",
+  "final": "https://charlotteaa.org/meetings/?tsml-day=any",
+  "rows": 652,
+  "status": "readable"
+ },
+ {
+  "id": "aa-aa92nc-org",
+  "name": "AA for District 92 in Northeastern North Carolina Serving Elizabeth City, NC, and surrounding cities",
+  "root": "https://aa92nc.org",
+  "page": "https://aa92nc.org/meetings/?tsml-day=any",
+  "final": "https://aa92nc.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-fayaa-org",
+  "name": "Bladen, Cumberland, Robeson Central Office",
+  "root": "https://www.fayaa.org",
+  "page": "https://www.fayaa.org/meetings/?tsml-day=any",
+  "final": "https://www.fayaa.org/meetings?tsml-day=any",
+  "rows": 91,
+  "status": "readable"
+ },
+ {
+  "id": "aa-nc23-org",
+  "name": "District 23 - Greensboro",
+  "root": "https://www.nc23.org",
+  "page": "https://www.nc23.org/meetings/?tsml-day=any",
+  "final": "https://nc23.org/meetings/?tsml-day=any",
+  "rows": 110,
+  "status": "readable"
+ },
+ {
+  "id": "aa-aaeasternnc-org",
+  "name": "AA Eastern North Carolina: Beaufort, Craven, Lenoir, Pamlico, Pitt and Wayne counties",
+  "root": "https://aaeasternnc.org",
+  "page": "https://aaeasternnc.org/meetings/?tsml-day=any",
+  "final": "https://aaeasternnc.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-aanc52-org",
+  "name": "District 52 Moore  Lee  Scotland  Hoke  & Richmond Countries",
+  "root": "https://www.aanc52.org",
+  "page": "https://www.aanc52.org/meetings/?tsml-day=any",
+  "final": "https://aanc52.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-nc22-org",
+  "name": "AA Rockingham County",
+  "root": "https://www.nc22.org",
+  "page": "https://www.nc22.org/meetings/?tsml-day=any",
+  "final": "https://nc22.org/meetings/?tsml-day=any",
+  "rows": 26,
+  "status": "readable"
+ },
+ {
+  "id": "aa-wilmingtonaa-org",
+  "name": "Wilmington Intergroup Association",
+  "root": "http://www.wilmingtonaa.us",
+  "page": "http://www.wilmingtonaa.us/meetings/?tsml-day=any",
+  "final": "http://wilmingtonaa.us/meetings?tsml-day=any",
+  "rows": 273,
+  "status": "readable"
+ },
+ {
+  "id": "aa-aasj-org",
+  "name": "South Jersey Intergroup Assc.",
+  "root": "https://www.aasj.org",
+  "page": "https://www.aasj.org/meetings/?tsml-day=any",
+  "final": "https://aasj.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-albuquerqueaa-org",
+  "name": "Central Office Albuquerque Inc.",
+  "root": "https://www.albuquerqueaa.org",
+  "page": "https://www.albuquerqueaa.org/meetings/?tsml-day=any",
+  "final": "https://albuquerqueaa.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-nnig-org",
+  "name": "Northern Nevada Intergroup",
+  "root": "https://www.nnig.org",
+  "page": "https://www.nnig.org/meetings/?tsml-day=any",
+  "final": "https://nnig.org/meetings?tsml-day=any",
+  "rows": 781,
+  "status": "readable"
+ },
+ {
+  "id": "aa-bigaa-org",
+  "name": "Brooklyn Intergroup",
+  "root": "https://brooklynintergroup.org",
+  "page": "https://brooklynintergroup.org/meetings/?tsml-day=any",
+  "status": "error: HTTP Error 404: Not Found"
+ },
+ {
+  "id": "aa-nypennintergroup-org",
+  "name": "NY-Penn Intergroup",
+  "root": "https://nypennintergroup.org",
+  "page": "https://nypennintergroup.org/meetings/?tsml-day=any",
+  "status": "robots says no"
+ },
+ {
+  "id": "aa-buffaloaany-org",
+  "name": "Buffalo Central Office",
+  "root": "https://www.buffaloaany.org",
+  "page": "https://www.buffaloaany.org/meetings/?tsml-day=any",
+  "final": "https://buffaloaany.org/meetings/?tsml-day=any",
+  "rows": 5,
+  "status": "readable"
+ },
+ {
+  "id": "aa-rocklandnyaa-org",
+  "name": "Rockland County Intergroup",
+  "root": "https://www.rocklandnyaa.org",
+  "page": "https://www.rocklandnyaa.org/meetings/?tsml-day=any",
+  "final": "https://rocklandnyaa.org/meetings/?tsml-day=any",
+  "rows": 146,
+  "status": "readable"
+ },
+ {
+  "id": "aa-akronaa-org",
+  "name": "Akron Intergroup Council",
+  "root": "https://www.akronaa.org",
+  "page": "https://www.akronaa.org/meetings/?tsml-day=any",
+  "final": "https://akronaa.org/meetings/?tsml-day=any",
+  "rows": 368,
+  "status": "readable"
+ },
+ {
+  "id": "aa-cantonaa-com",
+  "name": "Canton Area Intergroup Council",
+  "root": "https://cantonaa.com",
+  "page": "https://cantonaa.com/meetings/?tsml-day=any",
+  "final": "https://cantonaa.com/meetings/?tsml-day=any",
+  "rows": 133,
+  "status": "readable"
+ },
+ {
+  "id": "aa-aacle-org",
+  "name": "Cleveland District Office",
+  "root": "https://www.aacle.org",
+  "page": "https://www.aacle.org/meetings/?tsml-day=any",
+  "status": "error: HTTP Error 404: Not Found"
+ },
+ {
+  "id": "aa-toledoaa-com",
+  "name": "NW Ohio & SE Michigan Central Office",
+  "root": "https://www.toledoaa.com",
+  "page": "https://www.toledoaa.com/meetings/?tsml-day=any",
+  "final": "https://toledoaa.com/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-aaoregondistrict8-com",
+  "name": "Central Oregon Coast District 8 - Florence to Coos Bay",
+  "root": "https://aaoregondistrict8.com",
+  "page": "https://aaoregondistrict8.com/meetings/?tsml-day=any",
+  "final": "https://aaoregondistrict8.com/meetings/?tsml-day=any",
+  "rows": 79,
+  "status": "readable"
+ },
+ {
+  "id": "aa-pdxaa-com",
+  "name": "Portland Area Intergroup Inc",
+  "root": "https://www.pdxaa.com",
+  "page": "https://www.pdxaa.com/meetings/?tsml-day=any",
+  "final": "https://www.pdxaa.com/meetings/?tsml-day=any",
+  "rows": 8,
+  "status": "readable"
+ },
+ {
+  "id": "aa-eviaa-org",
+  "name": "Emerald Valley Intergroup",
+  "root": "https://www.eviaa.org",
+  "page": "https://www.eviaa.org/meetings/?tsml-day=any",
+  "final": "https://www.eviaa.org/meetings/?tsml-day=any",
+  "rows": 260,
+  "status": "readable"
+ },
+ {
+  "id": "aa-aalv-org",
+  "name": "A B E Intergroup",
+  "root": "https://www.aalv.org",
+  "page": "https://www.aalv.org/meetings/?tsml-day=any",
+  "final": "https://www.aalv.org/meetings?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-district58area59aa-org",
+  "name": "Dist. 58 Hotline",
+  "root": "https://www.district58area59aa.org",
+  "page": "https://www.district58area59aa.org/meetings/?tsml-day=any",
+  "final": "https://district58area59aa.org/meetings/?tsml-day=any",
+  "rows": 32,
+  "status": "readable"
+ },
+ {
+  "id": "aa-york-pa-aa-org",
+  "name": "York Area Intergroup",
+  "root": "https://www.york-pa-aa.org",
+  "page": "https://www.york-pa-aa.org/meetings/?tsml-day=any",
+  "final": "https://york-pa-aa.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-lowcountryaa-org",
+  "name": "Lowcountry AA Districts 60 & 61 of Area 62",
+  "root": "https://lowcountryaa.org",
+  "page": "https://lowcountryaa.org/meetings/?tsml-day=any",
+  "final": "https://lowcountryaa.org/meetings/?tsml-day=any",
+  "rows": 156,
+  "status": "readable"
+ },
+ {
+  "id": "aa-austinaa-org",
+  "name": "Hill Country Intergroup",
+  "root": "https://www.austinaa.org",
+  "page": "https://www.austinaa.org/meetings/?tsml-day=any",
+  "final": "https://austinaa.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-aadallas-org",
+  "name": "Dallas Intergroup Association",
+  "root": "https://www.aadallas.org",
+  "page": "https://www.aadallas.org/meetings/?tsml-day=any",
+  "final": "https://www.aadallas.org/meetings/?tsml-day=any",
+  "rows": 1554,
+  "status": "readable"
+ },
+ {
+  "id": "aa-fortworthaa-org",
+  "name": "Central Office Of Ft. Worth/ Inside delivery please",
+  "root": "https://www.fortworthaa.org",
+  "page": "https://www.fortworthaa.org/meetings/?tsml-day=any",
+  "final": "https://fortworthaa.org/meetings/?tsml-day=any",
+  "rows": 0,
+  "status": "new interface (loads the restricted feed in the browser)"
+ },
+ {
+  "id": "aa-centexintergroup-com",
+  "name": "Central Texas Intergroup",
+  "root": "https://www.centexintergroup.com",
+  "page": "https://www.centexintergroup.com/meetings/?tsml-day=any",
+  "final": "https://centexintergroup.com/meetings/?tsml-day=any",
+  "rows": 242,
+  "status": "readable"
+ },
+ {
+  "id": "aa-saltlakeaa-org",
+  "name": "Central Office Of Salt Lake City Inc.",
+  "root": "https://www.saltlakeaa.org",
+  "page": "https://www.saltlakeaa.org/meetings/?tsml-day=any",
+  "final": "https://www.saltlakeaa.org/meetings/?tsml-day=any",
+  "rows": 406,
+  "status": "readable"
+ },
+ {
+  "id": "aa-3citiesaa-org",
+  "name": "Greater Tri-City Central Office",
+  "root": "https://www.3citiesaa.org",
+  "page": "https://www.3citiesaa.org/meetings/?tsml-day=any",
+  "final": "https://www.3citiesaa.org/meetings/?tsml-day=any",
+  "rows": 115,
+  "status": "readable"
+ },
+ {
+  "id": "aa-vancouveraa-org",
+  "name": "Vancouver Area Intergroup",
+  "root": "https://www.vancouveraa.org",
+  "page": "https://www.vancouveraa.org/meetings/?tsml-day=any",
+  "final": "https://www.vancouveraa.org/meetings/?tsml-day=any",
+  "rows": 376,
+  "status": "readable"
+ },
+ {
+  "id": "aa-district06area74-org",
+  "name": "District 6 Area 74",
+  "root": "https://district06area74.wpcomstaging.com",
+  "page": "https://district06area74.wpcomstaging.com/meetings/?tsml-day=any",
+  "status": "robots says no"
+ },
+ {
+  "id": "aa-haywardwiareaaa-org",
+  "name": "District 12 Area 74 Northwest Wisconsin",
+  "root": "https://haywardwiareaaa.org",
+  "page": "https://haywardwiareaaa.org/meetings/?tsml-day=any",
+  "final": "https://haywardwiareaaa.org/meetings/?tsml-day=any",
+  "rows": 21,
+  "status": "readable"
+ },
+ {
+  "id": "aa-aawausauwi-org",
+  "name": "Greater Wausau Area",
+  "root": "https://www.aawausauwi.org",
+  "page": "https://www.aawausauwi.org/meetings/?tsml-day=any",
+  "final": "https://www.aawausauwi.org/meetings/?tsml-day=any",
+  "rows": 52,
+  "status": "readable"
+ }
+]

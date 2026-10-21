@@ -41,5 +41,45 @@ class BuildTest(unittest.TestCase):
         self.assertNotIn("key=", text)
 
 
+class DueTest(unittest.TestCase):
+
+    def test_weekly_copies_wait_for_their_weekday(self):
+        import datetime as dt
+        now = dt.datetime.now(dt.timezone.utc)
+        eight_days = {"status": "ok", "fetchedAt": (now - dt.timedelta(days=8)).isoformat()}
+        two_days = {"status": "ok", "fetchedAt": (now - dt.timedelta(days=2)).isoformat()}
+        fifteen = {"status": "ok", "fetchedAt": (now - dt.timedelta(days=15)).isoformat()}
+        monday, tuesday = dt.date(2026, 10, 19), dt.date(2026, 10, 20)
+        weekly = {"refreshDays": 7, "weekday": 0}
+        self.assertTrue(build.due(weekly, eight_days, monday))
+        self.assertFalse(build.due(weekly, eight_days, tuesday))
+        self.assertFalse(build.due(weekly, two_days, monday))
+        self.assertTrue(build.due(weekly, fifteen, tuesday))  # never left stale for long
+        self.assertTrue(build.due(weekly, {}, tuesday))  # never copied yet
+        self.assertTrue(build.due({"refreshDays": 1}, two_days, tuesday))
+
+
+class PublicPageTest(unittest.TestCase):
+
+    ROW = ('<tr><td class="time"><span>Monday</span><span>6:30 am</span></td>'
+           '<td class="name"><a href="https://x.org/meetings/early-birds/">Early Birds</a> <small>Women</small></td>'
+           '<td class="location"><div class="location-name">First Church</div></td>'
+           # Newer versions of the plugin break the cell across lines.
+           '<td class="address notranslate"\n                    data-sort="{key}">\n    12 Main St    </td>'
+           '<td class="region">Salt Lake City</td><td class="types">Open, Discussion</td></tr>')
+
+    def test_state_and_zip_come_from_the_sort_key_in_both_formats(self):
+        import extra
+        for key in ("12-main-st-salt-lake-city-ut-84101-usa", "12-main-st-salt-lake-city-ut-84101-usa-1-06:30"):
+            meetings, addresses = extra.parse_tsml_page(self.ROW.format(key=key), {})
+            m = meetings[0]
+            self.assertEqual(m["name"], "Early Birds")
+            self.assertEqual(m["formatted_address"], "12 Main St, Salt Lake City, UT 84101")
+            self.assertEqual(m["_state"], "UT")
+            self.assertEqual(m["types"], ["O", "D"])
+            self.assertIn("12 main st|salt lake city|ut|84101", addresses)
+        self.assertEqual(extra.timezone_for("UT", 40.76, -111.89), "America/Denver")
+
+
 if __name__ == "__main__":
     unittest.main()

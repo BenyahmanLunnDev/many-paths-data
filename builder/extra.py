@@ -14,6 +14,7 @@ import html
 import io
 import json
 import re
+import threading
 import time
 import urllib.parse
 import urllib.request
@@ -110,7 +111,10 @@ def geocode(addresses, cache, ua):
 NOMINATIM = "https://nominatim.openstreetmap.org/search"
 
 
-def geocode_with_fallback(addresses, cache, ua):
+NOMINATIM_LOCK = threading.Lock()
+
+
+def geocode_with_fallback(addresses, cache, ua, max_lookups=150):
     """Census batch first; whatever it can't answer (it refuses some cloud servers) goes to
     OpenStreetMap's Nominatim one address a second, as its usage policy asks. Results are
     cached, so each address is looked up once."""
@@ -118,21 +122,27 @@ def geocode_with_fallback(addresses, cache, ua):
         geocode(addresses, cache, ua)
     except Exception as e:  # noqa: BLE001
         print(f"census geocoder unavailable ({str(e)[:100]}); using OpenStreetMap", flush=True)
+    lookups = 0
     for key, (street, city, state, zip_code) in addresses.items():
         if cache.get(key) is not None or not street:
             continue
+        if lookups >= max_lookups:
+            break  # one a second adds up; the rest wait for tomorrow's run
+        lookups += 1
         query = urllib.parse.urlencode({
             "street": street, "city": city, "state": state, "postalcode": zip_code,
             "country": "us", "format": "jsonv2", "limit": 1,
         })
-        try:
-            req = urllib.request.Request(f"{NOMINATIM}?{query}", headers={"User-Agent": ua})
-            with urllib.request.urlopen(req, timeout=60) as r:
-                found = json.loads(r.read().decode("utf-8"))
-            cache[key] = [round(float(found[0]["lat"]), 6), round(float(found[0]["lon"]), 6)] if found else None
-        except Exception:  # noqa: BLE001 - leave it for the next run
-            pass
-        time.sleep(1.1)
+        with NOMINATIM_LOCK:  # one request a second across every thread
+            try:
+                req = urllib.request.Request(f"{NOMINATIM}?{query}", headers={"User-Agent": ua})
+                with urllib.request.urlopen(req, timeout=60) as r:
+                    found = json.loads(r.read().decode("utf-8"))
+                # [] marks "looked up, not found", so it isn't asked again every morning.
+                cache[key] = [round(float(found[0]["lat"]), 6), round(float(found[0]["lon"]), 6)] if found else []
+            except Exception:  # noqa: BLE001 - leave it for the next run
+                pass
+            time.sleep(1.1)
 
 
 def address_key(street, city, state, zip_code):
@@ -142,7 +152,21 @@ def address_key(street, city, state, zip_code):
 # ---------------------------------------------------------------- 12 Step Meeting List public page
 
 def read_tsml_page(source, fetch_text, cache, ua):
-    page = fetch_text(source["page"])
+    meetings, addresses = parse_tsml_page(fetch_text(source["page"]), source)
+    # Each meeting's own page has its join link and notes. Big lists only open the pages of
+    # meetings with an online part, so a weekly copy stays a few hundred requests at most.
+    wanted = meetings if source.get("details", "all") == "all" else [m for m in meetings if m["attendance_option"] != "in_person"]
+    add_details(wanted, fetch_text)
+    out = finish(meetings, addresses, cache, ua)
+    for m in out:
+        state = m.pop("_state", source.get("state"))
+        if not m.get("timezone"):
+            m["timezone"] = timezone_for(state, m.get("latitude"), m.get("longitude"))
+    return out
+
+
+def parse_tsml_page(page, source):
+    """Meetings and their addresses from a 12 Step Meeting List page, as a visitor sees it."""
     today = dt.date.today().isoformat()
     meetings, addresses = [], {}
     for row in re.findall(r"<tr[^>]*>(.*?)</tr>", page, re.S):
@@ -159,10 +183,12 @@ def read_tsml_page(source, fetch_text, cache, ua):
         if day is None or start is None or attendance == "inactive":
             continue
         location = re.search(r'location-name[^>]*>(.*?)</div>', cells.get("location", ""), re.S)
-        # The ZIP code only appears in the address cell's sort key: "1166-oak-st-eugene-or-97401-usa".
-        sort_key = re.search(r'<td class="address[^"]*" data-sort="([^"]*)"', row)
-        zip_match = re.search(r"-(\d{5})-usa", sort_key.group(1)) if sort_key else None
-        zip_code = zip_match.group(1) if zip_match else ""
+        # The state and ZIP code only appear in the address cell's sort key: "1166-oak-st-eugene-or-97401-usa",
+        # or in newer versions "salt-lake-city-ut-usa-1-06:30".
+        sort_key = re.search(r'<td class="address[^"]*"\s+data-sort="([^"]*)"', row)
+        place = re.search(r"-([a-z]{2})(?:-(\d{5}))?-usa(?:-|$)", sort_key.group(1)) if sort_key else None
+        state = place.group(1).upper() if place else source.get("state", "")
+        zip_code = (place.group(2) or "") if place else ""
         street, city = text("address"), text("region")
         url = link.group(1).split("?")[0] if link else source.get("website")
         m = {
@@ -170,19 +196,61 @@ def read_tsml_page(source, fetch_text, cache, ua):
             # Just the link text: the cell also carries small tags like "Women".
             "name": re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", "", link_text.group(1)))).strip()
             if (link_text := re.search(r"<a[^>]*>(.*?)</a>", cells["name"], re.S)) else text("name"),
-            "day": day, "time": start, "timezone": source["timezone"],
+            "day": day, "time": start, "timezone": source.get("timezone"),
             "attendance_option": attendance, "types": type_codes(text("types").split(",")),
             "location": html.unescape(re.sub(r"\s+", " ", location.group(1))).strip() if location else "",
-            "url": url, "updated": today,
+            "url": url, "updated": today, "_state": state,
         }
         if street and attendance != "online":
-            m["formatted_address"] = f"{street}, {city}, {source['state']} {zip_code}".strip()
-            key = address_key(street, city, source["state"], zip_code)
-            addresses[key] = (street, city, source["state"], zip_code)
+            m["formatted_address"] = f"{street}, {city}, {state} {zip_code}".strip()
+            key = address_key(street, city, state, zip_code)
+            addresses[key] = (street, city, state, zip_code)
             m["_geo"] = key
-        meetings.append(m)
-    add_details(meetings, fetch_text)
-    return finish(meetings, addresses, cache, ua)
+        meetings.append({k: v for k, v in m.items() if v is not None})
+    return meetings, addresses
+
+
+# Most states keep one clock; these are split, by rough longitude or latitude.
+STATE_ZONES = {
+    "AL": "America/Chicago", "AK": "America/Anchorage", "AZ": "America/Phoenix", "AR": "America/Chicago",
+    "CA": "America/Los_Angeles", "CO": "America/Denver", "CT": "America/New_York", "DE": "America/New_York",
+    "DC": "America/New_York", "FL": "America/New_York", "GA": "America/New_York", "HI": "Pacific/Honolulu",
+    "ID": "America/Boise", "IL": "America/Chicago", "IN": "America/Indiana/Indianapolis", "IA": "America/Chicago",
+    "KS": "America/Chicago", "KY": "America/New_York", "LA": "America/Chicago", "ME": "America/New_York",
+    "MD": "America/New_York", "MA": "America/New_York", "MI": "America/Detroit", "MN": "America/Chicago",
+    "MS": "America/Chicago", "MO": "America/Chicago", "MT": "America/Denver", "NE": "America/Chicago",
+    "NV": "America/Los_Angeles", "NH": "America/New_York", "NJ": "America/New_York", "NM": "America/Denver",
+    "NY": "America/New_York", "NC": "America/New_York", "ND": "America/Chicago", "OH": "America/New_York",
+    "OK": "America/Chicago", "OR": "America/Los_Angeles", "PA": "America/New_York", "RI": "America/New_York",
+    "SC": "America/New_York", "SD": "America/Chicago", "TN": "America/Chicago", "TX": "America/Chicago",
+    "UT": "America/Denver", "VT": "America/New_York", "VA": "America/New_York", "WA": "America/Los_Angeles",
+    "WV": "America/New_York", "WI": "America/Chicago", "WY": "America/Denver", "PR": "America/Puerto_Rico",
+}
+
+
+def timezone_for(state, lat=None, lng=None):
+    zone = STATE_ZONES.get((state or "").upper(), "America/New_York")
+    if lat is None or lng is None:
+        return zone
+    if state == "ID" and lat > 45.6:
+        return "America/Los_Angeles"   # the panhandle
+    if state == "OR" and lng > -117.7:
+        return "America/Boise"          # Malheur County
+    if state == "FL" and lng < -85.0:
+        return "America/Chicago"        # the western panhandle
+    if state == "TX" and lng < -104.9:
+        return "America/Denver"         # El Paso
+    if state in ("KS", "NE", "SD", "ND") and lng < {"KS": -101.5, "NE": -101.0, "SD": -100.5, "ND": -101.0}[state]:
+        return "America/Denver"
+    if state == "TN" and lng > -85.3:
+        return "America/New_York"       # East Tennessee
+    if state == "KY" and lng < -85.8:
+        return "America/Chicago"        # western Kentucky
+    if state == "IN" and lng < -86.9 and (lat > 41.0 or lat < 38.6):
+        return "America/Chicago"        # the Chicago and Evansville corners
+    if state == "MI" and lng < -87.5:
+        return "America/Menominee"
+    return zone
 
 
 JOIN = re.compile(r'href="(https?://[^"]*(?:zoom\.us|meet\.google|teams\.microsoft|teams\.live|webex|gotomeet)[^"]*)"')
