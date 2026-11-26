@@ -163,5 +163,442 @@
       "2026-11-26",
       "2026-12-24"
     ]
+  },
+  {
+    "id": "alanon-30865300",
+    "fellowship": "ALANON",
+    "name": "Un Día a la Vez con Esperanza",
+    "day": 6,
+    "time": "10:30",
+    "end_time": "11:30",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "in_person",
+    "types": [
+      "O"
+    ],
+    "location": "El Latino de Eugene",
+    "formatted_address": "886 1/2 W 6th Ave, Eugene, OR 97402",
+    "latitude": 44.053194,
+    "longitude": -123.106191,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27",
+    "notes": "Entrar por la puerta sobre Blair Ave, edificio verde, 2º piso."
+  },
+  {
+    "id": "alanon-30888026",
+    "fellowship": "ALANON",
+    "name": "Courage to Change",
+    "day": 6,
+    "time": "19:00",
+    "end_time": "20:00",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "in_person",
+    "types": [
+      "O",
+      "X"
+    ],
+    "location": "Grace Lutheran Church",
+    "formatted_address": "710 E 17th Ave, Eugene, OR 97401",
+    "latitude": 44.041069,
+    "longitude": -123.081037,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27"
+  },
+  {
+    "id": "alanon-36337",
+    "fellowship": "ALANON",
+    "name": "Friday Night Step Study",
+    "day": 5,
+    "time": "19:30",
+    "end_time": "20:30",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "in_person",
+    "types": [
+      "O",
+      "X"
+    ],
+    "location": "Center for Spiritual Living",
+    "formatted_address": "390 Vernal St, Eugene, OR 97401",
+    "latitude": 44.066469,
+    "longitude": -123.071495,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27",
+    "notes": "Enter the door on the west side of the building."
+  },
+  {
+    "id": "alanon-30835749",
+    "fellowship": "ALANON",
+    "name": "Saying Yes to Life",
+    "day": 1,
+    "time": "13:00",
+    "end_time": "14:00",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "in_person",
+    "types": [
+      "C"
+    ],
+    "location": "Center for Spiritual Living",
+    "formatted_address": "390 Vernal St, Eugene, OR 97401",
+    "latitude": 44.066469,
+    "longitude": -123.071495,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27"
+  },
+  {
+    "id": "alanon-30507034",
+    "fellowship": "ALANON",
+    "name": "Gifted With Life",
+    "day": 2,
+    "time": "12:00",
+    "end_time": "13:00",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "in_person",
+    "types": [
+      "C",
+      "X"
+    ],
+    "location": "First Congregational Church",
+    "formatted_address": "1050 E 23rd Ave, Eugene, OR 97405",
+    "latitude": 44.034481,
+    "longitude": -123.076595,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27",
+    "notes": "Enter the building next to the upper parking lot."
+  },
+  {
+    "id": "alanon-30834507",
+    "fellowship": "ALANON",
+    "name": "Wise Women's Wednesdays",
+    "day": 3,
+    "time": "19:00",
+    "end_time": "20:00",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "in_person",
+    "types": [
+      "C",
+      "W",
+      "X",
+      "FF"
+    ],
+    "location": "First Congregational Church",
+    "formatted_address": "1050 E 23rd Ave, Eugene, OR 97405",
+    "latitude": 44.034481,
+    "longitude": -123.076595,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27",
+    "notes": "Use the entrance near the parking lot on 23rd Ave, not the main entrance."
+  },
+  {
+    "id": "alanon-66587-tue",
+    "fellowship": "ALANON",
+    "name": "Steps to Change",
+    "day": 2,
+    "time": "09:00",
+    "end_time": "10:00",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "hybrid",
+    "types": [
+      "O",
+      "X",
+      "FF"
+    ],
+    "location": "Unitarian Universalist Church",
+    "formatted_address": "1685 W 13th Ave, Eugene, OR 97402",
+    "latitude": 44.045598,
+    "longitude": -123.117825,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27",
+    "notes": "Also meets on Zoom; Al-Anon's meeting search has how to join."
+  },
+  {
+    "id": "alanon-66587-thu",
+    "fellowship": "ALANON",
+    "name": "Steps to Change",
+    "day": 4,
+    "time": "09:00",
+    "end_time": "10:00",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "hybrid",
+    "types": [
+      "O",
+      "X",
+      "FF",
+      "BA"
+    ],
+    "location": "Unitarian Universalist Church",
+    "formatted_address": "1685 W 13th Ave, Eugene, OR 97402",
+    "latitude": 44.045598,
+    "longitude": -123.117825,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27",
+    "notes": "Also meets on Zoom; Al-Anon's meeting search has how to join."
+  },
+  {
+    "id": "alanon-30539362",
+    "fellowship": "ALANON",
+    "name": "Thursday Night New Perspectives",
+    "day": 4,
+    "time": "17:45",
+    "end_time": "18:45",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "in_person",
+    "types": [
+      "C",
+      "X"
+    ],
+    "location": "Temple Beth Israel",
+    "formatted_address": "1175 E 29th Ave, Eugene, OR 97403",
+    "latitude": 44.025725,
+    "longitude": -123.075473,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27"
+  },
+  {
+    "id": "alanon-64441",
+    "fellowship": "ALANON",
+    "name": "Steps for Growth",
+    "day": 1,
+    "time": "10:00",
+    "end_time": "11:00",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "hybrid",
+    "types": [
+      "C",
+      "X",
+      "BA"
+    ],
+    "location": "Eugene Friends Church",
+    "formatted_address": "3495 W 18th Ave, Eugene, OR 97402",
+    "latitude": 44.040748,
+    "longitude": -123.14388,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27",
+    "notes": "Ring the doorbell by the sandwich-board sign. Also meets on Zoom; Al-Anon's meeting search has how to join."
+  },
+  {
+    "id": "alanon-30583374",
+    "fellowship": "ALANON",
+    "name": "A Gathering of Men",
+    "day": 1,
+    "time": "18:00",
+    "end_time": "19:00",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "in_person",
+    "types": [
+      "O",
+      "M",
+      "X"
+    ],
+    "location": "Eugene Friends Church",
+    "formatted_address": "3495 W 18th Ave, Eugene, OR 97402",
+    "latitude": 44.040748,
+    "longitude": -123.14388,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27"
+  },
+  {
+    "id": "alanon-11801",
+    "fellowship": "ALANON",
+    "name": "Monday Noon",
+    "day": 1,
+    "time": "12:00",
+    "end_time": "13:00",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "in_person",
+    "types": [
+      "O"
+    ],
+    "location": "First Congregational Church",
+    "formatted_address": "1050 E 23rd Ave, Eugene, OR 97405",
+    "latitude": 44.034481,
+    "longitude": -123.076595,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27",
+    "notes": "Enter through the door from the upper parking lot."
+  },
+  {
+    "id": "alanon-30867177",
+    "fellowship": "ALANON",
+    "name": "Cover to Cover Literature Study",
+    "day": 2,
+    "time": "19:00",
+    "end_time": "20:00",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "in_person",
+    "types": [
+      "O"
+    ],
+    "location": "Eugene Friends Church",
+    "formatted_address": "3495 W 18th Ave, Eugene, OR 97402",
+    "latitude": 44.040748,
+    "longitude": -123.14388,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27"
+  },
+  {
+    "id": "alanon-30593671",
+    "fellowship": "ALANON",
+    "name": "The Three Legacies",
+    "day": 4,
+    "time": "12:00",
+    "end_time": "13:00",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "in_person",
+    "types": [
+      "O",
+      "X"
+    ],
+    "location": "Gilham Community Church",
+    "formatted_address": "3633 Gilham Rd, Eugene, OR 97408",
+    "latitude": 44.105098,
+    "longitude": -123.080824,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27",
+    "notes": "Closed on holidays."
+  },
+  {
+    "id": "alanon-asbury-wed",
+    "fellowship": "ALANON",
+    "name": "Recovering With Literature",
+    "day": 3,
+    "time": "12:00",
+    "end_time": "13:00",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "hybrid",
+    "types": [
+      "O"
+    ],
+    "location": "Asbury Methodist Church",
+    "formatted_address": "1090 Berntzen Rd, Eugene, OR 97402",
+    "latitude": 44.072633,
+    "longitude": -123.158149,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27",
+    "notes": "Turn toward the church onto Hawthorne Ave and use the second parking lot in back; double doors, first room on the left. Also meets on Zoom; Al-Anon's meeting search has how to join."
+  },
+  {
+    "id": "alanon-30627007",
+    "fellowship": "ALANON",
+    "name": "Keep It Simple Springfield",
+    "day": 1,
+    "time": "18:30",
+    "end_time": "19:30",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "in_person",
+    "types": [
+      "O",
+      "ASL"
+    ],
+    "location": "First Baptist Church",
+    "formatted_address": "1175 G St, Springfield, OR 97477",
+    "latitude": 44.052243,
+    "longitude": -123.009414,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27"
+  },
+  {
+    "id": "alanon-11938",
+    "fellowship": "ALANON",
+    "name": "Springfield Discussion",
+    "day": 2,
+    "time": "12:30",
+    "end_time": "13:30",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "in_person",
+    "types": [
+      "O",
+      "X",
+      "FF"
+    ],
+    "location": "Hope Lutheran Church",
+    "formatted_address": "1369 B St, Springfield, OR 97477",
+    "latitude": 44.047842,
+    "longitude": -123.005887,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27",
+    "notes": "Parking lot on the south side of the church."
+  },
+  {
+    "id": "alanon-51041",
+    "fellowship": "ALANON",
+    "name": "Saturday Morning First Step",
+    "day": 6,
+    "time": "09:00",
+    "end_time": "10:00",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "hybrid",
+    "types": [
+      "O",
+      "BE"
+    ],
+    "location": "Bethesda Lutheran Church",
+    "formatted_address": "4445 Royal Ave, Eugene, OR 97402",
+    "latitude": 44.070053,
+    "longitude": -123.171605,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27",
+    "notes": "Also meets on Zoom; Al-Anon's meeting search has how to join."
+  },
+  {
+    "id": "alanon-504139",
+    "fellowship": "ALANON",
+    "name": "River Road Recovery",
+    "day": 0,
+    "time": "18:00",
+    "end_time": "19:00",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "in_person",
+    "types": [
+      "O",
+      "X",
+      "FF"
+    ],
+    "location": "St. Matthew's Episcopal Church",
+    "formatted_address": "4110 River Rd, Eugene, OR 97404",
+    "latitude": 44.122902,
+    "longitude": -123.140385,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27"
+  },
+  {
+    "id": "alanon-501273",
+    "fellowship": "ALANON",
+    "name": "First Creswell",
+    "day": 3,
+    "time": "19:00",
+    "end_time": "20:00",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "hybrid",
+    "types": [
+      "O",
+      "X"
+    ],
+    "location": "Creswell Faith Center",
+    "formatted_address": "755 Front St, Creswell, OR 97426",
+    "latitude": 43.910103,
+    "longitude": -123.019139,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27",
+    "notes": "Also meets on Zoom; Al-Anon's meeting search has how to join."
+  },
+  {
+    "id": "alanon-halsey",
+    "fellowship": "ALANON",
+    "name": "Hope in Halsey",
+    "day": 5,
+    "time": "19:00",
+    "end_time": "20:00",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "in_person",
+    "types": [
+      "O"
+    ],
+    "location": "Halsey City Hall",
+    "formatted_address": "100 W Halsey St, Halsey, OR 97348",
+    "latitude": 44.38936,
+    "longitude": -123.110469,
+    "url": "https://al-anon.org/al-anon-meetings/find-an-al-anon-meeting/",
+    "updated": "2026-11-27",
+    "notes": "Doors open at 6:45. Park in front and walk down the hallway to the back room (AA meets in the front)."
   }
 ]
