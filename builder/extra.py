@@ -24,6 +24,7 @@ import ical
 
 DAYS = {d: i for i, d in enumerate(["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"])}
 DAYS.update({d[:3]: i for d, i in list(DAYS.items())})
+DAYS.update({str(i): i for i in range(7)})  # Meeting Guide's numbers: 0 = Sunday
 
 # Words the 12 Step Meeting List shows on public pages, back to Meeting Guide type codes.
 TYPE_CODES = {
@@ -297,7 +298,24 @@ HEADERS = {
     "zip": ["postal code", "zip", "zip code"], "types": ["types", "type"], "notes": ["notes"],
     "conference_url": ["conference url", "meeting link", "zoom link"], "conference_url_notes": ["conference url notes"],
     "conference_phone": ["conference phone"], "id": ["id", "slug"], "timezone": ["timezone"], "url": ["url"],
+    "latitude": ["latitude", "lat"], "longitude": ["longitude", "lng", "lon"],
 }
+
+
+def type_list(value):
+    """"O, D, BE", "Open; Discussion", or Meeting Guide's space-separated codes "D BE O"."""
+    value = value.strip()
+    if re.fullmatch(r"[A-Za-z0-9-]{1,5}(\s+[A-Za-z0-9-]{1,5})+", value):
+        return value.split()
+    return re.split(r"[,;]", value)
+
+
+def coordinate_pair(lat, lng):
+    try:
+        lat, lng = float(lat), float(lng)
+    except ValueError:
+        return None
+    return (round(lat, 6), round(lng, 6)) if -90 <= lat <= 90 and -180 <= lng <= 180 and (lat, lng) != (0, 0) else None
 
 
 def read_sheet(source, fetch_text, cache, ua):
@@ -319,7 +337,9 @@ def read_sheet(source, fetch_text, cache, ua):
         if not name or not start or not days:
             continue
         link = get(r, "conference_url")
-        street, city, state, zip_code = get(r, "address"), get(r, "city"), get(r, "state") or source["state"], get(r, "zip")
+        state = get(r, "state")
+        state = state if re.fullmatch(r"[A-Z]{2}", state) else source["state"]  # some rows say "USA"
+        street, city, zip_code = get(r, "address"), get(r, "city"), get(r, "zip")
         if not street and get(r, "formatted_address"):
             # "2590 1st St, Napa, CA 94558, USA" -> street, city, state, ZIP. A bare "Napa, CA, USA" has no street.
             parts = [p.strip() for p in get(r, "formatted_address").split(",")]
@@ -332,16 +352,20 @@ def read_sheet(source, fetch_text, cache, ua):
             m = {
                 "id": get(r, "id") or f"row{n}", "name": name, "day": day, "time": start,
                 "end_time": clock(get(r, "end_time")), "timezone": get(r, "timezone") or source["timezone"],
-                "types": type_codes(re.split(r"[,;]", get(r, "types"))), "location": get(r, "location"),
+                "types": type_codes(type_list(get(r, "types"))), "location": get(r, "location"),
                 "notes": get(r, "notes"), "conference_url": link if link.startswith("http") else "",
                 "conference_url_notes": get(r, "conference_url_notes"), "conference_phone": get(r, "conference_phone"),
                 "url": get(r, "url") or source.get("website"), "updated": today,
             }
+            point = coordinate_pair(get(r, "latitude"), get(r, "longitude"))
             if street:
                 m["formatted_address"] = ", ".join(x for x in (street, city, f"{state} {zip_code}".strip()) if x)
-                key = address_key(street, city, state, zip_code)
-                addresses[key] = (street, city, state, zip_code)
-                m["_geo"] = key
+                if point:  # the sheet already places it on the map
+                    m["latitude"], m["longitude"] = point
+                else:
+                    key = address_key(street, city, state, zip_code)
+                    addresses[key] = (street, city, state, zip_code)
+                    m["_geo"] = key
                 m["attendance_option"] = "hybrid" if m["conference_url"] else "in_person"
             elif m["conference_url"] or m["conference_phone"]:
                 m["attendance_option"] = "online"
@@ -365,7 +389,7 @@ def finish(meetings, addresses, cache, ua):
         point = cache.get(key) if key else None
         if point:
             m["latitude"], m["longitude"] = point
-        elif m.get("attendance_option") == "in_person":
+        elif m.get("attendance_option") == "in_person" and "latitude" not in m:
             continue  # can't place it on the map, and it has no online part
         out.append(m)
     return out

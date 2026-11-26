@@ -103,5 +103,16 @@
   "timezone": "America/Chicago",
   "area": "Illinois District 80",
   "refreshDays": 1
+ },
+ {
+  "id": "aa-neworleans-sheet",
+  "name": "Greater New Orleans AA",
+  "type": "sheet",
+  "sheet": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTYvVgEapDfVt_xfLsWIyk2t2fmD6xHubc7NaL3jgDcYngSJLDuQWPBSDnhSPkzPoH1Q2VBkMZH5_fC/pub?gid=687617754&single=true&output=csv",
+  "website": "https://aaneworleans.org/meetings",
+  "state": "LA",
+  "timezone": "America/Chicago",
+  "area": "New Orleans, LA",
+  "refreshDays": 1
  }
 ]

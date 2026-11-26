@@ -128,18 +128,6 @@
     "note": "Their list isn't shared in the format apps can read, so Many Paths links to it instead."
   },
   {
-    "id": "link-aa-new-orleans",
-    "name": "Greater New Orleans AA",
-    "fellowship": "AA",
-    "kind": "LINK",
-    "website": "https://aaneworleans.org/meetings",
-    "area": "New Orleans, LA",
-    "centerLat": 29.9841,
-    "centerLng": -90.1529,
-    "radiusMiles": 45,
-    "note": "Their list isn't shared in the format apps can read, so Many Paths links to it instead."
-  },
-  {
     "id": "link-aa-tampa",
     "name": "Tri-County Central Office (AA, Tampa area)",
     "fellowship": "AA",

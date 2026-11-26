@@ -440,8 +440,10 @@
   "id": "aa-aancmco-org",
   "name": "NC Mountain Central Office",
   "root": "https://wncaa.org",
-  "page": "https://wncaa.org/meetings/?tsml-day=any",
-  "status": "error: HTTP Error 404: Not Found"
+  "page": "https://wncaa.org/index.php/meetings/?tsml-day=any",
+  "status": "readable",
+  "final": "https://wncaa.org/index.php/meetings/?tsml-day=any",
+  "rows": 360
  },
  {
   "id": "aa-charlotteaa-org",
