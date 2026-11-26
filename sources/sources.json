@@ -117,6 +117,78 @@
     "note": "Use it for AA anywhere this app doesn't have a list yet."
   },
   {
+    "id": "link-aa-chicago",
+    "name": "Chicago Area Service Office (AA)",
+    "fellowship": "AA",
+    "kind": "LINK",
+    "website": "https://www.chicagoaa.org/meetings/",
+    "area": "Chicago, IL",
+    "centerLat": 41.8832,
+    "centerLng": -87.6324,
+    "radiusMiles": 45,
+    "note": "Their list isn't shared in the format apps can read, so Many Paths links to it instead."
+  },
+  {
+    "id": "link-aa-new-orleans",
+    "name": "Greater New Orleans AA",
+    "fellowship": "AA",
+    "kind": "LINK",
+    "website": "https://aaneworleans.org/meetings",
+    "area": "New Orleans, LA",
+    "centerLat": 29.9841,
+    "centerLng": -90.1529,
+    "radiusMiles": 45,
+    "note": "Their list isn't shared in the format apps can read, so Many Paths links to it instead."
+  },
+  {
+    "id": "link-aa-tampa",
+    "name": "Tri-County Central Office (AA, Tampa area)",
+    "fellowship": "AA",
+    "kind": "LINK",
+    "website": "http://www.aatampa-area.org",
+    "area": "Tampa, FL",
+    "centerLat": 27.9517,
+    "centerLng": -82.4588,
+    "radiusMiles": 35,
+    "note": "Their list isn't shared in the format apps can read, so Many Paths links to it instead."
+  },
+  {
+    "id": "link-aa-myrtle-beach",
+    "name": "Grand Strand Intergroup (AA)",
+    "fellowship": "AA",
+    "kind": "LINK",
+    "website": "http://www.aamyrtlebeach.org",
+    "area": "Myrtle Beach, SC",
+    "centerLat": 33.6954,
+    "centerLng": -78.8802,
+    "radiusMiles": 40,
+    "note": "Their list isn't shared in the format apps can read, so Many Paths links to it instead."
+  },
+  {
+    "id": "link-aa-sw-missouri",
+    "name": "Central Office of Southwest Missouri (AA)",
+    "fellowship": "AA",
+    "kind": "LINK",
+    "website": "http://www.aaswmo.org",
+    "area": "Springfield and Branson, MO",
+    "centerLat": 37.1565,
+    "centerLng": -93.2483,
+    "radiusMiles": 55,
+    "note": "Their list isn't shared in the format apps can read, so Many Paths links to it instead."
+  },
+  {
+    "id": "link-aa-oahu",
+    "name": "Oahu Intergroup of Hawaii (AA)",
+    "fellowship": "AA",
+    "kind": "LINK",
+    "website": "http://www.oahucentraloffice.com",
+    "area": "Oahu, HI",
+    "centerLat": 21.47,
+    "centerLng": -157.98,
+    "radiusMiles": 35,
+    "note": "Their list isn't shared in the format apps can read, so Many Paths links to it instead."
+  },
+  {
     "id": "link-al-anon",
     "name": "Al-Anon and Alateen meetings",
     "fellowship": "OTHER",
