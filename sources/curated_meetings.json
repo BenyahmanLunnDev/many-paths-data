@@ -63,9 +63,11 @@
     "phone": "(458) 544-0000",
     "notes": "Cultural activity night, such as drum-beater, dream catcher or necklace workshops. Check RCPC's calendar for the week's activity. RCPC is closed Dec 25 and Jan 1, though this is still on their calendar for those Fridays; call first.",
     "url": "https://restoredconnections.org/activities-and-events/",
-    "updated": "2026-10-14",
+    "updated": "2026-11-26",
     "skip": [
-      "2026-11-27"
+      "2026-11-27",
+      "2026-12-25",
+      "2027-01-01"
     ]
   },
   {
@@ -111,8 +113,7 @@
     "phone": "(458) 544-0000",
     "notes": "A structured meditation group focused on self-awareness, emotional understanding and personal growth through reflection and discussion. Not on RCPC's calendar after October 26, 2026.",
     "url": "https://restoredconnections.org/activities-and-events/",
-    "updated": "2026-10-14",
-    "until": "2026-10-26"
+    "updated": "2026-11-26"
   },
   {
     "id": "rcpc-professionals",
@@ -132,7 +133,35 @@
     "longitude": -123.0884605,
     "phone": "(458) 544-0000",
     "url": "https://restoredconnections.org/activities-and-events/",
-    "updated": "2026-10-14",
-    "notes": "Peer meeting for professionals in recovery. RCPC is closed Nov 26 and Dec 24, 2026, though this meeting is still on their calendar for those Thursdays; call first."
+    "updated": "2026-11-26",
+    "notes": "Peer meeting for professionals in recovery. RCPC is closed Nov 26 and Dec 24, 2026, though this meeting is still on their calendar for those Thursdays; call first.",
+    "skip": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-24"
+    ]
+  },
+  {
+    "id": "rcpc-pagans",
+    "fellowship": "OTHER",
+    "name": "Pagans in Recovery",
+    "day": 4,
+    "time": "16:00",
+    "end_time": "17:00",
+    "timezone": "America/Los_Angeles",
+    "attendance_option": "in_person",
+    "types": [],
+    "location": "Restored Connections Peer Center",
+    "formatted_address": "146 E 12th Ave, Eugene, OR 97401",
+    "latitude": 44.0464255,
+    "longitude": -123.0884605,
+    "phone": "(458) 544-0000",
+    "notes": "Hosted by Restored Connections Peer Center. RCPC posts closures on its calendar.",
+    "url": "https://restoredconnections.org/activities-and-events/",
+    "updated": "2026-11-26",
+    "skip": [
+      "2026-11-26",
+      "2026-12-24"
+    ]
   }
 ]

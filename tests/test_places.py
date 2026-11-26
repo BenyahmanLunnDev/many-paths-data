@@ -32,9 +32,14 @@ class PlacesTest(unittest.TestCase):
             Path(d, "a.json").write_text(json.dumps(meetings), encoding="utf-8")
             Path(d, "bad.json").write_text("{}", encoding="utf-8")
             index = places.build(d)
-        self.assertEqual(index["places"], [["Eugene", "OR", 44.045, -123.095, 4]])
+        towns = [p for p in index["places"] if p[0] not in {e[0] for e in places.EXTRA}]
+        self.assertEqual(towns, [["Eugene", "OR", 44.045, -123.095, 4]])
+        self.assertIn("Maui", [p[0] for p in index["places"]])
         self.assertEqual(index["zips"]["97402"], [44.04, -123.12])
         self.assertEqual(index["zips"]["97401"], [44.05, -123.09])
+
+    def test_plus_codes_come_off_the_town(self):
+        self.assertEqual(places.split_address("PW9G+RRP Hilo, HI 96720, USA"), ("Hilo", "HI", "96720"))
 
 
 if __name__ == "__main__":
