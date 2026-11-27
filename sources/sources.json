@@ -36,6 +36,16 @@
     "area": "Worldwide and online"
   },
   {
+    "id": "aa-online-intergroup",
+    "name": "Online Intergroup of AA",
+    "fellowship": "AA",
+    "kind": "TSML",
+    "url": "https://data.aa-intergroup.org/6436f5a3f03fdecef8459055.json",
+    "website": "https://aa-intergroup.org/meetings/",
+    "area": "Online, worldwide",
+    "allOnline": true
+  },
+  {
     "id": "cma",
     "name": "Crystal Meth Anonymous",
     "fellowship": "CMA",

@@ -157,6 +157,17 @@ def trim(record):
     return {k: v for k, v in record.items() if k in KEEP and v not in (None, "", [])}
 
 
+def online_only(record):
+    """A meeting from a list of online meetings (AA's Online Intergroup). Its "location" only repeats
+    the meeting's name, which the apps would take for a place and call it "in person + online".
+    Meetings that do give an address are left as they are."""
+    if record.get("formatted_address") or record.get("latitude") is not None:
+        return record
+    out = {k: v for k, v in record.items() if k not in ("location", "location_notes")}
+    out["attendance_option"] = "online"
+    return out
+
+
 def request_url(source, keys):
     if source["kind"] == "BMLT_ONLINE":
         base = source["url"].rstrip("/") + "/"
@@ -185,6 +196,8 @@ def fetch_one(source, keys):
             raise ValueError("not a meeting list")
         if source["kind"] == "TSML":
             data = [trim(m) for m in data if isinstance(m, dict)]
+            if source.get("allOnline"):
+                data = [online_only(m) for m in data]
         if not data:
             raise ValueError("empty list")
         return sid, data, {"status": "ok", "count": len(data), "fetchedAt": now()}

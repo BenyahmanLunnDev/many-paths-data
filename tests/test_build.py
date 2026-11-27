@@ -13,6 +13,13 @@ class BuildTest(unittest.TestCase):
                   "author": "admin", "notes": "", "types": []}
         self.assertEqual(build.trim(record), {"id": 1, "name": "Never Alone", "day": 2, "time": "19:00"})
 
+    def test_an_online_list_says_its_meetings_are_online(self):
+        zoom = {"name": "The Doctor's Opinion", "location": "The Doctor's Opinion", "conference_url": "https://zoom.us/j/1"}
+        self.assertEqual(build.online_only(zoom),
+                         {"name": "The Doctor's Opinion", "conference_url": "https://zoom.us/j/1", "attendance_option": "online"})
+        hall = {"name": "Big Book", "location": "Hall", "formatted_address": "1 Main St, Salem, OR", "latitude": 44.9}
+        self.assertEqual(build.online_only(hall), hall)
+
     def test_restricted_lists_need_a_key(self):
         evi = {"id": "aa-eviaa", "kind": "TSML", "url": "https://www.eviaa.org/wp-admin/admin-ajax.php?action=meetings",
                "restricted": True}
